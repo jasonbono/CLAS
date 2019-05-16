@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/clas/!svn/ver/279/trunk/io/recutl
+END
+reslun.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/reslun.inc
+END
+revini.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/revini.F
+END
+set_log.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/set_log.F
+END
+set_prompt.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/set_prompt.F
+END
+re_units_bd.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/re_units_bd.F
+END
+get_all_index.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/get_all_index.F
+END
+evtdmp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/evtdmp.F
+END
+revinm.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/revinm.F
+END
+bnktst.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bnktst.F
+END
+redit.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/redit.F
+END
+relog_unit.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/relog_unit.F
+END
+reslun.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/reslun.F
+END
+fpack_mess.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/fpack_mess.F
+END
+bm_get_fcup_scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bm_get_fcup_scale.c
+END
+bm_get_trig.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bm_get_trig.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/sconstruct
+END
+chklun.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/chklun.F
+END
+keep_prompt.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/keep_prompt.F
+END
+fndlun.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/fndlun.F
+END
+rdisplay.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rdisplay.F
+END
+rehvar.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rehvar.F
+END
+rehbk.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rehbk.F
+END
+fmcre.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/fmcre.F
+END
+run_control_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/run_control_set_def.F
+END
+rehist.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rehist.F
+END
+rernev.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rernev.F
+END
+bm_lumin.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bm_lumin.F
+END
+reword.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/reword.F
+END
+txt2bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/txt2bos.F
+END
+chkfpk.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/chkfpk.F
+END
+get_level.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/get_level.F
+END
+recmes_wrap.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/recmes_wrap.F
+END
+bm_pars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bm_pars.inc
+END
+rfatal.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rfatal.F
+END
+reclog.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/reclog.F
+END
+keep_level.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/keep_level.F
+END
+bnkdmp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bnkdmp.F
+END
+rerror.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rerror.F
+END
+namdmp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/namdmp.F
+END
+getcol.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/getcol.F
+END
+refill.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/refill.F
+END
+retcl_mes.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/retcl_mes.F
+END
+recmes.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/recmes.F
+END
+bm_read_trig.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/bm_read_trig.F
+END
+rehelp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/rehelp.F
+END
+get_prompt.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/get_prompt.F
+END
+get_log.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/get_log.F
+END
+remes_lev.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/remes_lev.F
+END
+set_level.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/set_level.F
+END
+recmes_cc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/recmes_cc.cc
+END
+hsttcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/hsttcl_init.F
+END
+recmop.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/recmop.F
+END
+keep_log.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/keep_log.F
+END
+getfmt.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/getfmt.F
+END
+get_seq.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/get_seq.F
+END
+reopen.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/recutl/reopen.F
+END

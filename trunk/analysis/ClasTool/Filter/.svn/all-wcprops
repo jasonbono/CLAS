@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Filter
+END
+TFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Filter/TFilter.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Filter/sconstruct
+END
+TFilterLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Filter/TFilterLinkDef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Filter/Makefile
+END
+TFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Filter/TFilter.cc
+END

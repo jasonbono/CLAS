@@ -1,0 +1,5 @@
+import os
+
+env = Environment(ENV = os.environ)
+
+env.Program(target = 'readgampsmall', source = 'readgampsmall.cpp')

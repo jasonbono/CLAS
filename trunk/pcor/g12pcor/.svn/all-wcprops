@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/1129/trunk/pcor/g12pcor
+END
+g12pcor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1129/trunk/pcor/g12pcor/g12pcor.cc
+END
+g12pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/1119/trunk/pcor/g12pcor/g12pcor.h
+END
+g12smear_mc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1065/trunk/pcor/g12pcor/g12smear_mc.cc
+END
+g12smear_mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1065/trunk/pcor/g12pcor/g12smear_mc.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1064/trunk/pcor/g12pcor/sconstruct
+END

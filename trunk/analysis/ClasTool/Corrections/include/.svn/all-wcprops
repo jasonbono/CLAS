@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/include
+END
+g11_taggercorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/include/g11_taggercorrection.h
+END
+g11a_correction_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/include/g11a_correction_data.h
+END
+g10_tagger_corrections.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/include/g10_tagger_corrections.h
+END
+g11a_correction_bins.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/include/g11a_correction_bins.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/c_cern
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/c_cern/sconstruct
+END
+clas_hplot.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/c_cern/clas_hplot.c
+END
+clas_cern.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/c_cern/clas_cern.c
+END

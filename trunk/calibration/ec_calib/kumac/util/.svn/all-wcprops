@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util
+END
+utilGet2DStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilGet2DStats.kumac
+END
+utilNtup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilNtup.kumac
+END
+utilFindNtup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilFindNtup.kumac
+END
+utilSetupFunctions.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetupFunctions.kumac
+END
+utilMakeMaskFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilMakeMaskFile.kumac
+END
+quot.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/quot.kumac
+END
+makespace.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/makespace.kumac
+END
+ws.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/ws.kumac
+END
+utilSetup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetup.kumac
+END
+unixtime.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/unixtime.kumac
+END
+utilCreateNtup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilCreateNtup.kumac
+END
+utilCreateCWN.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilCreateCWN.kumac
+END
+utilGetSliceStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilGetSliceStats.kumac
+END
+utilSetupGraphics.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetupGraphics.kumac
+END
+dark.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/dark.kumac
+END
+fit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/fit.kumac
+END
+utilSetupChains.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetupChains.kumac
+END
+post.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/post.kumac
+END
+ntup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/ntup.kumac
+END
+utilListToVector.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilListToVector.kumac
+END
+utilPlotMany.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilPlotMany.kumac
+END
+utilSetupGlobals.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetupGlobals.kumac
+END
+utilFindNtup.kumac.old
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilFindNtup.kumac.old
+END
+utilGetNtupStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilGetNtupStats.kumac
+END
+utilFindRun.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilFindRun.kumac
+END
+utilSetupVectors.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilSetupVectors.kumac
+END
+utilGenColormap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilGenColormap.kumac
+END
+font.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/font.kumac
+END
+gencolormap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/gencolormap.kumac
+END
+xybox.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/xybox.kumac
+END
+utilTestBurin.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/utilTestBurin.kumac
+END
+write.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/util/write.f
+END

@@ -1,0 +1,44 @@
+here is from wills skim.
+
+PROJECT: g12
+TRACK: analysis
+JOBNAME: ppskim_56799.B21
+COMMAND: /w/hallb/clasg12/jbono/skim/Oct6_11/kpkppim 56799.B21 -ofile1.bos
+INPUT_FILES: /w/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/56799.B21
+OUTPUT_DATA: file1.bos
+OUTPUT_TEMPLATE: /w/mss/clas/g12/production/pass1/user_skims/jbono/kpkppim/56799.B21.bos
+SINGLE_JOB: true
+DISK_SPACE: 5 GB
+TIME: 60
+MEMORY: 500 MB
+
+
+
+
+below here is from johanns skim
+
+
+<Request>
+<Project name="g12"/>
+<Track name="analysis"/>
+<Name name="workflow-bosskim-kpkp-001"/>
+<TimeLimit time="4" unit="hours"/>
+<Memory space="1024" unit="MB"/>
+<DiskSpace space="15" unit="GB"/>
+<Command><![CDATA[
+    /home/jbono/scripts/skim/workflow-bosskim-kpkp.py -c1 57317 A95 -iA20
+]]></Command>
+<Job>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A20" dest="input.57317.A20.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A21" dest="input.57317.A21.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A22" dest="input.57317.A22.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A23" dest="input.57317.A23.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A24" dest="input.57317.A24.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A25" dest="input.57317.A25.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A26" dest="input.57317.A26.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A27" dest="input.57317.A27.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A28" dest="input.57317.A28.bos"/>
+    <Input src="mss:/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/57317.A29" dest="input.57317.A29.bos"/>
+    <Output src="out.bos" dest="mss:/mss/clas/g12/production/pass1/user_skims/jbono/kpkp/kpkp.57317.A2X.bos"/>
+</Job>
+</Request>

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/DSTReader
+END
+TDSTReaderLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTReaderLinkDef.h
+END
+TStoreCloneLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TStoreCloneLinkDef.h
+END
+TStoreClone.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TStoreClone.cc
+END
+TDSTReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTReader.cc
+END
+TStoreClone.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TStoreClone.h
+END
+TDSTReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTReader.h
+END
+TDSTWriterLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTWriterLinkDef.h
+END
+TDSTWriter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTWriter.cc
+END
+TMiniDSTReaderLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTReaderLinkDef.h
+END
+TDSTWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TDSTWriter.h
+END
+TMiniDSTReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTReader.cc
+END
+TMiniDSTReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTReader.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/DSTReader/sconstruct
+END
+Load_Libs.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/Load_Libs.C
+END
+TMiniDSTWriterLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTWriterLinkDef.h
+END
+TMiniDSTWriter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTWriter.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/Makefile
+END
+TMiniDSTWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/DSTReader/TMiniDSTWriter.h
+END

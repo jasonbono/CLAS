@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test
+END
+test_map2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_map2.c
+END
+test_map_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_map_c.c
+END
+test1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test1.c
+END
+test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test2.c
+END
+test_sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_sig.c
+END
+test_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_write.c
+END
+test_big_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_big_write.c
+END
+test_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_read.c
+END
+test2_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test2_write.c
+END
+test_big_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test_big_read.c
+END
+test2_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/Map/test/test2_read.c
+END

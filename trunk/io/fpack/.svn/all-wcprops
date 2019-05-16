@@ -1,0 +1,1487 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack
+END
+fuclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fuclos.F
+END
+numtag.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/numtag.F
+END
+cploc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cploc.c
+END
+jscan.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/jscan.F
+END
+trakey.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/trakey.F
+END
+fcopy1.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fcopy1.F
+END
+fwdel.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwdel.F
+END
+indxa.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/indxa.F
+END
+frhdr.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frhdr.F
+END
+cclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cclose.c
+END
+lasele.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lasele.F
+END
+fclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fclos.F
+END
+frunit.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frunit.F
+END
+indxe.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/indxe.F
+END
+cnvr12.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr12.F
+END
+fwdir.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwdir.F
+END
+numtg3.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/numtg3.F
+END
+linein.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/linein.F
+END
+stmtll.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stmtll.F
+END
+timuyh.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/timuyh.F
+END
+xunlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/xunlock.c
+END
+fermes.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fermes.F
+END
+fwnet.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwnet.F
+END
+keyswap.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/keyswap.F
+END
+lcase.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lcase.c
+END
+fdtkey.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fdtkey.F
+END
+fpinfu.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpinfu.F
+END
+mkopen.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/mkopen.F
+END
+stmtpr.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stmtpr.F
+END
+frkec.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frkec.F
+END
+stmtnu.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stmtnu.F
+END
+fpwids.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpwids.F
+END
+fwkidx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwkidx.F
+END
+ifpfxp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifpfxp.F
+END
+fpdown.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpdown.F
+END
+fgclas.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fgclas.F
+END
+fphide.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fphide.F
+END
+ifpwnm.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifpwnm.F
+END
+latist.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/latist.F
+END
+openc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/openc.c
+END
+frword.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frword.F
+END
+achi.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/achi.F
+END
+icha.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/icha.F
+END
+fclpr.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fclpr.F
+END
+flogo.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/flogo.F
+END
+fpgthc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpgthc.c
+END
+fwhdr.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwhdr.F
+END
+fsclas.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fsclas.F
+END
+cnvr21.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr21.F
+END
+fnres.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fnres.F
+END
+ifbuse.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifbuse.F
+END
+laclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/laclos.F
+END
+cnvr42.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr42.F
+END
+fiparm.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fiparm.F
+END
+cget.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cget.c
+END
+lacpix.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lacpix.F
+END
+rewinc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/rewinc.c
+END
+fpclix.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpclix.F
+END
+fpclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpclos.F
+END
+frp.F
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frp.F
+END
+fpcpix.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpcpix.F
+END
+text32.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/text32.F
+END
+fpwait.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpwait.F
+END
+fuparm.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fuparm.F
+END
+cdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cdummy.c
+END
+ftitoh.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ftitoh.F
+END
+fwkec.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwkec.F
+END
+fpfstn.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpfstn.F
+END
+fuclox.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fuclox.F
+END
+fpstat.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpstat.F
+END
+fweod.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fweod.F
+END
+indxb.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/indxb.F
+END
+fparm.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fparm.F
+END
+fpkenc.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpkenc.F
+END
+laself.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/laself.F
+END
+frseqx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frseqx.F
+END
+fqcond.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fqcond.F
+END
+cnvr13.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr13.F
+END
+xlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/xlock.c
+END
+cnvr34.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr34.F
+END
+utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/utime.c
+END
+readf.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/readf.F
+END
+hltotx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/hltotx.F
+END
+laselr.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/laselr.F
+END
+txtohl.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/txtohl.F
+END
+fpcprk.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpcprk.F
+END
+fpkunc.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpkunc.F
+END
+ifptrb.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifptrb.F
+END
+ifocur.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifocur.F
+END
+frrecx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frrecx.F
+END
+fqxnam.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fqxnam.F
+END
+logerror.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/logerror.F
+END
+kreadf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kreadf.F
+END
+netincl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/netincl.h
+END
+fpunlk.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpunlk.F
+END
+lowcase.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lowcase.h
+END
+frdat.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frdat.F
+END
+timcnv.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/timcnv.F
+END
+writef.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/writef.F
+END
+copen.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/copen.c
+END
+fpsync.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsync.F
+END
+cskip.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cskip.c
+END
+fpfind.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpfind.F
+END
+kwritf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kwritf.F
+END
+lfexec.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lfexec.F
+END
+pnve.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/pnve.F
+END
+fwtest.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwtest.F
+END
+pnvi.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/pnvi.F
+END
+fcnvr.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fcnvr.F
+END
+krewf.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/krewf.F
+END
+stopsf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stopsf.F
+END
+frkex.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frkex.F
+END
+cnvr43.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr43.F
+END
+fcopy.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fcopy.F
+END
+fselct.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fselct.F
+END
+fpemsg.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpemsg.F
+END
+kbackf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kbackf.F
+END
+fwdato.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwdato.F
+END
+finitl.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/finitl.F
+END
+kdelf.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kdelf.F
+END
+freser.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/freser.F
+END
+timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/timeout.h
+END
+fprfls.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fprfls.F
+END
+fnrwnd.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fnrwnd.F
+END
+frkey2.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frkey2.F
+END
+fpcust.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpcust.F
+END
+fwdat.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwdat.F
+END
+indxc.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/indxc.F
+END
+frwseq.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frwseq.F
+END
+fclup.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fclup.F
+END
+closef.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/closef.F
+END
+cnvr31.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr31.F
+END
+cnvr14.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr14.F
+END
+fwname.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwname.F
+END
+fppriop.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fppriop.F
+END
+fswap.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fswap.F
+END
+lenb.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lenb.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/sconstruct
+END
+fwkex.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwkex.F
+END
+fpsclo.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsclo.F
+END
+lacopy.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/lacopy.F
+END
+mkclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/mkclos.F
+END
+frposb.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frposb.F
+END
+tindex.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/tindex.F
+END
+fpsope.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsope.F
+END
+fplockn.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fplockn.F
+END
+frconv.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frconv.F
+END
+frposf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frposf.F
+END
+fpiopen.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpiopen.F
+END
+fwkupd.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwkupd.F
+END
+fsclai.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fsclai.F
+END
+frrec.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frrec.F
+END
+fqfile.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fqfile.F
+END
+shiftin.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/shiftin.h
+END
+mkixop.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/mkixop.F
+END
+pnvf.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/pnvf.F
+END
+idebcd.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/idebcd.F
+END
+readc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/readc.c
+END
+cnvr23.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr23.F
+END
+laopen.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/laopen.F
+END
+frdato.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frdato.F
+END
+ioincl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ioincl.h
+END
+frseq.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frseq.F
+END
+frkey.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frkey.F
+END
+cpwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cpwait.c
+END
+fnclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fnclos.F
+END
+kreadc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kreadc.c
+END
+fpopen.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpopen.F
+END
+fwspec.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwspec.F
+END
+fchact.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fchact.F
+END
+ftctoi.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ftctoi.F
+END
+fcop11.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fcop11.F
+END
+writec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/writec.c
+END
+fqdupl.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fqdupl.F
+END
+fwparm.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwparm.F
+END
+frwdir.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frwdir.F
+END
+pnvz.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/pnvz.F
+END
+stmtst.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stmtst.F
+END
+inchck.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/inchck.F
+END
+kwritc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kwritc.c
+END
+ucase.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ucase.F
+END
+frwsp.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frwsp.F
+END
+frqkey.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frqkey.F
+END
+fpwmsg.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpwmsg.F
+END
+fprpth.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fprpth.F
+END
+texto.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/texto.F
+END
+frwnet.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frwnet.F
+END
+furwnd.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/furwnd.F
+END
+fnddir.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fnddir.F
+END
+fwrec.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwrec.F
+END
+openf.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/openf.F
+END
+xfsync.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/xfsync.c
+END
+frname.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frname.F
+END
+cput.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cput.c
+END
+fpgth.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpgth.F
+END
+krewc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/krewc.c
+END
+stopsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/stopsc.c
+END
+strtxt.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/strtxt.F
+END
+ichkdx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ichkdx.F
+END
+idxchk.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/idxchk.F
+END
+kbackc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kbackc.c
+END
+fwunit.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwunit.F
+END
+mknxop.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/mknxop.F
+END
+fpnxtn.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpnxtn.F
+END
+cnvr32.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr32.F
+END
+fplock.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fplock.F
+END
+fpwrix.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpwrix.F
+END
+crewnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/crewnd.c
+END
+kdelc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/kdelc.c
+END
+fipcop.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fipcop.F
+END
+fpflsh.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpflsh.F
+END
+frpair.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frpair.F
+END
+fpnxtv.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpnxtv.F
+END
+fpkidx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpkidx.F
+END
+fclpa.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fclpa.F
+END
+fwkey.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwkey.F
+END
+fwseq.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwseq.F
+END
+fpcktp.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpcktp.F
+END
+ffprev.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ffprev.F
+END
+strnum.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/strnum.F
+END
+rewinf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/rewinf.F
+END
+fwendx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwendx.F
+END
+fpsidx.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsidx.F
+END
+fthtoi.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fthtoi.F
+END
+fprkey.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fprkey.F
+END
+frtabc.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frtabc.F
+END
+fselcf.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fselcf.F
+END
+fwend.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fwend.F
+END
+closec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/closec.c
+END
+frdir.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frdir.F
+END
+pnvg.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/pnvg.F
+END
+cstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cstat.c
+END
+cnvr41.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr41.F
+END
+fselcr.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fselcr.F
+END
+frnet.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frnet.F
+END
+cnvr24.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/cnvr24.F
+END
+fpsupr.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsupr.F
+END
+ficlos.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ficlos.F
+END
+frwkec.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frwkec.F
+END
+frspec.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frspec.F
+END
+frhdro.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/frhdro.F
+END
+fpsrch.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fpsrch.F
+END
+fparmr.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/fparmr.F
+END
+ifrst.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ifrst.F
+END
+larwnd.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/larwnd.F
+END
+ftitoc.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/ftitoc.F
+END
+textd.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1106/trunk/io/fpack/textd.F
+END

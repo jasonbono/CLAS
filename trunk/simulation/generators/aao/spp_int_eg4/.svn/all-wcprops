@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4
+END
+mpintp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/mpintp.inc
+END
+int_ctrl_0.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_0.F
+END
+int_ctrl_1.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_1.F
+END
+splie2.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/splie2.F
+END
+int_ctrl_2.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_2.F
+END
+int_ctrl_3.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_3.F
+END
+daresbury.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/daresbury.F
+END
+lee_dummy1.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/lee_dummy1.F
+END
+int_ctrl_4.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_4.F
+END
+int_ctrl_5.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_5.F
+END
+read_sf_file.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/read_sf_file.F
+END
+sigma0_calc.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/sigma0_calc.F
+END
+int_ctrl_6.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_6.F
+END
+int_ctrl_7.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_7.F
+END
+int_ctrl_8.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_8.F
+END
+maid98_dummy.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/maid98_dummy.F
+END
+int_ctrl_9.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_9.F
+END
+ekine1.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/ekine1.F
+END
+spp_int.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/spp_int.F
+END
+ekine2.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/ekine2.F
+END
+int_ctrl_10.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_10.F
+END
+int_ctrl_11.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_11.F
+END
+acc_.cc.example
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/acc_.cc.example
+END
+int_ctrl_12.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/int_ctrl_12.F
+END
+legendre.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/legendre.F
+END
+acc_.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/acc_.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/Makefile
+END
+run_spp_eg1_8_3_15_14.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/run_spp_eg1_8_3_15_14.pl
+END
+spline.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/spline.F
+END
+xsection.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/xsection.F
+END
+multipole_amps.F.original
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/multipole_amps.F.original
+END
+maid_lee.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/maid_lee.F
+END
+aao_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/aao_test.F
+END
+cgln_amps.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/cgln_amps.F
+END
+splin2.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/splin2.F
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/README
+END
+fort.23
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/fort.23
+END
+splint.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/splint.F
+END
+txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/txt.txt
+END
+util.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/util.F
+END
+test.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/test.f
+END
+lee_dummy.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/lee_dummy.F
+END
+spp_interp.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/spp_interp.F
+END
+aaosig1.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/aaosig1.F
+END
+spp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/spp.inc
+END
+helicity_amps.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/helicity_amps.F
+END
+multipole_amps.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/multipole_amps.F
+END
+testepsilon.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/spp_int_eg4/testepsilon.in
+END

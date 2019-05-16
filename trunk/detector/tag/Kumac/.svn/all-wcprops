@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac
+END
+tag_put_map.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tag_put_map.f
+END
+pospeakt.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/pospeakt.kumac
+END
+cicalib.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/cicalib.kumac
+END
+tdccal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tdccal.kumac
+END
+dsdcal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/dsdcal.kumac
+END
+tag_get_map.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tag_get_map.F
+END
+modrf.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/modrf.f
+END
+tagtdccal.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tagtdccal.dat
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/README
+END
+tdcdisplay.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tdcdisplay.kumac
+END
+tagETcoinc.free
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tagETcoinc.free
+END
+lrdisplay.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/lrdisplay.kumac
+END
+Talign.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/Talign.F
+END
+tag_put_map.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tag_put_map.mk
+END
+pospeake.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/pospeake.kumac
+END
+README.calib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/README.calib
+END
+tag_get_map.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/Kumac/tag_get_map.mk
+END

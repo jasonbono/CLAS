@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming
+END
+loadSharedLibs.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming/loadSharedLibs.C
+END
+TPhotTimingLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming/TPhotTimingLinkDef.h
+END
+TPhotTiming.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming/TPhotTiming.cc
+END
+TPhotTiming.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming/TPhotTiming.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/TPhotTiming/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities
+END
+mapfrascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/mapfrascii.c
+END
+mapcreate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/mapcreate.c
+END
+mapfixit.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/mapfixit.c
+END
+mapdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/mapdump.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/sconstruct
+END
+maptoascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/maptoascii.c
+END
+mapmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/Map/utilities/mapmerge.c
+END

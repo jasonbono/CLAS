@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/detector/lac
+END
+ec1_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_last.F
+END
+ec1_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_init.F
+END
+ec1_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_control.inc
+END
+ec1rot.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1rot.F
+END
+ec1_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_brun.F
+END
+ec1tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1tcl_init.F
+END
+ec1_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_set_def.F
+END
+ec1dba_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1dba_init.F
+END
+ec1_bos_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_bos_io.F
+END
+ec1rt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1rt.inc
+END
+ec1general.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1general.PAR
+END
+ec1filecalib.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1filecalib.F
+END
+ec1geom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1geom.inc
+END
+ec1_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_evnt.F
+END
+ec1_pedstl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_pedstl.inc
+END
+ec1_calibr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_calibr.inc
+END
+ec1_cstuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1_cstuff.c
+END
+ec1filegeom.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1filegeom.F
+END
+ec1rot.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/ec1rot.inc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/lac/sconstruct
+END

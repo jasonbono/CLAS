@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor
+END
+pars_lambda_sector3.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector3.neg
+END
+pars_lambda_sector4.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector4.neg
+END
+pars_lambda_sector5.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector5.neg
+END
+beam_offset.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/beam_offset.dat
+END
+pars_lambda_sector6.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector6.neg
+END
+binning.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/binning.dat
+END
+pars_p_sector1.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector1.neg
+END
+pars_p_sector2.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector2.neg
+END
+pars_p_sector3.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector3.neg
+END
+pars_p_sector4.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector4.neg
+END
+pars_p_sector5.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector5.neg
+END
+pars_p_sector6.neg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector6.neg
+END
+g1c2445pcor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/g1c2445pcor.cc
+END
+g11pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/g11pcor.h
+END
+g1c2445pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/g1c2445pcor.h
+END
+pars_lambda_sector1.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector1.pos
+END
+pars_lambda_sector2.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector2.pos
+END
+pars_lambda_sector3.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector3.pos
+END
+pars_lambda_sector4.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector4.pos
+END
+pars_lambda_sector5.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector5.pos
+END
+pars_lambda_sector6.pos
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector6.pos
+END
+smear_mc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/smear_mc.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/Makefile_alt
+END
+pars_phi_sector1.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector1.neg
+END
+pars_phi_sector2.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector2.neg
+END
+pars_phi_sector3.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector3.neg
+END
+pars_phi_sector4.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector4.neg
+END
+pars_phi_sector5.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector5.neg
+END
+pars_phi_sector6.neg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector6.neg
+END
+tagger_cor.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/tagger_cor.dat
+END
+smear_mc_g1c2445.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/smear_mc_g1c2445.cc
+END
+pars_p_sector1.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector1.pos
+END
+pars_p_sector2.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector2.pos
+END
+smear_mc_g1c2445.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/smear_mc_g1c2445.h
+END
+pars_p_sector3.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector3.pos
+END
+pars_p_sector4.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector4.pos
+END
+pars_p_sector5.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector5.pos
+END
+pars_p_sector6.pos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_p_sector6.pos
+END
+g11pcor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/g11pcor.cc
+END
+pars_phi_sector1.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector1.pos
+END
+pars_phi_sector2.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector2.pos
+END
+pars_phi_sector3.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector3.pos
+END
+pars_phi_sector4.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector4.pos
+END
+pars_phi_sector5.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector5.pos
+END
+pars_phi_sector6.pos
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_phi_sector6.pos
+END
+smear_mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/smear_mc.h
+END
+pars_lambda_sector1.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector1.neg
+END
+pars_lambda_sector2.neg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/291/trunk/pcor/g11pcor/pars_lambda_sector2.neg
+END

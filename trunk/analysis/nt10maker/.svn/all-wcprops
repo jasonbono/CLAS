@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/3069/trunk/analysis/nt10maker
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/bcs.inc
+END
+fill_tgbi_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_tgbi_nt.F
+END
+PARTnt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/PARTnt.inc
+END
+seb_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/seb_nt.inc
+END
+fill_seb_ntn.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_seb_ntn.F
+END
+nt10maker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1773/trunk/analysis/nt10maker/nt10maker.cc
+END
+book_mvrt_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_mvrt_nt.F
+END
+fill_mc_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_mc_nt.F
+END
+book_tgpb_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_tgpb_nt.F
+END
+book_tagr_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_tagr_nt.F
+END
+ntup_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/3069/trunk/analysis/nt10maker/ntup_init.F
+END
+ntup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/ntup.inc
+END
+tgbi_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/tgbi_nt.inc
+END
+seb_ntn.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/seb_ntn.inc
+END
+wcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1493/trunk/analysis/nt10maker/wcs.inc
+END
+book_part_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_part_nt.F
+END
+filter_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/filter_wrapper.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/sconstruct
+END
+mc_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/mc_nt.inc
+END
+book_seb_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_seb_nt.F
+END
+filter.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/filter.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/Makefile
+END
+clas_nt_book.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/clas_nt_book.F
+END
+fill_mvrt_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_mvrt_nt.F
+END
+book_tgbi_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_tgbi_nt.F
+END
+book_seb_ntn.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_seb_ntn.F
+END
+fill_tgpb_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_tgpb_nt.F
+END
+fill_tagr_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_tagr_nt.F
+END
+book_mc_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/book_mc_nt.F
+END
+mvrt_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/mvrt_nt.inc
+END
+fill_part_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_part_nt.F
+END
+fill_seb_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/fill_seb_nt.F
+END
+tgpb_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/tgpb_nt.inc
+END
+tagr_nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/tagr_nt.inc
+END
+clas_nt_fill.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1492/trunk/analysis/nt10maker/clas_nt_fill.F
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/726/trunk/calibration/stn_calib
+END
+ProjectionFit.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/ProjectionFit.C
+END
+new_veff_fit.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/new_veff_fit.C
+END
+stn_calib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/stn_calib.cc
+END
+checkin.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/checkin.tcl
+END
+checkin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/checkin.rc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/726/trunk/calibration/stn_calib/sconstruct
+END
+concatenate5.0.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/concatenate5.0.C
+END
+ROOT.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/ROOT.h
+END
+stn_calib-g12.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/stn_calib-g12.cc
+END
+DOCA.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/DOCA.cc
+END
+DOCA.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/DOCA.h
+END
+test_stn_veff_fit.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/test_stn_veff_fit.C
+END
+stn_veff_fit.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/calibration/stn_calib/stn_veff_fit.C
+END

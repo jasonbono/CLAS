@@ -1,0 +1,31 @@
+PROJECT:  g12
+TRACK:  simulation
+JOBNAME:  g12_simulation_5.1_5.2.i1t7
+COMMAND:  generatescript_5.1_5.2.i1t7
+OTHER_FILES: /Users/Bono/clas/simulation/g12/mcProduction/s16/CREATED/generatescript_5.1_5.2.i1t7
+INPUT_FILES: 
+/Users/Bono/clas/simulation/g12/mcProduction/s16/CREATED/genr8input_5.1_5.2.i1t7
+/Users/Bono/clas/simulation/g12/mcProduction/s16/CREATED/ffread.g12
+/u/home/jbono/analyser/g12/LINKS/2kppim-v05
+/u/home/jbono/analyser/g12/LINKS/kpkp-v03
+/u/home/jbono/analyser/g12/LINKS/ga04
+
+OUTPUT_DATA: 2kppim-v05.gsim.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2kppim-v05_5.1_5.2.i1t7.gsim.a1c.root
+
+OUTPUT_DATA: kpkp-v03.gsim.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_kpkp-v03_5.1_5.2.i1t7.gsim.a1c.root
+
+OUTPUT_DATA: 2kppim-v05.gsim.gpp.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2kppim-v05_5.1_5.2.i1t7.gsim.gpp.a1c.root
+
+OUTPUT_DATA: kpkp-v03.gsim.gpp.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_kpkp-v03_5.1_5.2.i1t7.gsim.gpp.a1c.root
+
+OUTPUT_DATA: work.gamp.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_ga03_5.1_5.2.i1t7.gamp.root
+
+SINGLE_JOB: true
+DISK_SPACE: 10 GB
+TIME: 800
+MEMORY: 1 GB

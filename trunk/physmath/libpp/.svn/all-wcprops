@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/1441/trunk/physmath/libpp
+END
+massDep.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/massDep.cc
+END
+particleData.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1132/trunk/physmath/libpp/particleData.cc
+END
+lorentz.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/lorentz.cc
+END
+massDep.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/massDep.h
+END
+particleData.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/particleData.h
+END
+lorentz.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/lorentz.h
+END
+particle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1441/trunk/physmath/libpp/particle.cc
+END
+matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/matrix.cc
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/particle.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/matrix.h
+END
+pputil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1132/trunk/physmath/libpp/pputil.cc
+END
+Vec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/1224/trunk/physmath/libpp/Vec.cc
+END
+pputil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/pputil.h
+END
+Vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/Vec.h
+END
+event.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/event.cc
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/1006/trunk/physmath/libpp/event.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/physmath/libpp/sconstruct
+END

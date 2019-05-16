@@ -1,0 +1,16 @@
+#from build_system import environment
+
+#env = environment.env(deps=['root'])
+#env.load_dependency(['root'])
+
+import os
+
+env = Environment()
+
+env.ParseConfig('root-config --cflags --libs --glibs')
+
+source_list = env.Glob('*.[C]') 
+obj_list = ['ccylinder.o', 'intersept.o', 'targcell.o', 'stcounter.o']
+
+env.Program(target='mytest',source=['MergePlot.cc',source_list],objs=obj_list,LIBS='gfortran')
+

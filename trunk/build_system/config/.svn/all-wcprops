@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/2010/build_system/trunk/config
+END
+clas6.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1929/build_system/trunk/config/clas6.py
+END
+_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/275/build_system/trunk/config/_template.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/275/build_system/trunk/config/__init__.py
+END
+gfortran.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/431/build_system/trunk/config/gfortran.py
+END
+root.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1929/build_system/trunk/config/root.py
+END
+mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/275/build_system/trunk/config/mysql.py
+END
+boost.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2010/build_system/trunk/config/boost.py
+END
+cern.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/919/build_system/trunk/config/cern.py
+END

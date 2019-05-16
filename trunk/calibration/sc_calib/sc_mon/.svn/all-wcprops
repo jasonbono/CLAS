@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/800/trunk/calibration/sc_calib/sc_mon
+END
+sc_mon.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/739/trunk/calibration/sc_calib/sc_mon/sc_mon.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/800/trunk/calibration/sc_calib/sc_mon/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/739/trunk/calibration/sc_calib/sc_mon/Makefile
+END

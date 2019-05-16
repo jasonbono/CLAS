@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/279/trunk/detector/cc
+END
+ccechb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/ccechb.inc
+END
+cccalb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cccalb.inc
+END
+eidcontr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/eidcontr.inc
+END
+cc_rc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_rc.inc
+END
+cc_hrb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_hrb.inc
+END
+cc_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_last.F
+END
+ccschb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/ccschb.inc
+END
+cc_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_brun.F
+END
+cc_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_maputil.c
+END
+cc_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_evnt.F
+END
+clas2sect.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/clas2sect.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/sconstruct
+END
+sect2clas.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/sect2clas.F
+END
+eid_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/eid_init.F
+END
+cc_n2xec.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_n2xec.F
+END
+cc_compr.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_compr.F
+END
+cc_hrbf.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_hrbf.F
+END
+cc_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_stuff.c
+END
+cc_ncc_to_iec.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_ncc_to_iec.F
+END
+cc_tbt.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_tbt.F
+END
+cc_ncc_to_thet.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_ncc_to_thet.F
+END
+cc_bos_fill.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_bos_fill.F
+END
+cc_nphe.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_nphe.F
+END
+README.cc_tcl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/README.cc_tcl
+END
+cc_ech.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_ech.F
+END
+cc_bevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_bevt.F
+END
+cc_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_init.F
+END
+cc_revt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_revt.inc
+END
+cc_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_erun.F
+END
+eid0.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/eid0.F
+END
+cc_effic.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_effic.F
+END
+cc_sch.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_sch.F
+END
+cctbtb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cctbtb.inc
+END
+eid_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/eid_tcl_init.F
+END
+cc_makeCC01.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/cc/cc_makeCC01.c
+END

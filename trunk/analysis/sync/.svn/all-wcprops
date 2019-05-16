@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/1773/trunk/analysis/sync
+END
+sync.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/1773/trunk/analysis/sync/sync.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1009/trunk/analysis/sync/sconstruct
+END
+gsync.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/750/trunk/analysis/sync/gsync.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/1009/trunk/analysis/sync/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/750/trunk/analysis/sync/Makefile_alt
+END
+sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/750/trunk/analysis/sync/sync.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code
+END
+HV_ALL.EXE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/HV_ALL.EXE
+END
+move_script
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/move_script
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/Makefile
+END
+hv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/hv.c
+END

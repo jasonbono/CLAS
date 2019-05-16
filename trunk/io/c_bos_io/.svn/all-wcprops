@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io
+END
+read_ddl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/read_ddl.c
+END
+PrintEvent.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/PrintEvent.c
+END
+c_bos_io.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/c_bos_io.html
+END
+trackswim.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trackswim.c
+END
+vector4_o.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/vector4_o.cc
+END
+btr2dpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/btr2dpl.c
+END
+c_bos_io_intro.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/c_bos_io_intro.html
+END
+clascoord.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/clascoord.c
+END
+trackswim.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trackswim.h
+END
+nanCheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/nanCheck.c
+END
+linear_fit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/linear_fit.c
+END
+bosUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/bosUtilities.c
+END
+g3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/g3D.h
+END
+KineUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/KineUtil.c
+END
+TrigSector.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/TrigSector.c
+END
+demux_roc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/demux_roc.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/sconstruct
+END
+bid2btr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/bid2btr.c
+END
+btr2vec4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/btr2vec4.c
+END
+lorentz.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/lorentz.c
+END
+NumSL.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/NumSL.c
+END
+check_print.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/check_print.h
+END
+configure_banks.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/configure_banks.c
+END
+printBOS.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/printBOS.c
+END
+trac1.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac1.inc
+END
+trac2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac2.inc
+END
+trac3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac3.inc
+END
+trac4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac4.inc
+END
+make_check_print
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/make_check_print
+END
+makeRUNC.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/makeRUNC.c
+END
+trac5.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac5.inc
+END
+gottjack.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/gottjack.c
+END
+trac6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/trac6.inc
+END
+vector3_o.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/vector3_o.cc
+END
+ptracb.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/ptracb.f
+END
+readbos.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/readbos.c
+END
+gauss.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/gauss.c
+END
+vector3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/vector3.c
+END
+vector4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/vector4.c
+END
+BosWriteFail.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/c_bos_io/BosWriteFail.c
+END

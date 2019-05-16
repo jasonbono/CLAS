@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/3131/trunk/reconstruction/vertex
+END
+ssbdmat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/ssbdmat.cc
+END
+ssbdmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/ssbdmat.h
+END
+vertex_doca.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_doca.c
+END
+vertex_brun.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_brun.c
+END
+vertex_mtv_nobos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_mtv_nobos.cc
+END
+vertex_mtv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/3131/trunk/reconstruction/vertex/vertex_mtv.cc
+END
+vertex_hbtr_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_hbtr_multi.c
+END
+vertex_docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_docs.html
+END
+vertex_tbtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_tbtr.c
+END
+dmatrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/dmatrix.cc
+END
+make_vert.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/make_vert.c
+END
+dmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/dmatrix.h
+END
+vertex_nobos.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_nobos.h
+END
+vertex_tbtr_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_tbtr_multi.c
+END
+make_mvrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/3131/trunk/reconstruction/vertex/make_mvrt.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/sconstruct
+END
+vertex_hbtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/vertex/vertex_hbtr.c
+END

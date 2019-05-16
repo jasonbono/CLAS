@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1773/trunk/analysis/ClasTool/MapUtils
+END
+TQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TQuery.h
+END
+example1.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/example1.C
+END
+example2.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/example2.C
+END
+TRunIndexLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TRunIndexLinkDef.h
+END
+TRunIndex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TRunIndex.cc
+END
+TMapUtilsLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TMapUtilsLinkDef.h
+END
+TRunIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TRunIndex.h
+END
+TMapUtils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TMapUtils.cc
+END
+Load_MapLibs.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/Load_MapLibs.C
+END
+TMapUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TMapUtils.h
+END
+TDBItemLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TDBItemLinkDef.h
+END
+TQueryLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TQueryLinkDef.h
+END
+TDBItem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TDBItem.cc
+END
+TQuery.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TQuery.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/Makefile
+END
+TDBItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/MapUtils/TDBItem.h
+END

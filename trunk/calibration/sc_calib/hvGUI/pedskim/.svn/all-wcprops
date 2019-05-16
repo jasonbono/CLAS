@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim
+END
+TOF_FORWARD_COSMIC_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/TOF_FORWARD_COSMIC_filter.c
+END
+pedestals_2_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/pedestals_2_db.sh
+END
+get_ped_values.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/get_ped_values.C
+END
+env_var.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/env_var.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/pedskim/README
+END

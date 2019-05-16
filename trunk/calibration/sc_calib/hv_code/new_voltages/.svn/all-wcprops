@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/new_voltages
+END
+delta_v_pmts.hbook.sample
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/new_voltages/delta_v_pmts.hbook.sample
+END
+alarm.dat.sample
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/new_voltages/alarm.dat.sample
+END
+cosmic.procedure
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hv_code/new_voltages/cosmic.procedure
+END

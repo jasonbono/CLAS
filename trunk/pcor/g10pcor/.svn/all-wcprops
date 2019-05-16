@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor
+END
+g10pcor.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/g10pcor.F
+END
+Initg10pcor.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/Initg10pcor.c
+END
+g10pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/g10pcor.h
+END
+pcork0_nb.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/pcork0_nb.F
+END
+pcorpppm_tm.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/pcorpppm_tm.PAR
+END
+pcorpppm_tm.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/pcorpppm_tm.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/sconstruct
+END
+choosepcor.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/choosepcor.F
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/README
+END
+pcorpppm_mm.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/pcorpppm_mm.F
+END
+c_g10pcor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/pcor/g10pcor/c_g10pcor.c
+END

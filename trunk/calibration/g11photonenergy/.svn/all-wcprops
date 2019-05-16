@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/322/trunk/calibration/g11photonenergy
+END
+photonenergy.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/292/trunk/calibration/g11photonenergy/photonenergy.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/322/trunk/calibration/g11photonenergy/sconstruct
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/292/trunk/calibration/g11photonenergy/README
+END

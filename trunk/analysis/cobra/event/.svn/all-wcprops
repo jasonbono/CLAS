@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/event
+END
+Event.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Event.C
+END
+EventLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/EventLinkDef.h
+END
+Particle.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Particle.C
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Event.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/event/sconstruct
+END
+Photon.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Photon.C
+END
+Particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Particle.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/event/Makefile
+END
+Photon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/event/Photon.h
+END

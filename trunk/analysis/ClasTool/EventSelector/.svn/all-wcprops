@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/738/trunk/analysis/ClasTool/EventSelector
+END
+Makefile_depends
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/Makefile_depends
+END
+TCTEventSelectorLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTEventSelectorLinkDef.h
+END
+TCTOperationsLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTOperationsLinkDef.h
+END
+TCTEventSelector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTEventSelector.cc
+END
+TCTOperations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTOperations.cc
+END
+TCTEventSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTEventSelector.h
+END
+TCTVariableLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVariableLinkDef.h
+END
+TCTOperations.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/738/trunk/analysis/ClasTool/EventSelector/TCTOperations.h
+END
+TCTCompositeParticleLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTCompositeParticleLinkDef.h
+END
+TCTVariable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVariable.cc
+END
+TCTCompositeParticle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTCompositeParticle.cc
+END
+TCTStringUtilsLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTStringUtilsLinkDef.h
+END
+TCTStringUtils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTStringUtils.cc
+END
+TCTVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVariable.h
+END
+TCTCompositeParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTCompositeParticle.h
+END
+TCTStringUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTStringUtils.h
+END
+TCTVectorLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVectorLinkDef.h
+END
+TCTParticleLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTParticleLinkDef.h
+END
+TCTVector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVector.cc
+END
+TCTParticle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTParticle.cc
+END
+TCTVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTVector.h
+END
+TCTParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTParticle.h
+END
+TCTTextReaderLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTTextReaderLinkDef.h
+END
+TCTPhotonSelectorLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTPhotonSelectorLinkDef.h
+END
+TCTTextReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTTextReader.cc
+END
+TCTPhotonSelector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTPhotonSelector.cc
+END
+TCTTextReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTTextReader.h
+END
+TCTPhotonSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/TCTPhotonSelector.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/EventSelector/Makefile
+END

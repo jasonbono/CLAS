@@ -1,0 +1,36 @@
+beam > 2.800000 && beam < 3.812500 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.897556 +/- 0.00766359
+Old Cx = 0.188 +/- 0.354
+New Cx = 0.209458 +/- (0.394404 + 0.00144075 = 0.394407 )
+Total Systematic = 0.114521, Total Statistical = 0.394407, Total Error = 0.410697
+
+beam > 3.812500 && beam < 4.433500 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.885835 +/- 0.00819937
+Old Cx = -0.074 +/- 0.305
+New Cx = -0.083537 +/- (0.344308 + 0.000606753 = 0.344308 )
+Total Systematic = 0.114267, Total Statistical = 0.344308, Total Error = 0.362774
+
+beam > 4.433500 && beam < 5.500000 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.841876 +/- 0.00941024
+Old Cx = -0.018 +/- 0.272
+New Cx = -0.0213808 +/- (0.323088 + 0.000169384 = 0.323088 )
+Total Systematic = 0.114222, Total Statistical = 0.323088, Total Error = 0.342684
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -1.000000 && Xcmtheta < -0.610000 
+Dilution Factor  = 0.873646 +/- 0.00856727
+Old Cx = -0.184 +/- 0.29
+New Cx = -0.210612 +/- (0.331942 + 0.00157638 = 0.331946 )
+Total Systematic = 0.114525, Total Statistical = 0.331946, Total Error = 0.351147
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -0.610000 && Xcmtheta < -0.190000 
+Dilution Factor  = 0.87975 +/- 0.00837406
+Old Cx = 0.322 +/- 0.304
+New Cx = 0.366013 +/- (0.345553 + 0.00269645 = 0.345563 )
+Total Systematic = 0.11514, Total Statistical = 0.345563, Total Error = 0.36424
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -0.190000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.869501 +/- 0.00853967
+Old Cx = 0.01 +/- 0.344
+New Cx = 0.0115009 +/- (0.395629 + 8.53967e-05 = 0.395629 )
+Total Systematic = 0.11422, Total Statistical = 0.395629, Total Error = 0.411787
+

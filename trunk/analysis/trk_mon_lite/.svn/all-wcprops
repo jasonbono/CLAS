@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/613/trunk/analysis/trk_mon_lite
+END
+QualityTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/QualityTables.sql
+END
+hist_end.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/hist_end.cc
+END
+hist_fill.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/hist_fill.cc
+END
+hist_book.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/hist_book.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/613/trunk/analysis/trk_mon_lite/sconstruct
+END
+trk_mon_lite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/trk_mon_lite.cc
+END
+update_db.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/update_db.cc
+END
+trk_mon_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/trk_mon_lite.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon_lite/Makefile
+END

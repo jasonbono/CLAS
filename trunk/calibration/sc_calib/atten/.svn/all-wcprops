@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/736/trunk/calibration/sc_calib/atten
+END
+adc_const.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/adc_const.f
+END
+make_constants.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/make_constants.sh
+END
+mip.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/mip.kumac
+END
+LEFT_RIGHT_PUT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/LEFT_RIGHT_PUT.sh
+END
+Makefile.old
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/Makefile.old
+END
+atten1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/atten1
+END
+Makefile.alt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/Makefile.alt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/README
+END
+linear.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/linear.f
+END
+ADC_CONST_PUT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/ADC_CONST_PUT.sh
+END
+show_lr.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/show_lr.C
+END
+min_atten.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/min_atten.f
+END
+min_atten_main1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/min_atten_main1
+END
+tof_calib.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/tof_calib.c
+END
+min_atten_main.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/min_atten_main.f
+END
+tdc_lr.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/tdc_lr.kumac
+END
+window.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/window.kumac
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/736/trunk/calibration/sc_calib/atten/sconstruct
+END
+hscan_atten1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/hscan_atten1
+END
+tdc_lr_nostop.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/tdc_lr_nostop.kumac
+END
+getfinal.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/getfinal.C
+END
+atten.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/atten.kumac
+END
+hscan_atten.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/hscan_atten.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/atten/Makefile
+END

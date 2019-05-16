@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/3131/trunk/io/clasutil
+END
+atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/atexit.c
+END
+rename_file_vsn.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/rename_file_vsn.F
+END
+slate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/slate.inc
+END
+tcl_recsis_evalfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_recsis_evalfile.c
+END
+itlu2.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/itlu2.F
+END
+getunixtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/getunixtime.c
+END
+jtlu2.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/jtlu2.F
+END
+scatkill.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scatkill.c
+END
+getlogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/getlogin.c
+END
+tcl_linkvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_linkvar.c
+END
+intcha.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/intcha.F
+END
+find_arg.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/find_arg.F
+END
+async.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/async.c
+END
+gethostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/gethostname.c
+END
+scat_init_tcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scat_init_tcl.c
+END
+itlu.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/itlu.F
+END
+spaces.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/spaces.F
+END
+scatlocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scatlocate.c
+END
+ftrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/3131/trunk/io/clasutil/ftrip.c
+END
+pmass.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/pmass.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/sconstruct
+END
+tcl_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_eval.c
+END
+tcl_linklogical.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_linklogical.c
+END
+nchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/nchar.c
+END
+setc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/setc.c
+END
+scatdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scatdebug.c
+END
+startpgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/startpgm.c
+END
+get_param.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/get_param.F
+END
+clas_enable_fp_trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/clas_enable_fp_trap.c
+END
+find_param.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/find_param.F
+END
+pseudo_spa.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/pseudo_spa.F
+END
+chaint.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/chaint.F
+END
+f_init_tcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/f_init_tcl.c
+END
+tcl_linkint.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_linkint.c
+END
+dtlu.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/dtlu.F
+END
+strdupfort.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/strdupfort.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/signal.c
+END
+scatinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scatinit.c
+END
+dtluc.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/dtluc.F
+END
+jtlu.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/jtlu.F
+END
+scatprobe.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/scatprobe.c
+END
+lund_to_geant.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/lund_to_geant.F
+END
+fflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/fflush.c
+END
+tcl_linkdouble.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_linkdouble.c
+END
+geant_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/geant_util.c
+END
+pdg_to_geant.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/pdg_to_geant.F
+END
+dtlu2.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/dtlu2.F
+END
+geant_to_pdg.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/geant_to_pdg.F
+END
+tcl_linkchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/clasutil/tcl_linkchar.c
+END

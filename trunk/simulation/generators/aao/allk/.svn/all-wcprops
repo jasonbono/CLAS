@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/586/trunk/simulation/generators/aao/allk
+END
+cmami-q2.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/cmami-q2.tbl
+END
+allk_output.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/allk_output.F
+END
+do_fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/do_fits
+END
+allk_fit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/allk_fit.inc
+END
+allk_lib.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/585/trunk/simulation/generators/aao/allk/allk_lib.F
+END
+param-nsl.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-nsl.dat
+END
+hlee-PNpi.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hlee-PNpi.tbl
+END
+param-sl_1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-sl_1.dat
+END
+hlee-PPpi.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hlee-PPpi.tbl
+END
+param-sl_2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-sl_2.dat
+END
+param-nslsig.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-nslsig.dat
+END
+param-sl_3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-sl_3.dat
+END
+param-orig.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param-orig.dat
+END
+hmpol_hcrs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hmpol_hcrs.inc
+END
+param.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/param.dat
+END
+allk_mathlib.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/allk_mathlib.F
+END
+allk_fit.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/allk_fit.F
+END
+view_a_fit
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/view_a_fit
+END
+hmpol_hplt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hmpol_hplt.inc
+END
+higz_windows.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/higz_windows.dat
+END
+mp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/mp.inc
+END
+hmpol_val.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hmpol_val.inc
+END
+inp_fit.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/inp_fit.dat
+END
+hmpol_hlim.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hmpol_hlim.inc
+END
+cbates-q1.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/cbates-q1.tbl
+END
+mulamp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/mulamp.inc
+END
+hallk_lib.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/hallk_lib.F
+END
+fit_a_run
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/fit_a_run
+END
+allk.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/allk.F
+END
+inp_hallk.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/inp_hallk.dat
+END
+slfit_inp_save.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/slfit_inp_save.dat
+END
+memo.ps
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/342/trunk/simulation/generators/aao/allk/memo.ps
+END

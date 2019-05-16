@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils
+END
+BOS.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils/BOS.C
+END
+BOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils/BOS.h
+END
+SetCLASdata.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils/SetCLASdata.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils/Makefile
+END
+SetCLASdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/BOSutils/SetCLASdata.h
+END

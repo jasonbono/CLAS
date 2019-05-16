@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/Doxyfile
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/doxygen.css
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/SConstruct
+END
+TPE_EC_calib.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/TPE_EC_calib.tex
+END
+TPE_EC_bib.tex
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/TPE_EC_bib.tex
+END
+ROC12.tab
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/ROC12.tab
+END
+TPE_EC.tex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/TPE_EC.tex
+END
+go_htlatex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/1562/trunk/calibration/TPECal/docs/go_htlatex
+END

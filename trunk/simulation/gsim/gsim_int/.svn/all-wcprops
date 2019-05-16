@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/928/trunk/simulation/gsim/gsim_int
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/928/trunk/simulation/gsim/gsim_int/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/728/trunk/simulation/gsim/gsim_int/Makefile
+END
+gsim_int.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/728/trunk/simulation/gsim/gsim_int/gsim_int.F
+END

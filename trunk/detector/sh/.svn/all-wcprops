@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/560/trunk/detector/sh
+END
+sh_raw_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/560/trunk/detector/sh/sh_raw_read.c
+END
+sh.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh.h
+END
+sh_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_global.h
+END
+sh_brun.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_brun.c
+END
+sh_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_extern.h
+END
+sh_hb_pb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_hb_pb.c
+END
+sh_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_maputil.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/sh/sconstruct
+END
+sh_evnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_evnt.c
+END
+sh_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_util.c
+END
+sh_coor.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_coor.c
+END
+sh_raw2_e_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/502/trunk/detector/sh/sh_raw2_e_t.c
+END

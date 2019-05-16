@@ -1,0 +1,77 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/simulation/generators
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2012-01-17T14:30:16.531160Z
+3218
+puneetk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+aao
+dir
+
+clasDIS
+dir
+
+genr8
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:44.000000Z
+41623b3dbc38dd8b7fe2528dd16b43f9
+2011-07-12T18:00:44.456364Z
+2443
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+175
+
+dvcsgen
+dir
+
+ppgen
+dir
+

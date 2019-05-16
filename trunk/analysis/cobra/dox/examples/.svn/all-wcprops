@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples
+END
+Event_GetParticle.ex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Event_GetParticle.ex
+END
+ClasEvent_SetClasEvent_Bos.ex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasEvent_SetClasEvent_Bos.ex
+END
+ParticleArray_Conversion.ex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleArray_Conversion.ex
+END
+Event_Ctor.ex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Event_Ctor.ex
+END
+ClasEvent_Ctor.ex
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasEvent_Ctor.ex
+END
+ParticleTypes_GetParticle.ex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleTypes_GetParticle.ex
+END
+ParticleTypes_Instance.ex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleTypes_Instance.ex
+END
+PArrayElement_Conversion.ex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/PArrayElement_Conversion.ex
+END
+ClasRunInfo_g1c.ex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasRunInfo_g1c.ex
+END
+Event_Getters.ex
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Event_Getters.ex
+END
+ClasRuns_Instance.ex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasRuns_Instance.ex
+END
+ListOfParticles_pip.ex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ListOfParticles_pip.ex
+END
+ListOfParticles_format.ex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ListOfParticles_format.ex
+END
+TypeInfo_ParamType.ex
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/TypeInfo_ParamType.ex
+END
+ClasRuns_GetRunPeriod.ex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasRuns_GetRunPeriod.ex
+END
+KinFit.ex
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/KinFit.ex
+END
+Event_GetP4.ex
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Event_GetP4.ex
+END
+ParticleArray_Methods.ex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleArray_Methods.ex
+END
+ParticleArray_MultipleParts.ex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleArray_MultipleParts.ex
+END
+Event_Kinematics.ex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Event_Kinematics.ex
+END
+ParticleArray_Ctor.ex
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ParticleArray_Ctor.ex
+END
+ClasRunInfo_Format.ex
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasRunInfo_Format.ex
+END
+ClasEvent_SetClasEvent_CLASdata.ex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/ClasEvent_SetClasEvent_CLASdata.ex
+END
+Particle.ex
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/dox/examples/Particle.ex
+END

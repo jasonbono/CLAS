@@ -1,0 +1,31 @@
+ //constrain cascade and replot the k+ cascade masses
+  fourVec miss=beam + target - kp1 - kp2 - pim;
+  fourVec kkpi = kp1 + kp2 + pim;
+  fourVec miss2=beam + target - kp1 - kp2;
+  fourVec kk = kp1 + kp2;
+  fixbeamp = (CASCADE0_MASS*CASCADE0_MASS - kkpi.lenSq()  - PROTON_MASS*PROTON_MASS + 2*PROTON_MASS*kkpi.t())/(2*(PROTON_MASS+kkpi.z()-kkpi.t()));
+  fixbeam.set(fixbeamp,threeVec(0.0,0.0,fixbeamp));
+  double fixbeamp2 = (CASCADE_MASS*CASCADE_MASS - kk.lenSq()  - PROTON_MASS*PROTON_MASS + 2*PROTON_MASS*kk.t())/(2*(PROTON_MASS+kk.z()-kk.t()));
+  fourVec fixbeam2;
+  fixbeam2.set(fixbeamp2,threeVec(0.0,0.0,fixbeamp2));
+
+
+
+
+so fixbeam2 is for gamma p -> X kp kp
+i have myfixbeam  gamma p -> p pip pim
+
+
+so i have 
+
+ fourVec mymiss=beam + target - pip - pim;
+ fourVec pp = pip + pim;
+
+double fixbeamp2 = (CASCADE_MASS*CASCADE_MASS - kk.lenSq()  - PROTON_MASS*PROTON_MASS + 2*PROTON_MASS*kk.t())/(2*(PROTON_MASS+kk.z()-kk.t()))
+ goes to:
+
+double myfixbeamp = (PROTON_MASS*PROTON_MASS - pp.lenSq()  - PROTON_MASS*PROTON_MASS + 2*PROTON_MASS*pp.t())/(2*(PROTON_MASS+pp.z()-pp.t()))
+which is just
+
+
+myfixbeamp = ( 0.0 - pp.lenSq()  + 2*PROTON_MASS*pp.t())/(2*(PROTON_MASS+pp.z()-pp.t()))

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm
+END
+go_COOK
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm/go_COOK
+END
+go_Cerenkov
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm/go_Cerenkov
+END
+runs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm/runs.txt
+END
+cc.jsub
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm/cc.jsub
+END
+go_Fit
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/2113/trunk/calibration/cc_calib/Cerenkov/farm/go_Fit
+END

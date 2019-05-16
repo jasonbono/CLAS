@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem
+END
+gem_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_init.F
+END
+TPC_BOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/TPC_BOS.h
+END
+bofz.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/bofz.c
+END
+findwall.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/findwall.c
+END
+getS.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/getS.c
+END
+init_paths.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/init_paths.c
+END
+gem_evnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_evnt.c
+END
+baseline2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/baseline2.c
+END
+find_dt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/find_dt.c
+END
+removeRes.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/removeRes.c
+END
+mark_earliest_hits.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/mark_earliest_hits.c
+END
+rwfthl.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/rwfthl.F
+END
+sumtrackq.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/sumtrackq.c
+END
+helix_fit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/helix_fit.c
+END
+rtpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/rtpc.h
+END
+track_charge.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/track_charge.c
+END
+gem_emulate_bosio.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_emulate_bosio.c
+END
+getPhi.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/getPhi.c
+END
+BFieldMap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/BFieldMap.txt
+END
+weightData.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/weightData.c
+END
+setPadTimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/setPadTimes.c
+END
+gem_emulate_bosio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_emulate_bosio.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/sconstruct
+END
+chain_qpad.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/chain_qpad.c
+END
+linefit.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/linefit.c
+END
+chain_link.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/chain_link.c
+END
+gem_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_tcl_init.F
+END
+countPads.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/countPads.c
+END
+gem_tcl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_tcl.inc
+END
+gem_erun.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_erun.c
+END
+gem_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_brun.F
+END
+inside_rtpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/inside_rtpc.c
+END
+sum_hit_charges.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/sum_hit_charges.c
+END
+get_bonus_bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/get_bonus_bits.c
+END
+calcVolt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/calcVolt.c
+END
+reset_chains.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/reset_chains.c
+END
+clean_hits.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/clean_hits.c
+END
+track_qpad.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/track_qpad.c
+END
+circle_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/circle_int.c
+END
+sig2xyz.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/sig2xyz.c
+END
+readBFmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/readBFmap.c
+END
+read_BOS.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/read_BOS.cc
+END
+dca_to_helix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/dca_to_helix.c
+END
+calcChi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/calcChi.c
+END
+gem_set_default.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_set_default.c
+END
+hotPads.dat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/hotPads.dat
+END
+generate_pad_locations.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/generate_pad_locations.c
+END
+TPC_BOS.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/TPC_BOS.cc
+END
+gem_init_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/gem_init_c.c
+END
+event_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/gem/event_id.c
+END

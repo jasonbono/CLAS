@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun
+END
+echbloop.f
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/echbloop.f
+END
+cclib.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/cclib.f
+END
+sclib.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/sclib.f
+END
+ntuplib.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/ntuplib.f
+END
+eclib.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/eclib.f
+END
+reclib.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/reclib.f
+END
+ecloop.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/ecloop.f
+END
+ccrotate.f
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/ccrotate.f
+END
+callib.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/fun/callib.f
+END

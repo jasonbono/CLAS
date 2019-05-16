@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux
+END
+args.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux/args.hpp
+END
+bos_handle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux/bos_handle.cc
+END
+bos_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux/bos_handle.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux/sconstruct
+END
+skim-gflux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/2023/trunk/analysis/skim-gflux/skim-gflux.cpp
+END

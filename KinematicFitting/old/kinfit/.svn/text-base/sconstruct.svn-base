@@ -1,0 +1,9 @@
+from build_system import environment
+
+kfitEnv = environment.env(deps=['root'])
+kfitEnv.load_dependency(['root'])
+
+source_list = kfitEnv.Glob('*.[FC]')
+
+kfitLib = kfitEnv.library(target='kfit', source=source_list)
+

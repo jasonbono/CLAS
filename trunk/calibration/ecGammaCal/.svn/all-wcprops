@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3280/trunk/calibration/ecGammaCal
+END
+computeCalibConsts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/computeCalibConsts.cc
+END
+TCalibGamma.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibGamma.cc
+END
+TCalibECCalib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/TCalibECCalib.cc
+END
+rejectGammas.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/rejectGammas.cc
+END
+TCalibGamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibGamma.h
+END
+TCalibECReject.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/TCalibECReject.cc
+END
+TCalibECCalib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibECCalib.h
+END
+getCalibConsts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/getCalibConsts.cc
+END
+TCalibECReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibECReject.h
+END
+TCalibEC.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibEC.cc
+END
+calibEC.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/calibEC.pl
+END
+TCalibEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibEC.h
+END
+TCalibECFit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/TCalibECFit.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/README
+END
+filterGammas.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/filterGammas.cc
+END
+TCalibECFit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/290/trunk/calibration/ecGammaCal/TCalibECFit.h
+END
+fitTimeDifference.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/fitTimeDifference.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/3280/trunk/calibration/ecGammaCal/sconstruct
+END
+checkBetaNeutrals.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/checkBetaNeutrals.cc
+END
+putConstsInMap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/3277/trunk/calibration/ecGammaCal/putConstsInMap.cc
+END

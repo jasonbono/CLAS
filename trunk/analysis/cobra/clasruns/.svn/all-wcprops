@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1025/trunk/analysis/cobra/clasruns
+END
+ClasRunPeriod.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/clasruns/ClasRunPeriod.h
+END
+ClasRuns.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/clasruns/ClasRuns.h
+END
+ClasRunInfo.lst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/1025/trunk/analysis/cobra/clasruns/ClasRunInfo.lst
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/clasruns/sconstruct
+END
+ClasRuns.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/clasruns/ClasRuns.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasruns/Makefile
+END

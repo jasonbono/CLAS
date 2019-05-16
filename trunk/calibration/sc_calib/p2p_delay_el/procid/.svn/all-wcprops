@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid
+END
+TShowCalib.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/TShowCalib.cxx
+END
+physEVNT.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/physEVNT.cxx
+END
+NumStrips.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/NumStrips.cxx
+END
+TTofCalib.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/TTofCalib.cxx
+END
+TReaction.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/TReaction.cxx
+END
+TPhysProc.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/procid/TPhysProc.cxx
+END

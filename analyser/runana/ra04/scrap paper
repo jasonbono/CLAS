@@ -1,0 +1,18 @@
+skims:
+/w/mss/clas/g12/production/pass1/user_skims/jbono/{topology}
+
+analyzer:
+/u/home/jbono/analyser/g12/{topology}/NEWEST/build/bin/{topology}-ana
+
+analyzed-data:
+/w/hallb/clasg12/jbono/analyzed-data/root
+
+
+
+
+
+
+
+-t topology=TTT
+-M maxfiles=MMM
+-v version=VVV

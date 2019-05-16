@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/macros
+END
+Load_Libs.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/macros/Load_Libs.C
+END
+SetColorPalette.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/macros/SetColorPalette.C
+END
+Helper_Load_Libs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/macros/Helper_Load_Libs.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana
+END
+user_xtra.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_xtra.F
+END
+user_bevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_bevt.F
+END
+user_epics.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_epics.F
+END
+user_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_init.F
+END
+user_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_last.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/sconstruct
+END
+user_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_tcl_init.F
+END
+user_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_brun.F
+END
+hbook_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/hbook_init.F
+END
+user_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_erun.F
+END
+user_scaler.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_scaler.F
+END
+newinit.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/newinit.tcl
+END
+user_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/user_ana/user_evnt.F
+END

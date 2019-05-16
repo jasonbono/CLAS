@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/756/trunk/calibration/pdu
+END
+PulseTDC.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/PulseTDC.kumac
+END
+pduSC2map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pduSC2map.cc
+END
+sortDC.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/sortDC.cc
+END
+webDEADwire
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/webDEADwire
+END
+Makefile_4_pdu2map
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/Makefile_4_pdu2map
+END
+pdu2map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pdu2map.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/README
+END
+pduInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pduInit.c
+END
+pdu_hbk.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pdu_hbk.c
+END
+pdu2map.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pdu2map.h
+END
+CountHits.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/CountHits.c
+END
+pduSC.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pduSC.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/756/trunk/calibration/pdu/sconstruct
+END
+flag.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/flag.kumac
+END
+README_4_pdu2map
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/README_4_pdu2map
+END
+pdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pdu.c
+END
+doDC
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/doDC
+END
+doPDU
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/doPDU
+END
+FlagBadWires.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/FlagBadWires.c
+END
+PulseOcc.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/PulseOcc.kumac
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/Makefile
+END
+pdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/pdu.h
+END
+PulseConfig
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/752/trunk/calibration/pdu/PulseConfig
+END

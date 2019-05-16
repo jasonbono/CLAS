@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/detector/icf
+END
+clust.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/clust.h
+END
+ic.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic.h
+END
+ichb.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ichb.F
+END
+ic_group.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_group.F
+END
+iccalib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/iccalib.inc
+END
+ic.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic.inc
+END
+ic_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_tcl_init.F
+END
+ic_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_brun.F
+END
+ic_swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_swap.c
+END
+ic_e_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_e_t.F
+END
+ictcl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ictcl.inc
+END
+ic_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_maputil.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/sconstruct
+END
+ichit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ichit.inc
+END
+ic_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_evnt.F
+END
+clust.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/clust.c
+END
+icraw.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/icraw.inc
+END
+ic_read_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/icf/ic_read_bos.F
+END

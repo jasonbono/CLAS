@@ -1,0 +1,113 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/reconstruction
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2011-12-20T19:12:59.214526Z
+3131
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+eloss
+dir
+
+tagM
+dir
+
+recsis
+dir
+
+c_cern
+dir
+
+scat
+dir
+
+user_ana
+dir
+
+online_dummy
+dir
+
+ana
+dir
+
+trk
+dir
+
+a1
+dir
+
+epics
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:14.000000Z
+82e6d65fc3f404cd954bb4a30ab508b1
+2009-08-27T18:11:51.351714Z
+560
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+532
+
+gem
+dir
+
+seb
+dir
+
+scaler
+dir
+
+pid
+dir
+
+vertex
+dir
+
+user
+dir
+

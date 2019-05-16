@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/PartSieve
+END
+TPartSieveHistsLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieveHistsLinkDef.h
+END
+TPartSieveHists.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieveHists.cc
+END
+TPartSieveHists.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieveHists.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/PartSieve/sconstruct
+END
+Load_Libs.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/Load_Libs.C
+END
+TPartSieveLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieveLinkDef.h
+END
+TPartSieve.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieve.cc
+END
+TPartSieve.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/TPartSieve.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/PartSieve/Makefile
+END

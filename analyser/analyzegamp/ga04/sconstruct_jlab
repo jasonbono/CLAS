@@ -1,0 +1,4 @@
+from build_system import environment
+env = environment.env(deps=['root'])
+env.load_dependency({'root':['default_libs']})
+env.program(target = 'ga04', source = 'ga04.cpp')

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old
+END
+elast_gen.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old/elast_gen.F
+END
+elast_gen_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old/elast_gen_wrapper.cc
+END
+elast_gen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old/elast_gen.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old/Makefile
+END
+elast_gen_wr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/old/elast_gen_wr.cc
+END

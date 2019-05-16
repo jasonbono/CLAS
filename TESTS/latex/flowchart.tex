@@ -1,0 +1,48 @@
+
+
+\documentclass{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+\begin{document}
+\pagestyle{empty}
+
+\tikzstyle{decision} = [diamond, draw, fill=green!20,
+    text width=6em, text centered, node distance=1.5cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=red!20,
+    text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, very thick, color=black!50, -latex']
+\tikzstyle{cloud} = [draw, ellipse,fill=blue!20, node distance=2.5cm,
+    minimum height=2em]
+
+\begin{tikzpicture}[scale=2, node distance = 2cm, auto]
+    % Place nodes
+    \node [block] (gen) {Generate Events};
+    \node [block, node distance=5cm, left of=gen] (ana1) {Analyzer};
+    \node [block, node distance=3cm, right of=gen](gsim){Simulate detector acceptance};
+    \node [block, node distance=3cm,right of=gsim] (ana2) {Analyzer};
+    \node [decision, node distance=3cm, below of=gen] (tslope) {Acceptance corrected t-slope};
+    \node [cloud, node distance=6cm, below of=ana1] (data) {Data}; 
+    \node [block, node distance=3cm, below of=tslope] (acc) {Compute acceptance};
+    \node [decision, node distance=3cm , below right of=data] (pol) {Polarization};
+
+
+    \path 
+    	[line] (gen) edge                 node {} (ana1)
+    	[line] (gen) edge                 node {} (gsim)
+	[line] (gsim) edge                 node {} (ana2)
+	[line] (ana2) edge  [bend left=20pt]                node {Rec} (acc)
+	[line] (ana1) edge  [bend right=20pt]                node {Gen} (acc)
+	[line] (acc) edge                 node {} (tslope)
+	[line] (data) edge   [bend right=20pt]               node {} (tslope)
+	[line] (tslope) edge                 node {tslope input} (gen)
+	[line] (data) edge   [bend right=20pt]               node {} (pol)
+	[line] (acc) edge   [bend right=20pt]               node {} (pol)	
+	;	
+
+\end{tikzpicture}
+
+
+
+\end{document}

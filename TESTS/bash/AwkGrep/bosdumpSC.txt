@@ -1,0 +1,56 @@
+Group:	SC  	Sector:	3	Nhits:	1	Next ind:	4229
+ID:  19  TDCL: 250  ADCL: 748  TDCR: 541  ADCR: 354  
+
+Group:	SC  	Sector:	5	Nhits:	1	Next ind:	4238
+ID:  12  TDCL: 485  ADCL: 611  TDCR: 413  ADCR: 730  
+
+Group:	SC  	Sector:	6	Nhits:	3	Next ind:	0
+ID:   1  TDCL: 448  ADCL: 4246  TDCR: 457  ADCR: 4191  
+ID:  16  TDCL: 4102  ADCL:  20  TDCR: 4096  ADCR:  10  
+ID:  17  TDCL: 4094  ADCL:   3  TDCR: 4096  ADCR:   3  
+
+Group:	SC  	Sector:	1	Nhits:	1	Next ind:	4042
+ID:  11  TDCL: 278  ADCL: 1081  TDCR: 500  ADCR: 583  
+
+Group:	SC  	Sector:	4	Nhits:	1	Next ind:	4051
+ID:  10  TDCL: 360  ADCL: 684  TDCR: 448  ADCR: 529  
+
+Group:	SC  	Sector:	6	Nhits:	1	Next ind:	0
+ID:  22  TDCL: 495  ADCL: 1004  TDCR: 627  ADCR: 705  
+
+Group:	SC  	Sector:	3	Nhits:	1	Next ind:	0
+ID:  13  TDCL: 448  ADCL: 816  TDCR: 528  ADCR: 668  
+
+Group:	SC  	Sector:	1	Nhits:	1	Next ind:	3481
+ID:  13  TDCL: 474  ADCL: 787  TDCR: 351  ADCR: 1066  
+
+Group:	SC  	Sector:	4	Nhits:	1	Next ind:	0
+ID:  24  TDCL: 496  ADCL: 590  TDCR: 342  ADCR: 903  
+
+Group:	SC  	Sector:	2	Nhits:	3	Next ind:	0
+ID:   3  TDCL: 407  ADCL: 536  TDCR: 384  ADCR: 571  
+ID:   7  TDCL: 551  ADCL: 1028  TDCR: 512  ADCR: 1147  
+ID:  11  TDCL: 453  ADCL: 850  TDCR: 433  ADCR: 892  
+
+Group:	SC  	Sector:	4	Nhits:	3	Next ind:	3851
+ID:   6  TDCL: 1458  ADCL: 436  TDCR: 1426  ADCR: 474  
+ID:   7  TDCL: 1530  ADCL: 190  TDCR: 1511  ADCR: 203  
+ID:   8  TDCL: 1829  ADCL: 147  TDCR: 1790  ADCR: 164  
+
+Group:	SC  	Sector:	5	Nhits:	3	Next ind:	0
+ID:  11  TDCL: 442  ADCL: 608  TDCR: 360  ADCR: 782  
+ID:  12  TDCL: 600  ADCL: 274  TDCR: 543  ADCR: 324  
+ID:  28  TDCL: 509  ADCL: 566  TDCR: 431  ADCR: 730  
+
+Group:	SC  	Sector:	2	Nhits:	1	Next ind:	3964
+ID:  19  TDCL: 456  ADCL: 618  TDCR: 355  ADCR: 819  
+
+Group:	SC  	Sector:	4	Nhits:	1	Next ind:	0
+ID:  17  TDCL: 497  ADCL: 2255  TDCR: 523  ADCR: 2698  
+
+Group:	SC  	Sector:	3	Nhits:	1	Next ind:	3712
+ID:  19  TDCL: 396  ADCL: 859  TDCR: 536  ADCR: 587  
+
+Group:	SC  	Sector:	6	Nhits:	2	Next ind:	0
+ID:   6  TDCL: 410  ADCL: 670  TDCR: 428  ADCR: 623  
+ID:   8  TDCL: 512  ADCL: 901  TDCR: 539  ADCR: 835  

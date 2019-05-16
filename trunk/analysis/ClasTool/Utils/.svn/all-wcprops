@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Utils
+END
+Makefile_WriteMiniDst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Makefile_WriteMiniDst
+END
+Write_ROOT_Tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Write_ROOT_Tree.cc
+END
+Makefile_Scan_Epics
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Makefile_Scan_Epics
+END
+Write_MiniDST.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Write_MiniDST.cc
+END
+Makefile_WriteRootDst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Makefile_WriteRootDst
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Utils/sconstruct
+END
+Scan_Epics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Scan_Epics.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Utils/Makefile
+END

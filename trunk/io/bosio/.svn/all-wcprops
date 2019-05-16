@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/clas/!svn/ver/3131/trunk/io/bosio
+END
+boswdrop.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boswdrop.c
+END
+bosiodump.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/2998/trunk/io/bosio/bosiodump.c
+END
+ddwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ddwrite.c
+END
+bosioserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosioserver.c
+END
+bkfmt.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bkfmt.F
+END
+cclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/cclose.c
+END
+namind.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/namind.F
+END
+listn2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/listn2.c
+END
+cnvr41.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/cnvr41.c
+END
+fcnvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/fcnvr.c
+END
+bosnlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosnlink.c
+END
+etwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/etwrite.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/sconstruct
+END
+lcase.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/lcase.c
+END
+biofun.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/biofun.h
+END
+bosrewin.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosrewin.c
+END
+bosngarb.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosngarb.c
+END
+et2bos.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/et2bos.c
+END
+bosfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosfun.h
+END
+boslctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boslctl.c
+END
+dbgpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/dbgpr.h
+END
+nprnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/nprnt.F
+END
+openc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/openc.c
+END
+bosinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosinit.c
+END
+bosin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosin.c
+END
+bosout.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosout.c
+END
+cnvr14.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/cnvr14.c
+END
+readc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/readc.c
+END
+bosread.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/3131/trunk/io/bosio/bosread.c
+END
+fswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/fswap.c
+END
+bosiosubjob.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosiosubjob.c
+END
+ioincl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ioincl.h
+END
+cget.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/cget.c
+END
+fpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/2998/trunk/io/bosio/fpack.c
+END
+bosldrop.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosldrop.c
+END
+bosndrop.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosndrop.c
+END
+rewinc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/rewinc.c
+END
+fpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/2998/trunk/io/bosio/fpack.h
+END
+frconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/frconv.c
+END
+wbanc.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/wbanc.F
+END
+writec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/writec.c
+END
+boswprin.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boswprin.c
+END
+etread.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/etread.c
+END
+etbosio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/etbosio.c
+END
+bosiodiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosiodiff.c
+END
+boswcrea.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boswcrea.c
+END
+mamind.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/mamind.c
+END
+wbank.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/wbank.F
+END
+etbosio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/etbosio.h
+END
+listn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/listn1.c
+END
+cput.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/cput.c
+END
+stopsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/stopsc.c
+END
+nlink.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/nlink.F
+END
+crewnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/crewnd.c
+END
+bosmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosmem.c
+END
+bosnform.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosnform.c
+END
+ftctoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ftctoi.c
+END
+boswrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boswrite.c
+END
+bos2et.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bos2et.c
+END
+namen.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/namen.c
+END
+bosfor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosfor.h
+END
+boslname.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boslname.c
+END
+netincl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/netincl.h
+END
+copen.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/copen.c
+END
+bosopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/340/trunk/io/bosio/bosopen.c
+END
+ddwalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ddwalk.c
+END
+boswgarb.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boswgarb.c
+END
+bosngetf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosngetf.c
+END
+closec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/closec.c
+END
+namez.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/namez.c
+END
+bcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bcs.h
+END
+bosio.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosio.h
+END
+ddgetlogrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ddgetlogrec.c
+END
+bosldump.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosldump.c
+END
+ndrop.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/ndrop.F
+END
+nindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/nindex.c
+END
+bos.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bos.h
+END
+boslprin.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/boslprin.c
+END
+bosnprin.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosnprin.c
+END
+bosncrea.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosncrea.c
+END
+nbank.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/nbank.F
+END
+nlist.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/nlist.F
+END
+fthtoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/fthtoi.c
+END
+bosfmt.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/bosio/bosfmt.F
+END

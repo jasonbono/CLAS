@@ -1,0 +1,13 @@
+import os
+
+env = Environment(ENV = os.environ)
+
+
+
+# root example
+env.ParseConfig('root-config --cflags')
+env.ParseConfig('root-config --libs')
+env.ParseConfig('root-config --glibs')
+
+
+env.Program(target = 'plotgamp', source = 'plotgamp.cpp')

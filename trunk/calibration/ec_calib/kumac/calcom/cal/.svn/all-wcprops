@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal
+END
+calSetup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calSetup.kumac
+END
+calInitMap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calInitMap.kumac
+END
+calReadTAB.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calReadTAB.kumac
+END
+calPedAnal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calPedAnal.kumac
+END
+calPutMap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calPutMap.kumac
+END
+calGainStudy.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calGainStudy.kumac
+END
+calGainAnal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calGainAnal.kumac
+END
+calman.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calman.kumac
+END
+calGetVec.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calGetVec.kumac
+END
+calGetMap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calGetMap.kumac
+END
+calAnalRootFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calAnalRootFile.kumac
+END
+calOldWriteSparTable.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calOldWriteSparTable.kumac
+END
+calWriteSparTable.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calWriteSparTable.kumac
+END
+calUpdateInitfiles.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calUpdateInitfiles.kumac
+END
+calWriteRootFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/cal/calWriteRootFile.kumac
+END

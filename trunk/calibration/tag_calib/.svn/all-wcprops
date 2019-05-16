@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/1556/trunk/calibration/tag_calib
+END
+JBosBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/JBosBank.h
+END
+rf_check.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/rf_check.C
+END
+checkin.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/checkin.tcl
+END
+tagraw.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/tagraw.cxx
+END
+ci_adjust.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/ci_adjust.C
+END
+tci.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/tci.sh
+END
+DOCA.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1556/trunk/calibration/tag_calib/DOCA.h
+END
+JTagrFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/JTagrFile.h
+END
+tagslope.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/tagslope.C
+END
+edt_fit.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/edt_fit.C
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/sconstruct
+END
+DOCA.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/DOCA.cxx
+END
+JTagrFile.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/JTagrFile.cxx
+END
+ROOT.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/ROOT.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/README.txt
+END
+ETmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/calibration/tag_calib/ETmatch.h
+END

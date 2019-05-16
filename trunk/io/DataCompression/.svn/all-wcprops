@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1019/trunk/io/DataCompression
+END
+CLASdatadump.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdatadump.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1019/trunk/io/DataCompression/sconstruct
+END
+CompressCLASdata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CompressCLASdata.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/Makefile
+END

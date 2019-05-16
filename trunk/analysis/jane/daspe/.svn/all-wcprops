@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/362/trunk/analysis/jane/daspe
+END
+sum.F_leg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/sum.F_leg
+END
+etta.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/etta.F
+END
+daspe_fit.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_fit.F
+END
+identify.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/identify.inc
+END
+daspe_main.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_main.F
+END
+mcauch.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/mcauch.F
+END
+mult_ana.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/mult_ana.F
+END
+im_a.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/im_a.F
+END
+re_phi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/re_phi.F
+END
+daspetab.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspetab.inc
+END
+cross_sec.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/cross_sec.inc
+END
+daspe_tab_save
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_tab_save
+END
+gpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/gpar.inc
+END
+results
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/results
+END
+breit_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/breit_ampl.F
+END
+daspe_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_init.F
+END
+multampl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/multampl.inc
+END
+daspe_run.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_run.F
+END
+daspe_evgen.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_evgen.F
+END
+hel_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/hel_ampl.F
+END
+interp1.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/interp1.F
+END
+daspe_rephi.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_rephi.F
+END
+total.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/total.F
+END
+ettapar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/ettapar.inc
+END
+resonances.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/resonances.inc
+END
+add_ampl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/add_ampl.inc
+END
+daspe_fit.F_leg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_fit.F_leg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/Makefile
+END
+int_func.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/int_func.inc
+END
+imphi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/imphi.inc
+END
+remult.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/remult.inc
+END
+inpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/inpar.inc
+END
+integr_f.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/integr_f.F
+END
+helicity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/helicity.inc
+END
+abort_rut.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/abort_rut.c
+END
+bornterms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/bornterms.inc
+END
+lang_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/lang_def.F
+END
+mgauss.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/mgauss.F
+END
+fint.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/fint.F
+END
+born.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/362/trunk/analysis/jane/daspe/born.F
+END
+cross_sections.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/cross_sections.F
+END
+daspe_ini_point.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_ini_point.F
+END
+sum.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/sum.F
+END
+delta_dat.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/delta_dat.inc
+END
+daspe_fmin.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_fmin.F
+END
+im_phi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/im_phi.F
+END
+hom.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/hom.dat
+END
+re_mult.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/re_mult.F
+END
+safe_exit.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/safe_exit.F
+END
+fit_par.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/fit_par.inc
+END
+daspe_data.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_data.inc
+END
+total.F_leg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/total.F_leg
+END
+integr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/integr.inc
+END
+multipoles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/multipoles.inc
+END
+daspe_tab.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/daspe_tab.F
+END
+read_multables.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/read_multables.F
+END
+to_integration.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/to_integration.F
+END
+janr_results
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/janr_results
+END
+ima.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/361/trunk/analysis/jane/daspe/ima.inc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff
+END
+hvdiff_coupled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff/hvdiff_coupled.cc
+END
+hvdiff.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff/hvdiff.cc
+END
+print2500s.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff/print2500s.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/hvGUI/hvdiff/README
+END

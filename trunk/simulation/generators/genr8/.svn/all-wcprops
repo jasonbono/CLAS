@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8
+END
+etapr_pip.input
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/etapr_pip.input
+END
+genkin.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/genkin.h
+END
+genr8.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/genr8.c
+END
+rho.input
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/rho.input
+END
+KstarKstar.input
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/KstarKstar.input
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/sconstruct
+END
+n_pi-pi+pi+.input
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/n_pi-pi+pi+.input
+END
+ParticleType.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/ParticleType.h
+END
+genkin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/genkin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/701/trunk/simulation/generators/genr8/Makefile
+END

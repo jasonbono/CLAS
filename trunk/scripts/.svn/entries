@@ -1,0 +1,77 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/scripts
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2009-09-02T18:20:12.595314Z
+578
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+build
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:16:04.000000Z
+372d6e03faf60b314faf4e16cd434c7a
+2009-04-06T16:04:19.208141Z
+279
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+241
+
+cooking
+dir
+
+misc
+dir
+
+makeMonitorProg
+dir
+
+makeNtupleProg
+dir
+

@@ -1,0 +1,119 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/io
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2012-02-21T21:30:42.192195Z
+3347
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+clasutil
+dir
+
+txtEvent
+dir
+
+bos
+dir
+
+fpack
+dir
+
+DataCompression
+dir
+
+countbos
+dir
+
+part2gamp
+dir
+
+recutl
+dir
+
+c_sql
+dir
+
+itape
+dir
+
+fputil
+dir
+
+caldb
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:16:03.000000Z
+cbdf2369b8f5fd0242640270d5709f76
+2011-12-20T19:12:59.214526Z
+3131
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688
+
+bosdump
+dir
+
+fdump
+dir
+
+catbos
+dir
+
+bosio
+dir
+
+c_bos_io
+dir
+
+bankdefs
+dir
+
+Map
+dir
+

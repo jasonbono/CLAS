@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc
+END
+mProcessRun
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/mProcessRun
+END
+toipnperl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/toipnperl.sh
+END
+cvs_rel_diff.perl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_rel_diff.perl
+END
+comcount
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/comcount
+END
+smake_all
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/smake_all
+END
+ddlcompress.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ddlcompress.pl
+END
+CopyParm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/CopyParm
+END
+runE1-3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/runE1-3
+END
+ddl2bank.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ddl2bank.pl
+END
+ddl2h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ddl2h
+END
+tclfind.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/tclfind.pl
+END
+smake
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/smake
+END
+typedef
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/typedef
+END
+release_docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/release_docs.sh
+END
+ddl2print
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ddl2print
+END
+cvscount
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvscount
+END
+template.bourne
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.bourne
+END
+vdir
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/vdir
+END
+findRun
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/findRun
+END
+build_log_errors.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/build_log_errors.sh
+END
+scalerl.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/scalerl.tcl
+END
+set_tag_param
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/set_tag_param
+END
+cvs_rev.perl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_rev.perl
+END
+GoodRuns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/GoodRuns.pl
+END
+makeMake
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makeMake
+END
+inc2h.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/inc2h.pl
+END
+trk_db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/trk_db.pl
+END
+cvs_date_diff.perl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_date_diff.perl
+END
+gscalers2map
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/gscalers2map
+END
+IsGoodRun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/IsGoodRun.pl
+END
+template.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.inc
+END
+s1stl.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/s1stl.tcl
+END
+vdirs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/vdirs
+END
+nextProcessE1Run
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/nextProcessE1Run
+END
+scaler_db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/scaler_db.pl
+END
+call_tree
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/call_tree
+END
+plot_strip_chart.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/plot_strip_chart.pl
+END
+g77lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/g77lib
+END
+makelab
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makelab
+END
+logbook
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/logbook
+END
+scaler_scripts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/scaler_scripts.txt
+END
+template.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.F
+END
+update_banks
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/update_banks
+END
+makeE1File
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makeE1File
+END
+dep_report
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/dep_report
+END
+get_doc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/get_doc
+END
+clasenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/clasenv.sh
+END
+db2dat_file.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/db2dat_file.pl
+END
+scan_map_values.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/scan_map_values.pl
+END
+makeE1Sub
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makeE1Sub
+END
+cview
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cview
+END
+lookatrun
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/lookatrun
+END
+makent
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makent
+END
+rename.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/rename.sh
+END
+prod_build
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/prod_build
+END
+template.cshell
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.cshell
+END
+fixhtml.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/fixhtml.pl
+END
+runA1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/runA1
+END
+template.csh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.csh
+END
+clas_env_nightly
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/clas_env_nightly
+END
+cvs_com.perl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_com.perl
+END
+runE1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/runE1
+END
+template.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.c
+END
+build_log_errors.perl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/build_log_errors.perl
+END
+cvs_rel_diff_err.perl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_rel_diff_err.perl
+END
+rcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/rcs.inc
+END
+CookedFiles.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/CookedFiles.pl
+END
+nextProcessRun
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/nextProcessRun
+END
+ProcessRun
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ProcessRun
+END
+cvs_rev_tag.perl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_rev_tag.perl
+END
+phm_db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/phm_db.pl
+END
+GetRun
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/GetRun
+END
+chkdsk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/chkdsk
+END
+PutFile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/PutFile
+END
+lgrep
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/lgrep
+END
+ddl2proto
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ddl2proto
+END
+PED_PUT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/PED_PUT.sh
+END
+findObj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/findObj
+END
+rcs.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/rcs.F
+END
+s1st.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/s1st.tcl
+END
+template.perl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.perl
+END
+emon2ps.exp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/emon2ps.exp
+END
+sizeofjget.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/sizeofjget.pl
+END
+diff_release.csh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/diff_release.csh
+END
+cexport
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cexport
+END
+cmslog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cmslog
+END
+getdb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/getdb
+END
+xgrep
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/xgrep
+END
+makeSub
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/makeSub
+END
+ProcessE1Run
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/ProcessE1Run
+END
+scaler.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/scaler.tcl
+END
+dump_map_values.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/dump_map_values.pl
+END
+pid_db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/pid_db.pl
+END
+db1.85to2.0.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/db1.85to2.0.pl
+END
+tosaclayperl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/tosaclayperl
+END
+totaldb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/totaldb.pl
+END
+mktmpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/mktmpl
+END
+cvs_rev_date.perl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/cvs_rev_date.perl
+END
+mains
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/mains
+END
+mCopyParm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/mCopyParm
+END
+CurrentRun
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/CurrentRun
+END
+massFarm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/massFarm
+END
+makeht
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/scripts/misc/makeht
+END
+db2dat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/db2dat.pl
+END
+insert_rcs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/insert_rcs
+END
+a1Sub
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/a1Sub
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/misc/template.html
+END

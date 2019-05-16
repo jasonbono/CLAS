@@ -1,0 +1,39 @@
+#
+#   /Users/Bono/clas/simulation/g12/full/jbono/sim_v00 - replaced by directory path
+#   3.4_3.5 - replaced by file name
+#   YYY - replaced by path/filename
+#   ZZZ - replaced by path/tag_file
+PROJECT         g11cascademc
+COMMAND         /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/farmscript/farmscript_3.4_3.5.v0
+JOBNAME         g11cascademc_eg3.4_3.5.v0
+QUEUE           production
+OS              linux
+INPUT_FILES     /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/genr8input/genr8input_3.4_3.5.v0
+OTHER_FILES:    /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/genr8
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/genr82gamp
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/gamp2txt
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/txt2part 
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/gsim_bat
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/gpp
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/recsis.tcl
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/user_ana-g11-pass1
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/ffread.card
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/gamp2kp
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bin/g112kp
+INPUT_DATA      genr8input
+TOWORK
+#OUTPUT_DATA     work.gamp
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/gamp/eg3.4_3.5.v0.gamp
+#OUTPUT_DATA     work.part
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/part/eg3.4_3.5.v0.part
+#OUTPUT_DATA     work.gsim*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/gsim/eg3.4_3.5.v0.gsim
+#OUTPUT_DATA     work.gpp*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/gpp/eg3.4_3.5.v0.gpp
+OUTPUT_DATA     work.bosview
+OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bosview/eg3.4_3.5.v0.bosview
+OUTPUT_DATA     work.gampview
+OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/gampview/eg3.4_3.5.v0.gampview
+#OUTPUT_DATA     clas.out*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v00/bosout/eg3.4_3.5.v0.bosout
+

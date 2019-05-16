@@ -1,0 +1,24 @@
+1)
+
+Hi all,
+I have attached a tar file which includes MK's beam energy correction and
+my latest momentum corrections. I have also included a stand-alone program
+and a script used to compile and run it. The script "run_test.sh" is shown
+below. The example program itself is equally simple. Enjoy!
+
+####################################
+#!/bin/sh
+
+echo "compiling example program..."
+g++ -o example example.cpp
+
+echo "running example program..."
+./example
+###################################
+
+
+2) later that day
+
+there was an undeclared variable i took out in this one so it should
+compile fine now....
+

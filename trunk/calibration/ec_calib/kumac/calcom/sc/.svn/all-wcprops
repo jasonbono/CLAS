@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/sc
+END
+scGainMatch.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/sc/scGainMatch.kumac
+END
+scGetPeakStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/sc/scGetPeakStats.kumac
+END
+scPedMask.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/sc/scPedMask.kumac
+END
+scPlotSecVec.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/sc/scPlotSecVec.kumac
+END

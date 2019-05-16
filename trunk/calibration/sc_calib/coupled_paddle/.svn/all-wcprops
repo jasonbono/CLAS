@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle
+END
+pair_mon.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/pair_mon.c
+END
+coupledPADDLE.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/coupledPADDLE.C
+END
+pair_mon_plane3.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/pair_mon_plane3.c
+END
+pair_mon_plane4.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/pair_mon_plane4.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/Makefile
+END
+cpld_paddle_FROMDB.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/cpld_paddle_FROMDB.sh
+END
+pairfit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/coupled_paddle/pairfit.kumac
+END

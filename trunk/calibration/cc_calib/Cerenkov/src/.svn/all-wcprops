@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/2744/trunk/calibration/cc_calib/Cerenkov/src
+END
+database_io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/897/trunk/calibration/cc_calib/Cerenkov/src/database_io.cc
+END
+PED_Control_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/1615/trunk/calibration/cc_calib/Cerenkov/src/PED_Control_W.cc
+END
+PED_Control_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/PED_Control_W.h
+END
+SPE_Display_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/2744/trunk/calibration/cc_calib/Cerenkov/src/SPE_Display_W.cc
+END
+HV_Control_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/327/trunk/calibration/cc_calib/Cerenkov/src/HV_Control_W.cc
+END
+SPE_Display_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/332/trunk/calibration/cc_calib/Cerenkov/src/SPE_Display_W.h
+END
+usage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/897/trunk/calibration/cc_calib/Cerenkov/src/usage.cc
+END
+HV_Control_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/HV_Control_W.h
+END
+usage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/usage.h
+END
+SPE_Control_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/623/trunk/calibration/cc_calib/Cerenkov/src/SPE_Control_W.cc
+END
+GetADC_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/424/trunk/calibration/cc_calib/Cerenkov/src/GetADC_W.cc
+END
+cc_calib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/897/trunk/calibration/cc_calib/Cerenkov/src/cc_calib.cc
+END
+SPE_Control_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/SPE_Control_W.h
+END
+GetADC_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/GetADC_W.h
+END
+cc_calib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/cc_calib.h
+END
+bos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/312/trunk/calibration/cc_calib/Cerenkov/src/bos.cc
+END
+PED_Display_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/661/trunk/calibration/cc_calib/Cerenkov/src/PED_Display_W.cc
+END
+icon_explana2.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/312/trunk/calibration/cc_calib/Cerenkov/src/icon_explana2.h
+END
+PED_Display_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/PED_Display_W.h
+END
+icon_Cerenkov.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/328/trunk/calibration/cc_calib/Cerenkov/src/icon_Cerenkov.h
+END
+cc_widget.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/664/trunk/calibration/cc_calib/Cerenkov/src/cc_widget.cc
+END
+help.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/help.cc
+END
+go_icon
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/calibration/cc_calib/Cerenkov/src/go_icon
+END
+icon_background.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/329/trunk/calibration/cc_calib/Cerenkov/src/icon_background.h
+END
+cc_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/664/trunk/calibration/cc_calib/Cerenkov/src/cc_widget.h
+END

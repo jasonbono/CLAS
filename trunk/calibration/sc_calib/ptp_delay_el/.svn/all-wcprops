@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el
+END
+add_up.f
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/add_up.f
+END
+rf_tof_cal.f
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/rf_tof_cal.f
+END
+m_vs_strip.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/m_vs_strip.kumac
+END
+m_spec.f
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/m_spec.f
+END
+d_t_algn.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/d_t_algn.f
+END
+fine_tune.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/fine_tune.kumac
+END
+crude_tune.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/crude_tune.kumac
+END
+t0_calib.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/t0_calib.kumac
+END
+t0_pi_cal.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/ptp_delay_el/t0_pi_cal.f
+END

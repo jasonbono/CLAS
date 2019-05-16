@@ -1,0 +1,14 @@
+K 13
+svn:externals
+V 70
+build_system https://jlabsvn.jlab.org/svnroot/clas/build_system/trunk
+
+K 10
+svn:ignore
+V 34
+build
+build_*
+.scons*
+clas6.geany
+
+END

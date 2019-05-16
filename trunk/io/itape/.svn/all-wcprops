@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/clas/!svn/ver/279/trunk/io/itape
+END
+esend.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/itape/esend.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/itape/configure
+END
+dataIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/itape/dataIO.c
+END
+itape.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/itape/itape.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/itape/configure.in
+END
+itape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/itape/itape.cc
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/itape/config.status
+END
+disIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/itape/disIO.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/io/itape/crc.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/io/itape/data.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/itape/config.guess
+END
+mtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/io/itape/mtime.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/itape/config.sub
+END
+pbanks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/itape/pbanks.cc
+END
+tapeIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/io/itape/tapeIO.c
+END
+groups.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/io/itape/groups.cc
+END
+tapeIoctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/itape/tapeIoctl.c
+END
+endianConverter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/io/itape/endianConverter.c
+END
+config.cache
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/itape/config.cache
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/itape/sconstruct
+END
+bos2Disp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/itape/bos2Disp.cc
+END
+Disp2bos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/itape/Disp2bos.cc
+END
+bos2itape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/itape/bos2itape.cc
+END
+itape2bos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/itape/itape2bos.cc
+END
+makeGroups.perl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/itape/makeGroups.perl
+END

@@ -1,0 +1,13 @@
+# import environment variables from current session
+import os
+
+# initialize environment variable
+env = Environment(ENV = os.environ)
+
+# add compile time root flags
+env.ParseConfig('root-config --cflags')
+env.ParseConfig('root-config --libs')
+env.ParseConfig('root-config --glibs')
+
+# specify target and source for the program
+env.Program(target='myChain', source='myChain.cpp')

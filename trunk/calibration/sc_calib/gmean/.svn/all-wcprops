@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/730/trunk/calibration/sc_calib/gmean
+END
+min_means_main.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/min_means_main.bat
+END
+means.hbook.gz
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/means.hbook.gz
+END
+means_fit.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/means_fit.f
+END
+min_means.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/min_means.f
+END
+Makefile.old
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/Makefile.old
+END
+min_means_main1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/min_means_main1
+END
+gmean_cooked.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/gmean_cooked.c
+END
+Makefile.alt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/Makefile.alt
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/stat.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/README
+END
+min_means_main.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/min_means_main.f
+END
+means_func_plot.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/means_func_plot.f
+END
+hscan_means1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/hscan_means1
+END
+means.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/means.kumac
+END
+hscan_means.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/hscan_means.f
+END
+means.hbook
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/means.hbook
+END
+window.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/window.kumac
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/730/trunk/calibration/sc_calib/gmean/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gmean/Makefile
+END

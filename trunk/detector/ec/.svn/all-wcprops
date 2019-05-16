@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/1414/trunk/detector/ec
+END
+ec_dalitz.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_dalitz.F
+END
+ec_fill_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_fill_bos.F
+END
+ecfsp.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ecfsp.F
+END
+ec_read_eccg.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_read_eccg.F
+END
+EcFit_edge.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/EcFit_edge.CMN
+END
+ec_read_eccl.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_read_eccl.F
+END
+ec_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_control.inc
+END
+group0.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/group0.F
+END
+ec_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_brun.F
+END
+ec_getcal_adc.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_getcal_adc.F
+END
+ec_getcal_geom.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_getcal_geom.F
+END
+ec_rawdata.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_rawdata.inc
+END
+ec_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1414/trunk/detector/ec/ec_maputil.c
+END
+ec_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_set_def.F
+END
+ec_read_ecct.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_read_ecct.F
+END
+ec_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_evnt.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/sconstruct
+END
+README.ec_tcls
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/README.ec_tcls
+END
+ecfph.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ecfph.F
+END
+ecgeompar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ecgeompar.inc
+END
+ec_strip.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_strip.inc
+END
+ec_sort.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_sort.F
+END
+ec_ijk_xyz.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_ijk_xyz.F
+END
+EcCal.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/EcCal.CMN
+END
+EcEvu.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/EcEvu.CMN
+END
+ec_getcal_tdc.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_getcal_tdc.F
+END
+hit_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/hit_match.F
+END
+EcStrip.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/EcStrip.CMN
+END
+ec_getcal_atten.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_getcal_atten.F
+END
+ec_ini_befor.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_ini_befor.F
+END
+ec_store_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_store_bos.F
+END
+ec_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_init.F
+END
+ec_peak.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_peak.inc
+END
+ecfit_analyze.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ecfit_analyze.F
+END
+ectcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ectcl_init.F
+END
+EcFit_general.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/EcFit_general.CMN
+END
+Ec_general.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/Ec_general.PAR
+END
+ecgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ecgeom.inc
+END
+ec_calling_sequence
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_calling_sequence
+END
+ec_ij_path.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/ec_ij_path.F
+END
+eccal_strip.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/ec/eccal_strip.F
+END

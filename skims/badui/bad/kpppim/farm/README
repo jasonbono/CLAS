@@ -1,0 +1,11 @@
+This skim looks for events in which a proton, K+, and K- are detected. I do need to make an updated skim for when there is a missing K- which I will be working on soon. Only Lorentz invariants and lab frame quantities are given by this skim. Everything is given so you can modify it.
+
+Things that need to be changed before using:
+
+1) In makeStubs.pl, line 4, change the output directory (outdir1) to where you want the files to be stored. Inside that directory, you must create subdirectories bos/, view/, logs/.
+
+2)On line 5, change work directory (workdir) to your work directory and store the farm directory given in the work directory. If you name "farm" something else or add a subdirectory or any modifications of it, lines 50 and 51 must be changed accordingly.
+
+
+To run: 	perl makeStubs.pl (after modifications)
+			perl jsub.pl [# of jobs to run]

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR
+END
+r_vs_runnumber.vec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR/r_vs_runnumber.vec
+END
+c_taggerenergy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR/c_taggerenergy.c
+END
+taggerenergy.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR/taggerenergy.f
+END
+r_vs_taggerid.vec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR/r_vs_taggerid.vec
+END
+tageboundariesall.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/vkTAGR/tageboundariesall.dat
+END

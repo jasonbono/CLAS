@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/3218/trunk/simulation/generators/aao/elast_gen
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/bcs.inc
+END
+elast_e1dvcs.inp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/elast_e1dvcs.inp
+END
+elast_gen.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/elast_gen.F
+END
+bos_ini.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/bos_ini.F
+END
+mc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/mc.inc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3218/trunk/simulation/generators/aao/elast_gen/sconstruct
+END
+elas_twophoton.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/elas_twophoton.inp
+END
+names.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/names.inc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/3218/trunk/simulation/generators/aao/elast_gen/README
+END
+bos_end.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/3218/trunk/simulation/generators/aao/elast_gen/bos_end.F
+END
+bos_out.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/bos_out.F
+END
+elas_e1dvcs.inp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/elast_gen/elas_e1dvcs.inp
+END

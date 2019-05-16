@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs
+END
+readv.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/readv.f
+END
+calib_e.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/calib_e.dat
+END
+Timing.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/Timing.kumac
+END
+LAC_calib.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/LAC_calib.kumac
+END
+parms.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/parms.dat
+END
+add_t2_to_map
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/add_t2_to_map
+END
+make_calib_prev.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/make_calib_prev.kumac
+END
+writev.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/writev.f
+END
+calib_t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/calib_t.dat
+END
+get_const_from_map
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/get_const_from_map
+END
+get_fit_parms.for
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/get_fit_parms.for
+END
+add_a1_to_map
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/add_a1_to_map
+END
+fit_mips.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/fit_mips.kumac
+END
+calc_corr.for
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/calc_corr.for
+END
+calib_prev.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/kumacs/calib_prev.dat
+END

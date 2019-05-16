@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/627/trunk/analysis/g12_monitor
+END
+g12_monitorLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/295/trunk/analysis/g12_monitor/g12_monitorLinkDef.h
+END
+g12_monitor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/295/trunk/analysis/g12_monitor/g12_monitor.cc
+END
+g12_monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/295/trunk/analysis/g12_monitor/g12_monitor.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/627/trunk/analysis/g12_monitor/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/295/trunk/analysis/g12_monitor/Makefile
+END

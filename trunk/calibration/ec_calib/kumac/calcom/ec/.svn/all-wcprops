@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec
+END
+ecGenAttCor2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGenAttCor2.kumac
+END
+ecCompareGains.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCompareGains.kumac
+END
+ecCalibGain.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalibGain.kumac
+END
+scMul.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/scMul.kumac
+END
+ecPlotSummary2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotSummary2.kumac
+END
+ecCreateMask.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCreateMask.kumac
+END
+ecPlotFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotFit.kumac
+END
+ecSetupGraphics.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecSetupGraphics.kumac
+END
+ecCalGetECCAv2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalGetECCAv2.kumac
+END
+ecCalcGainRatios.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalcGainRatios.kumac
+END
+ecGet2dStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGet2dStats.kumac
+END
+ecCalGetECCAv3.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalGetECCAv3.kumac
+END
+ecCalGetECCAv4.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalGetECCAv4.kumac
+END
+ecPlotRes.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotRes.kumac
+END
+ecCalMakeBankFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalMakeBankFile.kumac
+END
+ecPlotCosMip.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotCosMip.kumac
+END
+ecVectorIO.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecVectorIO.kumac
+END
+ecProcessNewFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecProcessNewFit.kumac
+END
+ecCalPMTID.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalPMTID.kumac
+END
+ecTestSummary.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecTestSummary.kumac
+END
+ecCalGetECCLv2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalGetECCLv2.kumac
+END
+ecFastFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFastFit.kumac
+END
+ecGenAngles.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGenAngles.kumac
+END
+ecGetPixels.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGetPixels.kumac
+END
+ecGetLaser.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGetLaser.kumac
+END
+ecAttSummary.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecAttSummary.kumac
+END
+ecLaser.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecLaser.kumac
+END
+ecSetupVectors.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecSetupVectors.kumac
+END
+ecShowLaser.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecShowLaser.kumac
+END
+ecUpdateFitGains.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecUpdateFitGains.kumac
+END
+calSetup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/calSetup.kumac
+END
+ecSetupRecsis.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecSetupRecsis.kumac
+END
+ecCalUpdateHeader.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalUpdateHeader.kumac
+END
+calPedNoise.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/calPedNoise.kumac
+END
+ecPrintPlots.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPrintPlots.kumac
+END
+scXY.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/scXY.kumac
+END
+ecCalBankInit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCalBankInit.kumac
+END
+ecGetPixelVec.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGetPixelVec.kumac
+END
+ecComisChi2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecComisChi2.kumac
+END
+ecFitOld.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFitOld.kumac
+END
+ecProcessFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecProcessFit.kumac
+END
+ecFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFit.kumac
+END
+ecGenAttCor.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGenAttCor.kumac
+END
+calcom.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/calcom.kumac
+END
+ecPlotLaser1.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotLaser1.kumac
+END
+ecTriggers.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecTriggers.kumac
+END
+ecPlotLaser2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotLaser2.kumac
+END
+calPlotSlot.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/calPlotSlot.kumac
+END
+ecPlotLaser3.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotLaser3.kumac
+END
+ecFitLaser1.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFitLaser1.kumac
+END
+ecGainMatch.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGainMatch.kumac
+END
+ecFitLaser2.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFitLaser2.kumac
+END
+ecNewFit.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecNewFit.kumac
+END
+ecPlotSummary.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotSummary.kumac
+END
+ecCompareRuns.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecCompareRuns.kumac
+END
+ecGetPeakStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGetPeakStats.kumac
+END
+eccal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/eccal.kumac
+END
+ecGetPixGainCor.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecGetPixGainCor.kumac
+END
+testman.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/testman.kumac
+END
+ecFitStrip.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecFitStrip.kumac
+END
+ecUpdateMeanGains.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecUpdateMeanGains.kumac
+END
+ecPlotSecVec.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec/ecPlotSecVec.kumac
+END

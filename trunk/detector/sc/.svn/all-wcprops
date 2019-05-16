@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/468/trunk/detector/sc
+END
+sc_channel_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_channel_status.c
+END
+rftcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rftcl_init.F
+END
+rf_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rf_brun.F
+END
+sc_utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_utilities.c
+END
+rf_evnt_from_raw.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rf_evnt_from_raw.F
+END
+rftcl.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rftcl.CMN
+END
+rftcl_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rftcl_set_def.F
+END
+rf_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rf_evnt.F
+END
+sc_makeSC1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_makeSC1.c
+END
+sc_dedx.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_dedx.c
+END
+sc_makeSCR.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_makeSCR.c
+END
+sc_geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_geom.c
+END
+sc_makeSCRC.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc_makeSCRC.c
+END
+rfcal_read_map.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rfcal_read_map.F
+END
+rfcal.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rfcal.CMN
+END
+README.RF
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/README.RF
+END
+rfcal_read_file.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/rfcal_read_file.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sconstruct
+END
+sc.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/sc/sc.html
+END
+sc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/468/trunk/detector/sc/sc_init.c
+END

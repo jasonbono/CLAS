@@ -1,0 +1,15 @@
+	echo $CLAS_PACK
+  1427	14:59	echo $CLAS
+  1428	14:59	ls /group/clas
+  1429	14:59	ls /group/clas/builds/
+  1430	15:00	ls /group/clas/builds/PRODUCTION/
+  1431	15:00	ls /group/clas/builds/PRODUCTION/packages/
+  1432	15:00	ls /group/clas/builds/PRODUCTION/packages/include/
+  1433	15:00	more /group/clas/builds/PRODUCTION/packages/include/pid.h
+  1434	15:00	ls /group/clas/builds/PRODUCTION/packages/include/
+  1435	15:00	ls /group/clas/builds/PRODUCTION/packages/include/particleType.h
+  1436	15:00	less /group/clas/builds/PRODUCTION/packages/include/particleType.h
+
+
+jlabsvn.jlab.org/svnroot
+then /clas/trunk etc

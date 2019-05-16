@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc
+END
+aligndc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/aligndc.c
+END
+aligndc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/aligndc.h
+END
+mapdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/mapdiff.c
+END
+complex.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/complex.c
+END
+fmatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/fmatrix.c
+END
+filltrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/filltrack.c
+END
+complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/complex.h
+END
+dcg_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/dcg_tools.c
+END
+nrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/nrutil.c
+END
+fmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/fmatrix.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/test.c
+END
+dcg_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/dcg_tools.h
+END
+nrutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/nrutil.h
+END
+amoeba.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/amoeba.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/sconstruct
+END
+caldb_write_dcgeom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/caldb_write_dcgeom.pl
+END
+caldb_print_dcgeom.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/caldb_print_dcgeom.pl
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/Makefile_alt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/aligndc/Makefile
+END

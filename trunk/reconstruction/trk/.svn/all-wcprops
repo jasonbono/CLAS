@@ -1,0 +1,725 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1974/trunk/reconstruction/trk
+END
+analink.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/analink.inc
+END
+trk_reg1_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_reg1_init.F
+END
+ana_stati.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_stati.F
+END
+get_tber_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/get_tber_info.c
+END
+tbt_segm.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/tbt_segm.F
+END
+make_TBTR.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/make_TBTR.c
+END
+sda_swim.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_swim.F
+END
+trk_set_stat.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_set_stat.F
+END
+sda_ptrk.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_ptrk.F
+END
+sda_minit.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_minit.F
+END
+trk_reg1_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_reg1_set_def.F
+END
+trk_calc_wire.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_calc_wire.F
+END
+trk_fill_banks_per_sect.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_fill_banks_per_sect.F
+END
+read_trk_banks.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/read_trk_banks.F
+END
+sort_fits.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sort_fits.c
+END
+trk_read_banks.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_read_banks.F
+END
+README.trk_tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/README.trk_tcl
+END
+ana_lramb_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/507/trunk/reconstruction/trk/ana_lramb_c.c
+END
+dc_begin_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/dc_begin_run.c
+END
+ana_lramb.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_lramb.F
+END
+README.region1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/README.region1
+END
+weed_known_amb.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/weed_known_amb.c
+END
+lramb_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/lramb_init.c
+END
+ana_mxinv.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_mxinv.F
+END
+trk_p2p.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_p2p.F
+END
+trk_run_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_run_control.c
+END
+mfm_field.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_field.F
+END
+sgaus.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sgaus.F
+END
+trk_ipln.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_ipln.F
+END
+mfm_brubz.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_brubz.F
+END
+trk_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_last.F
+END
+sda_flags.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_flags.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sconstruct
+END
+trk_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_brun.F
+END
+trktcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trktcl_init.F
+END
+sda_snake.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_snake.F
+END
+sda_ipln.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_ipln.F
+END
+trk_evnt_hbt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_evnt_hbt.F
+END
+process_trk_alt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/process_trk_alt.c
+END
+process_trk.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/process_trk.c
+END
+trk_swim.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_swim.c
+END
+mfm_ptgfield.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_ptgfield.F
+END
+weed_lramb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/weed_lramb.c
+END
+trktcl_var.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trktcl_var.inc
+END
+make_dc1_digi.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/make_dc1_digi.F
+END
+trk_reg1_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_reg1_last.F
+END
+sda_xmm55.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_xmm55.F
+END
+ana_prfit.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_prfit.F
+END
+sran.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sran.F
+END
+mfm_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_tcl_init.F
+END
+get_lramb_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/get_lramb_info.c
+END
+trk_evnt_tbt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_evnt_tbt.F
+END
+calc_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/calc_line.c
+END
+ana_trfit.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_trfit.F
+END
+trk_calc_wire_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_calc_wire_mod.F
+END
+trk_geom.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_geom.F
+END
+mfm_grid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_grid.inc
+END
+trk_makelink.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_makelink.c
+END
+trk_redoca.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_redoca.c
+END
+trk_dtime_retbla.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_dtime_retbla.F
+END
+ana_link.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_link.F
+END
+sda_ridge.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_ridge.F
+END
+trk_delete.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_delete.F
+END
+trk_region1.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_region1.F
+END
+store_bank.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/store_bank.F
+END
+mfm_ellipt.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_ellipt.F
+END
+trk_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_maputil.c
+END
+trk_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_set_def.F
+END
+sda_snake_pt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_snake_pt.F
+END
+trk_swim2pln.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_swim2pln.F
+END
+ana_statb.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_statb.F
+END
+sda_dinit.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_dinit.F
+END
+sda_helix.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1974/trunk/reconstruction/trk/sda_helix.F
+END
+mfm_getmf.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_getmf.F
+END
+ana_fit.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_fit.F
+END
+get_xxtr.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/get_xxtr.F
+END
+mfm_torfield.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_torfield.F
+END
+setup_anapatt.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/setup_anapatt.F
+END
+trk_makebanks.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_makebanks.c
+END
+anapatt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/anapatt.inc
+END
+mfm_inuli.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_inuli.F
+END
+hber2hbtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/hber2hbtr.c
+END
+ran.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ran.F
+END
+sda_snake_dipole.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_snake_dipole.F
+END
+ana_mvprod.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_mvprod.F
+END
+line_fit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/line_fit.c
+END
+sdadigi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sdadigi.inc
+END
+sda_gcubs.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_gcubs.F
+END
+trk_fill_dtrk.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_fill_dtrk.F
+END
+sdaswim.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sdaswim.inc
+END
+tbt.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/tbt.h
+END
+trk_clmerge.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_clmerge.F
+END
+trk_remake_swim_banks.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_remake_swim_banks.c
+END
+sda_torus.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_torus.F
+END
+mfm_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_control.inc
+END
+sdabgrid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sdabgrid.inc
+END
+trk_stati.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_stati.F
+END
+mfm_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_brun.F
+END
+sorts.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sorts.c
+END
+tber2tbtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/tber2tbtr.c
+END
+ana_segm.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/ana_segm.F
+END
+mfm_dusp.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_dusp.F
+END
+trk_link.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_link.F
+END
+trk_lramb.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_lramb.F
+END
+sda_trmat.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_trmat.F
+END
+get_lramb_pts.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/get_lramb_pts.c
+END
+trk_icyl.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_icyl.F
+END
+sda_rotds.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_rotds.F
+END
+trk_dtime.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_dtime.F
+END
+trk_dcam_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_dcam_c.c
+END
+trk_dcam.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/506/trunk/reconstruction/trk/trk_dcam.F
+END
+trk_fill_banks.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_fill_banks.F
+END
+trk_read_bank.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_read_bank.F
+END
+sda_icyl.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/sda_icyl.F
+END
+mfm_get27.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/mfm_get27.F
+END
+get_hber_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/get_hber_info.c
+END
+trk_rehit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_rehit.c
+END
+resolve_lramb.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/resolve_lramb.c
+END
+make_HBTR.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/make_HBTR.c
+END
+trk_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/trk/trk_erun.F
+END

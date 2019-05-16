@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/bcs.inc
+END
+util.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/util.F
+END
+bos_ini.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/bos_ini.F
+END
+mc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/mc.inc
+END
+read_bank.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/read_bank.F
+END
+fidu.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/fidu.F
+END
+fidu.inp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/fidu.inp
+END
+fidurun
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/fidurun
+END
+bos_end.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/bos_end.F
+END
+input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/input.txt
+END
+bos_out.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/fidu/bos_out.F
+END

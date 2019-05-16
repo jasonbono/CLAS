@@ -1,0 +1,505 @@
+//_____________________________________________________________________________
+// Standard Headers:
+#include <fstream>
+#include <cmath>
+#include <iostream>
+#include <unistd.h>
+#include <vector>
+#include "TFile.h"
+#include "TTree.h"
+#include "TH1.h"
+#include "TH2F.h"
+#include "TF1.h"
+#include "TMath.h"
+#include "TString.h"
+#include "TSystem.h"
+#include "TFile.h"
+#include "TROOT.h"
+#include <TVector3.h>
+#include "TLorentzVector.h"
+#include <string.h>
+#include "KinLine.C"
+#include "Kstream.C"
+
+using namespace std;
+
+Float_t xmm3(TLorentzVector,TLorentzVector,TLorentzVector,float,float,float,float);
+
+int main(int __argc,char *__argv[]){
+   char *outFileName = "mergeplot.root";
+   extern int optind;
+   gROOT->Reset(); 
+   TROOT troot();  
+   TFile outFile(outFileName,"recreate");  
+   Float_t MMpip,IMLam,MMLam,MM2,Ei,prob,Pxy,pho4,doca;   
+   Float_t c00,c11,c12,c13,c21,c22,c23,c31,c32,c33,c44,c45,c46,c54,c55,c56,c64,c65,c66,c77,c78,c79,c87,c88,c89,c97,c98,c99;
+   Float_t Ppim_x,Ppim_y,Ppim_z,Ppim_e,Ppip_x,Ppip_y,Ppip_z,Ppip_e,Ppro_x,Ppro_y,Ppro_z,Ppro_e,Pdgam_x,Pdgam_y,Pdgam_z,Pdgam_e;
+   Float_t Ptot_x,Ptot_y,Ptot_z,Ptot_e,Pmis_x,Pmis_y,Pmis_z,Pmis_e,prob_1;
+   Float_t pip_beta_sc,pim_beta_sc,pro_beta_sc,pimv_x,pimv_y,pimv_z,pim_path,pim_beta,pim_sc_vtime,pim_sc_time,pim_qtrk,pim_qpid;
+   Float_t pipv_x,pipv_y,pipv_z,pipv_path,pipv_beta,pipv_sc_vtime,pip_sc_time,pip_qtrk,pip_qpid; 
+   Float_t prov_x,prov_y,prov_z,pro_path,pro_beta,pro_sc_vtime,pro_sc_time,pro_st_vtime,pro_qtrk,pro_qpid,pip_sc_vtime,pip_st_vtime,pip_path,pip_beta;     
+   Float_t V_time,dT_pim,dT_pip,dT_pro,photVtime,p_beta_sc,pim_st_vtime,p_path,p_beta,p_sc_vtime,p_st_vtime;
+   Int_t pim_sector,pim_pad,pip_sector,pip_pad,pro_sector,pro_pad,npho,T_id,E_id,igam;
+   
+   TH1F *Slope = new TH1F("Slope","Slope",200,-3,1);
+   TH1F *p0_1 = new TH1F("IMpions","test",200,0.2,1.4);
+   TH1F *p0_2 = new TH1F("IMLam","test",100,0,2);
+   TH1F *p0_3 = new TH1F("MMpions","test",200,0.5,3);     
+   TH1F *p0_4 = new TH1F("MM2","test",200,-0.05,0.05);   
+   TH1F *p0_5 = new TH1F("IMeta","test",200,0,2);
+   TH1F *p0_6 = new TH1F("Ei","test",200,-0.2,0.2);
+   TH1F *p0_7 = new TH1F("MMpro","test",200,0,2); 
+   TH1F *p0_8 = new TH1F("MMpip","test",200,-0.1,0.2);
+   TH1F *p0_9 = new TH1F("MMpim","test",200,-0.1,0.2);         
+   TH1F *p0_10 = new TH1F("e_phot","test",200,0,4);       
+   
+   TH1F *Pull_0 = new TH1F("Pull_0","test",200,-5,5);
+   TH1F *Pull_1 = new TH1F("Pull_1","test",200,-5,5);
+   TH1F *Pull_2 = new TH1F("Pull_2","test",200,-5,5);   
+   TH1F *Pull_3 = new TH1F("Pull_3","test",200,-5,5);
+   TH1F *Pull_4 = new TH1F("Pull_4","test",200,-5,5);   
+   TH1F *Pull_5 = new TH1F("Pull_5","test",200,-5,5);
+   TH1F *Pull_6 = new TH1F("Pull_6","test",200,-5,5);
+   TH1F *Pull_7 = new TH1F("Pull_7","test",200,-5,5);   
+   TH1F *Pull_8 = new TH1F("Pull_8","test",200,-5,5);
+   TH1F *Pull_9 = new TH1F("Pull_9","test",200,-5,5);   
+      
+   //TH2F *r1_0 = new TH2F("res_pim","res_pim",200,0,0.5,200,-0.1,0.1); 
+   //TH2F *r1_1 = new TH2F("res_pim1","res_pim1",200,0,0.5,200,-0.1,0.1); 
+
+   TH1F *p1_1 = new TH1F("p1_IMpions","test",200,0.2,1.4);
+   TH1F *p1_2 = new TH1F("p1_IMLam","test",200,0,2);
+   TH1F *p1_3 = new TH1F("p1_MMpions","test",200,0.5,3);     
+   TH1F *p1_4 = new TH1F("p1_MM2","test",200,-0.05,0.05);  
+   TH1F *p1_5 = new TH1F("p1_IMeta","test",200,0,2);  
+  
+   TH1F *f1_1 = new TH1F("f1_IMpions","test",100,0.2,1.4);
+   TH1F *f1_2 = new TH1F("f1_IMLam","test",100,0,2); 
+   TH1F *f1_3 = new TH1F("f1_MMpions","test",100,0.3,3);      
+   TH1F *f1_4 = new TH1F("f1_MM2","test",200,-0.05,0.05);
+   TH1F *f1_5 = new TH1F("f1_IMeta","test",100,0,2); 
+   TH1F *f1_6 = new TH1F("f1_Ei","test",200,0,1);
+
+   TH1F *f2_1 = new TH1F("f2_Prob","test",200,0,1);
+   TH1F *f2_2 = new TH1F("f2_Chi2","test",200,0,15);      
+
+   TH1F *gen_1 = new TH1F("gen_p","",100,0,3); 
+   TH1F *gen_2 = new TH1F("gen_pim","",100,0,1);     
+   TH1F *gen_3 = new TH1F("gen_pip","",100,0,3.5);              
+   TH1F *gen_4 = new TH1F("gen_cos","",100,0.0,1); 
+             
+   TH1F *prime_1 = new TH1F("Dpip_beta","D_beta",100,-0.2,1.0);    
+   TH1F *prime_2 = new TH1F("Dpim_beta","D_beta",100,-0.2,1.0);
+   TH1F *prime_3 = new TH1F("Dpro_beta","D_beta",100,-0.2,1.0);    
+   TH2F *prime_4 = new TH2F("dbeta_x_Ppip","#Delta#beta x Momentum",400,0,3,400,-0.4,0.4);             
+   TH2F *prime_5 = new TH2F("dbeta_x_Ppim","#Delta#beta x Momentum",400,0,3,400,-0.4,0.4); 
+   TH2F *prime_6 = new TH2F("dbeta_x_Ppro","#Delta#beta x Momentum",400,0,3,400,-0.4,0.4);           
+   TH2F *prime_7 = new TH2F("dt_pip_x_p","dT vs. Mom",400,0,3,400,-5,5);
+   TH2F *prime_8 = new TH2F("dt_pim_x_p","dT vs. Mom",400,0,3,400,-5,5);
+   TH2F *prime_9 = new TH2F("dt_pro_x_p","dT vs. Mom",400,0,3,400,-5,5);         
+   TH1F *prime_10 = new TH1F("pip_mass","",200,0,1); 
+   TH1F *prime_11 = new TH1F("pim_mass","",200,0,1);
+   TH1F *prime_12 = new TH1F("pro_mass","",200,0,2);   
+   TH1F *prime_13 = new TH1F("Dt_pip","",200,-5,5);   
+   TH1F *prime_14 = new TH1F("Dt_pim","",200,-5,5); 
+   TH1F *prime_15 = new TH1F("Dt_pro","",200,-5,5);        
+   TH2F *prime_16 = new TH2F("Beta_Ppip","Beta vs Ppip",400,0,3,400,0,1.2);
+   TH2F *prime_17 = new TH2F("Beta_Ppim","Beta vs Ppim",400,0,3,400,0,1.2);
+   TH2F *prime_18 = new TH2F("Beta_Ppro","Beta vs Ppro",400,0,3,400,0,1.2);   
+   TH2F *prime_19 = new TH2F("dT_dT","#Delta#t #pi#+ vs #Delta#t #pi#-",400,-25,25,400,-25,25); 
+   TH2F *prime_20 = new TH2F("mass_mass1","pipmass vs pimass",400,0,1.2,400,0,1.2);
+   TH2F *prime_21 = new TH2F("mass_mass2","Pmass vs pipmass",400,0,1.2,400,0,1.2);   
+   TH2F *prime_22 = new TH2F("Theta_Phi1","#Theta# vs #Phi#",400,0,180,400,-180,180);        
+   TH2F *prime_23 = new TH2F("Theta_Phi2","#Theta# vs #Phi#",400,0,180,400,-180,180);      
+   TH2F *prime_24 = new TH2F("Theta_Phi3","#Theta# vs #Phi#",400,0,180,400,-180,180); 
+   TH2F *prime_25 = new TH2F("MassVpip","MassVpip",400,0,3,400,0,1.0);
+   TH2F *prime_26 = new TH2F("MassVpim","MassVpim",400,0,1,400,0,0.3);
+   TH2F *prime_27 = new TH2F("MassVpro","MassVpro",400,0,3,400,0,2.0);   
+   TH2F *prime_28 = new TH2F("DeltaT_pipP","",400,0,3,400,-10,10);
+   TH2F *prime_29 = new TH2F("DeltaT_pimP","",400,0,3,400,-10,10);         
+   TH2F *prime_30 = new TH2F("DeltaT_proP","",400,0,3,400,-10,10);
+   TH1F *prime_31 = new TH1F("DeltaT_pim","",200,-5,5);   
+   TH1F *prime_32 = new TH1F("DeltaT_pip","",200,-5,5);     
+   TH1F *prime_33 = new TH1F("DeltaT_pro","",200,-5,5); 
+   TH1F *prime_34 = new TH1F("Vpip_z","",200,-180,40);   
+   TH1F *prime_35 = new TH1F("Vpim_z","",200,-180,40);     
+   TH1F *prime_36 = new TH1F("Vpro_z","",200,-180,40);     
+   TH1F *prime_37 = new TH1F("doca","",200,0,40);    
+   Int_t Pi_count = 0;
+   Int_t G_count = 0;   
+   for(int n_arg = optind; n_arg < __argc; n_arg++){
+   	TFile inFile(__argv[n_arg]); // open the input file   	   
+
+   if(TTree *p0 = (TTree*)inFile.Get("p0")){
+            
+   p0->SetBranchAddress("Ppim_x",&Ppim_x);
+   p0->SetBranchAddress("Ppim_y",&Ppim_y);
+   p0->SetBranchAddress("Ppim_z",&Ppim_z);
+   p0->SetBranchAddress("Ppim_e",&Ppim_e);
+   p0->SetBranchAddress("Ppro_x",&Ppro_x);
+   p0->SetBranchAddress("Ppro_y",&Ppro_y);
+   p0->SetBranchAddress("Ppro_z",&Ppro_z);
+   p0->SetBranchAddress("Ppro_e",&Ppro_e);
+   p0->SetBranchAddress("Ppip_x",&Ppip_x);
+   p0->SetBranchAddress("Ppip_y",&Ppip_y);
+   p0->SetBranchAddress("Ppip_z",&Ppip_z);
+   p0->SetBranchAddress("Ppip_e",&Ppip_e);
+   p0->SetBranchAddress("pho4",&pho4);
+   p0->SetBranchAddress("Ptot_x",&Ptot_x);  
+   p0->SetBranchAddress("Ptot_y",&Ptot_y);
+   p0->SetBranchAddress("Ptot_z",&Ptot_z);
+   p0->SetBranchAddress("Ptot_e",&Ptot_e);
+   p0->SetBranchAddress("Pmis_x",&Pmis_x);  
+   p0->SetBranchAddress("Pmis_y",&Pmis_y);
+   p0->SetBranchAddress("Pmis_z",&Pmis_z);
+   p0->SetBranchAddress("Pmis_e",&Pmis_e);
+   p0->SetBranchAddress("Pxy",&Pxy);
+   p0->SetBranchAddress("gBoost",&Ei);
+   p0->SetBranchAddress("pip_beta_sc",&pip_beta_sc); 
+   p0->SetBranchAddress("pro_beta_sc",&p_beta_sc);  
+   p0->SetBranchAddress("pim_beta_sc",&pim_beta_sc);          
+   p0->SetBranchAddress("pimv_x",&pimv_x);
+   p0->SetBranchAddress("pimv_y",&pimv_y);
+   p0->SetBranchAddress("pimv_z",&pimv_z);
+   p0->SetBranchAddress("pim_path",&pim_path);
+   p0->SetBranchAddress("pim_beta",&pim_beta);
+   p0->SetBranchAddress("pim_sc_vtime",&pim_sc_vtime);
+   p0->SetBranchAddress("pim_sc_time",&pim_sc_time);  
+   p0->SetBranchAddress("pim_st_vtime",&pim_st_vtime);
+   p0->SetBranchAddress("pim_sector",&pim_sector);
+   p0->SetBranchAddress("pim_pad",&pim_pad);
+   p0->SetBranchAddress("pim_qtrk",&pim_qtrk);
+   p0->SetBranchAddress("pim_qpid",&pim_qpid);
+   p0->SetBranchAddress("pipv_x",&pipv_x);
+   p0->SetBranchAddress("pipv_y",&pipv_y);
+   p0->SetBranchAddress("pipv_z",&pipv_z);
+   p0->SetBranchAddress("pip_path",&pip_path);
+   p0->SetBranchAddress("pip_beta",&pip_beta);
+   p0->SetBranchAddress("pip_sc_vtime",&pip_sc_vtime);
+   p0->SetBranchAddress("pip_sc_time",&pip_sc_time);  
+   p0->SetBranchAddress("pip_st_vtime",&pip_st_vtime);
+   p0->SetBranchAddress("pip_sector",&pip_sector);
+   p0->SetBranchAddress("pip_pad",&pip_pad);
+   p0->SetBranchAddress("pip_qtrk",&pip_qtrk);
+   p0->SetBranchAddress("pip_qpid",&pip_qpid);  
+   p0->SetBranchAddress("prov_x",&prov_x);
+   p0->SetBranchAddress("prov_y",&prov_y);
+   p0->SetBranchAddress("prov_z",&prov_z);
+   p0->SetBranchAddress("pro_path",&pro_path);
+   p0->SetBranchAddress("pro_beta",&pro_beta);
+   p0->SetBranchAddress("pro_sc_vtime",&pro_sc_vtime);
+   p0->SetBranchAddress("pro_sc_time",&pro_sc_time);  
+   p0->SetBranchAddress("pro_st_vtime",&pro_st_vtime);
+   p0->SetBranchAddress("pro_sector",&pro_sector);
+   p0->SetBranchAddress("pro_pad",&pro_pad);
+   p0->SetBranchAddress("pro_qtrk",&pro_qtrk);
+   p0->SetBranchAddress("pro_qpid",&pro_qpid);
+   p0->SetBranchAddress("V_time",&V_time);
+   p0->SetBranchAddress("E_id",&E_id);
+   p0->SetBranchAddress("T_id",&T_id);
+   p0->SetBranchAddress("dT_pim",&dT_pim);
+   p0->SetBranchAddress("dT_pip",&dT_pip);
+   p0->SetBranchAddress("dT_pro",&dT_pro);  
+   p0->SetBranchAddress("photVtime",&photVtime);
+   p0->SetBranchAddress("npho",&npho); 
+   p0->SetBranchAddress("igam",&igam);               
+   p0->SetBranchAddress("c00",&c00);           
+   p0->SetBranchAddress("c11",&c11);
+   p0->SetBranchAddress("c12",&c12);
+   p0->SetBranchAddress("c13",&c13);
+   p0->SetBranchAddress("c21",&c21);
+   p0->SetBranchAddress("c22",&c22);
+   p0->SetBranchAddress("c23",&c23);
+   p0->SetBranchAddress("c31",&c31);
+   p0->SetBranchAddress("c32",&c32);
+   p0->SetBranchAddress("c33",&c33);   
+   p0->SetBranchAddress("c44",&c44);
+   p0->SetBranchAddress("c45",&c45);
+   p0->SetBranchAddress("c46",&c46);
+   p0->SetBranchAddress("c54",&c54);
+   p0->SetBranchAddress("c55",&c55);
+   p0->SetBranchAddress("c56",&c56);
+   p0->SetBranchAddress("c64",&c64);
+   p0->SetBranchAddress("c65",&c65);
+   p0->SetBranchAddress("c66",&c66);
+   p0->SetBranchAddress("c77",&c77);
+   p0->SetBranchAddress("c78",&c78);   
+   p0->SetBranchAddress("c79",&c79);  
+   p0->SetBranchAddress("c87",&c87);
+   p0->SetBranchAddress("c88",&c88);   
+   p0->SetBranchAddress("c89",&c89);  
+   p0->SetBranchAddress("c97",&c97);
+   p0->SetBranchAddress("c98",&c98);   
+   p0->SetBranchAddress("c99",&c99);              
+
+  TLorentzVector P4pho,P4pro,P4pim,P4pip,P4mis,P4tot,P4_tot,P4dgam;
+  TLorentzVector P4Ss,P4OFFpip,P4Lam,P4OFFL,P4target;
+  TVector3 V3pro,V3pip,V3pim;
+  Int_t nentries = (Int_t)p0->GetEntries();
+ 
+  for (Int_t j=0;j<=nentries;j++) { p0->GetEntry(j);
+    	  P4target.SetPxPyPzE(0.0,0.0,0.0,0.93828);
+  	  P4pho.SetPxPyPzE(0.0,0.0,pho4,pho4);
+	  P4pim.SetPxPyPzE(Ppim_x,Ppim_y,Ppim_z,Ppim_e);
+	  P4pro.SetPxPyPzE(Ppro_x,Ppro_y,Ppro_z,Ppro_e);
+	  P4pip.SetPxPyPzE(Ppip_x,Ppip_y,Ppip_z,Ppip_e);	  
+	  P4tot.SetPxPyPzE(Ptot_x,Ptot_y,Ptot_z,Ptot_e);
+	  P4mis.SetPxPyPzE(Pmis_x,Pmis_y,Pmis_z,Pmis_e);
+	  P4dgam.SetPxPyPzE(Pdgam_x,Pdgam_y,Pdgam_z,Pdgam_e);
+	  V3pro.SetXYZ(prov_x,prov_y,prov_z);
+	  V3pip.SetXYZ(pipv_x,pipv_y,pipv_z);	  
+	  V3pim.SetXYZ(pimv_x,pimv_y,pimv_z);
+          //Prime
+	  Float_t Mpim = 0.139569, Mpip = 0.139569, Mpro = 0.93828, c=29.979;
+          Float_t Ppro_t = sqrt((Ppro_x*Ppro_x)+(Ppro_y*Ppro_y)+(Ppro_z*Ppro_z));
+          Float_t Ppip_t = sqrt((Ppip_x*Ppip_x)+(Ppip_y*Ppip_y)+(Ppip_z*Ppip_z));	  
+	  Float_t Ppim_t = sqrt((Ppim_x*Ppim_x)+(Ppim_y*Ppim_y)+(Ppim_z*Ppim_z));
+          Float_t Dpip_beta = pip_beta_sc - pip_beta;
+          Float_t Dpim_beta = pim_beta_sc - pim_beta;
+	  Float_t Dpro_beta =  p_beta_sc - pro_beta;
+	  Float_t mass_pip = sqrt((1-pip_beta_sc*pip_beta_sc)*(Ppip_t/pip_beta_sc)*(Ppip_t/pip_beta_sc));
+	  Float_t mass_pro = sqrt((1-p_beta_sc*p_beta_sc)*(Ppro_t/p_beta_sc)*(Ppro_t/p_beta_sc));
+	  Float_t mass_pim = sqrt((1-pim_beta_sc*pim_beta_sc)*(Ppim_t/pim_beta_sc)*(Ppim_t/pim_beta_sc));	  
+          Float_t bp = Ppip_t/sqrt(Ppip_t*Ppip_t+(Mpip*Mpip));
+	  Float_t Theta1 = P4pim.Theta()*57.295779;
+	  Float_t Theta2 = P4pip.Theta()*57.295779;	  
+	  Float_t Theta3 = P4pro.Theta()*57.295779;	  
+	  Float_t Phi1 = P4pim.Phi()*57.295779;	  
+	  Float_t Phi2 = P4pip.Phi()*57.295779;
+	  Float_t Phi3 = P4pro.Phi()*57.295779;	  
+	  Double_t phi1 = Phi1 + 180;
+	  Double_t phi2 = Phi2 + 180;	  
+	  Double_t phi3 = Phi3 + 180;
+	  Float_t ThetaLab1 = P4pim.Theta();
+	  Float_t ThetaLab2 = P4pip.Theta();
+	  Float_t ThetaLab3 = P4pro.Theta();
+	  //new delta T	  
+
+	  //Float_t DeltaT_pim = pim_sc_time-(pimv_z + 90)/30 - photVtime - (pim_path/c)*sqrt(1+(Mpim/Ppim_t)*(Mpim/Ppim_t)); 	  
+	  //Float_t DeltaT_pip = pip_sc_time-(pipv_z + 90)/30 - photVtime - (pip_path/c)*sqrt(1+(Mpip/Ppip_t)*(Mpip/Ppip_t));
+	  //Float_t DeltaT_pro = pro_sc_time-(prov_z + 90)/30 - photVtime - (pro_path/c)*sqrt(1+(Mpro/Ppro_t)*(Mpro/Ppro_t));	  	  
+
+	  Float_t DeltaT_pim = pim_st_vtime - photVtime; 	  
+	  Float_t DeltaT_pip = pip_st_vtime - photVtime;
+	  Float_t DeltaT_pro = pro_st_vtime - photVtime;	  	  
+
+	  dT_pim = dT_pim + 90/c;
+	  dT_pip = dT_pip + 90/c;
+	  dT_pro = dT_pro + 90/c;
+	  
+	  //simple fiducial restriction	  
+	  Int_t isector1 = int(phi1/60+0.5);
+	  Int_t isector2 = int(phi2/60+0.5);
+	  Int_t isector3 = int(phi3/60+0.5);	  	  
+	  Float_t phisec1 = abs( phi1 - 60*isector1 );
+	  Float_t phisec2 = abs( phi2 - 60*isector2 );	  
+	  Float_t phisec3 = abs( phi3 - 60*isector3 );	  
+	  Double_t Xphi1 = 30-phisec1;
+	  Double_t Xphi2 = 30-phisec2;
+	  Double_t Xphi3 = 30-phisec3;	  	  
+	  Double_t Exp = 1.5518;
+	  Float_t xtop1 = 4+(510.58/pow(Xphi1,Exp));
+	  Float_t xtop2 = 4+(510.58/pow(Xphi2,Exp));	  
+	  Float_t xtop3 = 4+(510.58/pow(Xphi3,Exp));
+	  
+	  //if((Theta1>xtop1)&&(ThetaLab1>0.135)){
+	  //if((Theta2>xtop2)&&(ThetaLab2>0.135)){
+	  //if((Theta3>xtop3)&&(ThetaLab3>0.135)){
+	  //if(abs(Dpip_beta) < 0.02){
+	  //if(abs(Dpim_beta) < 0.02){	
+	  //if(abs(Dpro_beta) < 0.02){	    	  
+	  if(2>1){
+	  if(2>1){
+	  if(2>1){
+	  if(2>1){	  
+	  //if(abs(dT_pro) < 1.0 && abs(dT_pip) < 1.0&& abs(dT_pim) < 1.0){ 
+	  //if((abs(dT_p) < 2.0 && dT_pip < -2) ||(abs(dT_p) < 2.0 && dT_pip > 2) || (abs(dT_pip) < 2.0 && dT_p > 2) || (abs(dT_pip) <  2.0 && dT_p < 2)){
+  	  
+	  if(npho == 1){
+	  if(igam == 1){
+	  p0_10->Fill(pho4);
+	  P4_tot = P4pho + P4target;
+	  
+	  TLorentzVector P4miz, P4pions, P4Lam, offpions, P4eta;
+	  P4miz = P4tot - P4pip - P4pro - P4pim;
+	  //P4miz=P4dgam;	
+	  
+	  P4pions = P4pim + P4pip; 
+	  offpions = P4tot - P4pions;
+	  P4eta = P4pip+P4pim+P4miz;
+	  
+	  P4Lam = P4pim + P4pro;	
+	  Float_t MMpro = (P4tot - P4pip - P4pim).M();
+	  Float_t MMpions = offpions.M();
+	  Float_t e = P4pip.E();
+	  Float_t betaCM = pho4/(pho4+0.93828);
+	  Float_t gammaCM = 1/sqrt(1-betaCM*betaCM);
+	  Float_t pzCM = gammaCM*(P4pip.Pz() - betaCM*e);	
+	  Float_t ptot = P4pip.P();
+	  Float_t MMpip = (P4tot - P4pro - P4pim).M();
+	  Float_t MMpim = (P4tot - P4pro - P4pip).M();
+	  Float_t ME = P4miz.E();	  	
+	
+	  Float_t thetalab = P4pip.Theta();
+	  Float_t e_cm = gammaCM*e - gammaCM*betaCM*ptot*thetalab;
+	  Float_t p_cm = sqrt(e_cm*e_cm-0.49367*0.49367);
+	  Float_t theta_cm =(-betaCM*gammaCM*e+gammaCM*ptot*thetalab)/p_cm;
+	  	  
+	  //Slope->Fill(theta_cm);
+	  prime_1->Fill(Dpip_beta);
+          prime_2->Fill(Dpim_beta);
+          prime_3->Fill(Dpro_beta);	  	  	    
+          prime_4->Fill(Ppip_t,Dpip_beta);
+          prime_5->Fill(Ppim_t,Dpim_beta);
+          prime_6->Fill(Ppro_t,Dpro_beta);	  	  
+          prime_7->Fill(Ppip_t,dT_pip);
+          prime_8->Fill(Ppim_t,dT_pim);
+          prime_9->Fill(Ppro_t,dT_pro);	  	  	  
+	  prime_10->Fill(mass_pip);
+	  prime_11->Fill(mass_pim);
+	  prime_12->Fill(mass_pro);
+	  prime_13->Fill(dT_pip);	  
+	  prime_14->Fill(dT_pim);
+	  prime_15->Fill(dT_pro);	  
+	  prime_16->Fill(Ppip_t,pip_beta_sc);	  
+	  prime_17->Fill(Ppim_t,pim_beta_sc);
+	  prime_18->Fill(Ppro_t,p_beta_sc);	  
+	  prime_19->Fill(dT_pro,dT_pip);
+	  prime_20->Fill(mass_pip,mass_pim);
+	  prime_21->Fill(mass_pip,mass_pro);	  
+	  prime_22->Fill(Theta1,Phi1);
+	  prime_23->Fill(Theta2,Phi2);
+	  prime_24->Fill(Theta3,Phi3);
+	  prime_25->Fill(Ppip_t,mass_pip);
+	  prime_26->Fill(Ppim_t,mass_pim);
+	  prime_27->Fill(Ppro_t,mass_pro);
+	  prime_28->Fill(Ppim_t,DeltaT_pim);
+	  prime_29->Fill(Ppip_t,DeltaT_pip);
+	  prime_30->Fill(Ppro_t,DeltaT_pro);
+	  prime_31->Fill(DeltaT_pim);
+	  prime_32->Fill(DeltaT_pip);
+	  prime_33->Fill(DeltaT_pro);	  
+	  prime_34->Fill(pipv_z);
+	  prime_35->Fill(pimv_z);
+	  prime_36->Fill(prov_z);
+	  prime_37->Fill(doca);	  	  
+	  //kinematics	
+	  	  
+	  Float_t IMpions = P4pions.M();
+	  IMLam = P4Lam.M();
+	  MM2 = P4miz.M2();
+	  //if(MMpions>1.1){
+	  //if(abs(MMpions-0.93828)<0.005){
+	  //if(abs(MM2-0)<0.01){
+	  //if(abs(ME-0)<0.01){	  
+	  if(abs(MMpip-0.139569)<0.09){	
+	  if(abs(MMpions-0.93828)<0.04){
+	  
+	  p0_1->Fill(IMpions);
+	  p0_2->Fill(IMLam);
+	  p0_3->Fill(MMpions);	  	  
+	  p0_4->Fill(MM2);
+	  p0_5->Fill(P4eta.M());
+	  p0_6->Fill(ME);  
+	  p0_7->Fill(MMpro);
+	  p0_8->Fill(MMpip);
+	  p0_9->Fill(MMpim);
+	  	   	  
+	  const int num_parts = 2;
+	 	  
+	  vector<TLorentzVector> p4(num_parts),p4_test(2);
+	  std::vector<TVector3> vert(num_parts),v_test(2);
+	  std::vector<string> particles(num_parts),part_test(2);	
+	  
+	  bool multi = true;  
+	  bool is_mc = false;
+	  
+    	  std::vector<bool> set1(num_parts),set2(num_parts);
+	  
+	  set1[0] = false;
+	  set1[1] = false;			     
+	  set1[2] = false;
+	  
+	  Double_t m_targ = 0.93828; 
+	  Double_t e_gamma = pho4;
+	  TMatrixD covMatrix(7,7);	  
+	  TMatrixD covTrack(10,10);
+	  
+	  covTrack(0,0)=c00;covTrack(1,1)=c11;covTrack(1,2)=c12;covTrack(1,3)=c13;covTrack(2,1)=c21;covTrack(2,2)=c22;covTrack(2,3)=c23;covTrack(3,1)=c31;covTrack(3,2)=c32;covTrack(3,3)=c33;covTrack(4,4)=c44;covTrack(4,5)=c45;covTrack(4,6)=c46;covTrack(5,4)=c54;covTrack(5,5)=c55;covTrack(5,6)=c56;covTrack(6,4)=c64;covTrack(6,5)=c65;covTrack(6,6)=c66;covTrack(7,7)=c77;covTrack(7,8)=c78;covTrack(7,9)=c79;covTrack(8,7)=c87;covTrack(8,8)=c88;covTrack(8,9)=c89;covTrack(9,7)=c97;covTrack(9,8)=c98;covTrack(9,9)=c99;
+	  
+	  covTrack.ResizeTo(7,7);
+	  
+	  TVector3 V;
+
+	  p4_test[0] = P4pim;
+	  p4_test[1] = P4pip;	  
+	  //p4_test[0] = P4pro;
+	  
+	  v_test[0] = V3pim;
+	  v_test[1] = V3pip;
+	  //v_test[2] = V3pro;	  
+  	  
+	  part_test[0] = "pi-";
+ 	  part_test[1] = "pi+";
+	  //part_test[2] = "p";	  		      	  
+	  
+	  string experiment = "g11a";
+	  covMatrix = CorrectCLAS_V(covTrack,part_test,p4_test,v_test,multi,is_mc,experiment);
+
+	  	  
+	  Kstream testfit;
+ 	  testfit.StringNames(part_test);
+	  testfit.FitInput(e_gamma,p4_test,covMatrix,m_targ);	  
+  
+	  gen_1->Fill(P4pro.P());
+	  gen_2->Fill(P4pim.P());	  
+	  gen_3->Fill(P4pip.P());	    	  
+	  gen_4->Fill(P4pip.Theta());	  
+	  
+	  testfit.Fit("p");
+	  //testfit.Fit();	   
+	  f2_1->Fill(testfit.Prob());
+	  f2_2->Fill(testfit.Chi2());
+	  Float_t theta = P4pim.Theta()*180/3.14159;
+	  //if(pim_sector==1){
+	  //if(theta<25 && theta>20){ 
+	  if(testfit.Prob() > 0.01){	  
+	  Pull_0->Fill(testfit.GetPull(0));
+	  Pull_1->Fill(testfit.GetPull(1));	  
+	  Pull_2->Fill(testfit.GetPull(2));	  
+	  Pull_3->Fill(testfit.GetPull(3));
+	  Pull_4->Fill(testfit.GetPull(4));
+	  Pull_5->Fill(testfit.GetPull(5));	  
+	  Pull_6->Fill(testfit.GetPull(6));
+	  Pull_7->Fill(testfit.GetPull(7));
+	  Pull_8->Fill(testfit.GetPull(8));	  
+	  Pull_9->Fill(testfit.GetPull(9));	  	  
+	  }	  
+	  }
+	  }
+	  }
+	  }
+	  }
+	  }
+	  }
+	  }
+	  //}
+	  //}
+	  //}
+	  //}
+	  //}
+	  
+  
+  }//over files	
+
+  }
+  	else {
+            cout << "File has no TTree named p0 shit head!!" << endl;
+        }  
+
+  }//n_arg  
+  
+     outFile.Write(); // write to the output file
+     outFile.Close(); // close the output file
+           
+}//end of main

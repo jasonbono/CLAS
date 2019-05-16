@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1132/trunk/calibration/sc_calib/gamecock
+END
+CaldbBox.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CaldbBox.cxx
+END
+Gamecock.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Gamecock.pdf
+END
+fittimewalk.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/fittimewalk.cxx
+END
+CaldbServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CaldbServer.h
+END
+Calibration.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Calibration.cxx
+END
+Gamecock_gmean.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Gamecock_gmean.pdf
+END
+JInteractive.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JInteractive.cxx
+END
+Jhbook2root.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Jhbook2root.h
+END
+JEventCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JEventCount.h
+END
+NeedInput.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/NeedInput.cxx
+END
+jglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/jglobal.h
+END
+SlotAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SlotAverage.h
+END
+CaldbBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CaldbBox.h
+END
+BankDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/BankDescription.h
+END
+rfit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/rfit.cxx
+END
+JndexBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JndexBox.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/726/trunk/calibration/sc_calib/gamecock/sconstruct
+END
+JSurvey.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JSurvey.cxx
+END
+SingleStripe.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SingleStripe.cxx
+END
+gofit.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gofit.xpm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Makefile
+END
+ReadRoc.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ReadRoc.cxx
+END
+ParameterSlider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ParameterSlider.cxx
+END
+SConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SConstants.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/global.h
+END
+gamecock.ini
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gamecock.ini
+END
+JEventCount.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JEventCount.cc
+END
+jdefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/jdefine.h
+END
+SingleStripe.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SingleStripe.h
+END
+Inx.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Inx.cxx
+END
+ShowSector.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ShowSector.cxx
+END
+VLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/VLine.h
+END
+CheckinBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CheckinBox.h
+END
+JCoupledPaddle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JCoupledPaddle.cc
+END
+open.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/open.xpm
+END
+Gamecock.ps.gz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Gamecock.ps.gz
+END
+gamecock.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gamecock.xpm
+END
+showsec.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/showsec.cxx
+END
+fitlinear.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/fitlinear.cxx
+END
+fittdc.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/fittdc.cxx
+END
+ReadPipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ReadPipe.h
+END
+BankDescription.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/1132/trunk/calibration/sc_calib/gamecock/BankDescription.cxx
+END
+edepfit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/edepfit.cxx
+END
+SliderBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SliderBox.h
+END
+JndexBox.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JndexBox.cxx
+END
+EnterValues.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/EnterValues.h
+END
+Inx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Inx.h
+END
+CheckinValues.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CheckinValues.cxx
+END
+ShowSector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ShowSector.h
+END
+testgfit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/testgfit.cxx
+END
+MySQL.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/MySQL.h
+END
+gamecock.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gamecock.h
+END
+SConstants.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SConstants.cxx
+END
+gohist.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gohist.xpm
+END
+ButtonOkCancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ButtonOkCancel.h
+END
+folder_t.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/folder_t.xpm
+END
+runno
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/runno
+END
+CheckinValues.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CheckinValues.h
+END
+Calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Calibration.h
+END
+JInteractive.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JInteractive.h
+END
+gc1.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc1.xpm
+END
+CheckinBox.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CheckinBox.cxx
+END
+gc2.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc2.xpm
+END
+gc3.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc3.xpm
+END
+gc4.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc4.xpm
+END
+Regression.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Regression.cxx
+END
+NeedInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/NeedInput.h
+END
+gc5.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc5.xpm
+END
+gc6.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc6.xpm
+END
+gc7.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc7.xpm
+END
+gc8.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc8.xpm
+END
+SectorAxis.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SectorAxis.cxx
+END
+gc9.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gc9.xpm
+END
+Jhbook2root.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Jhbook2root.cc
+END
+fitgauss.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/fitgauss.cxx
+END
+Gamecock.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Gamecock.sxw
+END
+ReadPipe.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ReadPipe.cxx
+END
+dummy.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/dummy.cxx
+END
+SliderBox.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SliderBox.cxx
+END
+CaldbServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/CaldbServer.cxx
+END
+JSurvey.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/JSurvey.h
+END
+exit1.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/exit1.xpm
+END
+EnterValues.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/EnterValues.cxx
+END
+ReadRoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ReadRoc.h
+END
+Regression.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Regression.h
+END
+MySQL.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/MySQL.cxx
+END
+jdefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/jdefaults.h
+END
+fitlandau.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/fitlandau.cxx
+END
+ROOT.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ROOT.h
+END
+ParameterSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ParameterSlider.h
+END
+SectorAxis.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SectorAxis.h
+END
+gamecock.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/gamecock.cxx
+END
+Makefile.root_v3.03-06
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Makefile.root_v3.03-06
+END
+ButtonOkCancel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ButtonOkCancel.cxx
+END
+Gamecock_atten.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/Gamecock_atten.pdf
+END
+exit.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/exit.xpm
+END
+ok.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/ok.xpm
+END
+SlotAverage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gamecock/SlotAverage.cxx
+END

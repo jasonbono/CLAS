@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/1025/trunk/analysis/cobra
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/configure
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/sconstruct
+END
+globals.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/globals.mk
+END
+cobra_rootlogon.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/cobra_rootlogon.C
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/Makefile
+END

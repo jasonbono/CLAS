@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/2745/trunk/calibration/TPECal
+END
+show.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1733/trunk/calibration/TPECal/show.C
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1654/trunk/calibration/TPECal/SConstruct
+END
+go_run
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1733/trunk/calibration/TPECal/go_run
+END
+occu.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1733/trunk/calibration/TPECal/occu.C
+END
+tpecal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1729/trunk/calibration/TPECal/tpecal.cc
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/3131/trunk/analysis/pwa2000
+END
+fort_open.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/fort_open.f
+END
+parseutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/parseutils.cc
+END
+keyScan.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1003/trunk/analysis/pwa2000/keyScan.cc
+END
+parseutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/parseutils.h
+END
+wave.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/wave.cc
+END
+init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/init.cc
+END
+vamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/vamp.cc
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/wave.h
+END
+integral.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/integral.cc
+END
+minuit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/3131/trunk/analysis/pwa2000/minuit.cc
+END
+symbol.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/symbol.cc
+END
+integral.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1162/trunk/analysis/pwa2000/integral.h
+END
+minuit.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/minuit.h
+END
+code.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/code.cc
+END
+logview.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1881/trunk/analysis/pwa2000/logview.cc
+END
+fitparse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/fitparse.cc
+END
+fitparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/fitparse.h
+END
+fit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/fit.cc
+END
+keyParse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1773/trunk/analysis/pwa2000/keyParse.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1881/trunk/analysis/pwa2000/sconstruct
+END
+gamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/gamp.cc
+END
+fitlog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1881/trunk/analysis/pwa2000/fitlog.cc
+END
+fit.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/fit.h
+END
+keyParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1003/trunk/analysis/pwa2000/keyParse.h
+END
+fitlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1881/trunk/analysis/pwa2000/fitlog.h
+END
+keyfile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1163/trunk/analysis/pwa2000/keyfile.cc
+END
+lex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/lex.cc
+END
+math.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1875/trunk/analysis/pwa2000/math.cc
+END
+int.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1162/trunk/analysis/pwa2000/int.cc
+END
+keyfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1003/trunk/analysis/pwa2000/keyfile.h
+END

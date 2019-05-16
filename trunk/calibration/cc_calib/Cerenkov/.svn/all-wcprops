@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/2744/trunk/calibration/cc_calib/Cerenkov
+END
+Cerenkov.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/334/trunk/calibration/cc_calib/Cerenkov/Cerenkov.cc
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/898/trunk/calibration/cc_calib/Cerenkov/SConstruct
+END
+go_install
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/957/trunk/calibration/cc_calib/Cerenkov/go_install
+END

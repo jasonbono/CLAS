@@ -1,0 +1,36 @@
+beam > 2.800000 && beam < 3.812500 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.897556 +/- 0.00766359
+Old Cz = 0.47 +/- 0.313
+New Cz = 0.523644 +/- (0.348725 + 0.00360189 = 0.348743 )
+Total Systematic = 0.0570714, Total Statistical = 0.348743, Total Error = 0.353382
+
+beam > 3.812500 && beam < 4.433500 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.885835 +/- 0.00819937
+Old Cz = 0.589 +/- 0.253
+New Cz = 0.664909 +/- (0.285606 + 0.00482943 = 0.285647 )
+Total Systematic = 0.0593444, Total Statistical = 0.285647, Total Error = 0.291746
+
+beam > 4.433500 && beam < 5.500000 && Xcmtheta > -1.000000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.841876 +/- 0.00941024
+Old Cz = 0.001 +/- 0.217
+New Cz = 0.00118782 +/- (0.257758 + 9.41024e-06 = 0.257758 )
+Total Systematic = 0.0531508, Total Statistical = 0.257758, Total Error = 0.263181
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -1.000000 && Xcmtheta < -0.610000 
+Dilution Factor  = 0.873646 +/- 0.00856727
+Old Cz = 0.456 +/- 0.282
+New Cz = 0.52195 +/- (0.322785 + 0.00390668 = 0.322809 )
+Total Systematic = 0.0570469, Total Statistical = 0.322809, Total Error = 0.327811
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -0.610000 && Xcmtheta < -0.190000 
+Dilution Factor  = 0.87975 +/- 0.00837406
+Old Cz = 0.431 +/- 0.246
+New Cz = 0.489912 +/- (0.279625 + 0.00360922 = 0.279648 )
+Total Systematic = 0.0565974, Total Statistical = 0.279648, Total Error = 0.285318
+
+beam > 2.800000 && beam < 5.500000 && Xcmtheta > -0.190000 && Xcmtheta < 1.000000 
+Dilution Factor  = 0.869501 +/- 0.00853967
+Old Cz = 0.112 +/- 0.257
+New Cz = 0.12881 +/- (0.295572 + 0.000956443 = 0.295573 )
+Total Systematic = 0.0533962, Total Statistical = 0.295573, Total Error = 0.300358
+

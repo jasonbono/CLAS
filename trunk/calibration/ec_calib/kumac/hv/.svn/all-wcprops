@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv
+END
+hvReadCRTHV.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvReadCRTHV.kumac
+END
+hvDemo.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvDemo.kumac
+END
+hvChange.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvChange.kumac
+END
+hvWriteSnapNew.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvWriteSnapNew.kumac
+END
+hvRemoteCaPut.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvRemoteCaPut.kumac
+END
+hvSetupFunctions.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvSetupFunctions.kumac
+END
+hvReadSnap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvReadSnap.kumac
+END
+hvRemoteCa.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvRemoteCa.kumac
+END
+hvSetup.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvSetup.kumac
+END
+hvReadConfig.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvReadConfig.kumac
+END
+hvGetSnapFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvGetSnapFile.kumac
+END
+hvWriteReq.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvWriteReq.kumac
+END
+hvSetupVectors.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvSetupVectors.kumac
+END
+hvDiff.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvDiff.kumac
+END
+hvGetAll.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvGetAll.kumac
+END
+hvPut.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvPut.kumac
+END
+hvLoop.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvLoop.kumac
+END
+hvWriteReqNew.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvWriteReqNew.kumac
+END
+hvWriteSnap.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvWriteSnap.kumac
+END
+hvPlot.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvPlot.kumac
+END
+hvGetFile.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvGetFile.kumac
+END
+hvGet.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvGet.kumac
+END
+hvWriteConfig.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvWriteConfig.kumac
+END
+hvPlotCurrent.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvPlotCurrent.kumac
+END
+hvSetupGlobal.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/hv/hvSetupGlobal.kumac
+END

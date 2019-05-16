@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03
+END
+janr_main.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_main.F
+END
+hjanr_hlim.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hjanr_hlim.inc
+END
+mult_ana.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/mult_ana.F
+END
+regge_multables.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/regge_multables.F
+END
+janrtab.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janrtab.inc
+END
+getbreit.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/getbreit.F
+END
+write_mpoles.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/write_mpoles.F
+END
+janr_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_init.F
+END
+gpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/gpar.inc
+END
+janr_evgen.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_evgen.F
+END
+breit_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/breit_ampl.F
+END
+janr_rephi.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_rephi.F
+END
+interp1.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/interp1.F
+END
+hjanr_lib.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hjanr_lib.F
+END
+res_func.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/res_func.inc
+END
+int_func.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/int_func.inc
+END
+imphi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/imphi.inc
+END
+amplitudes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/amplitudes.inc
+END
+rephi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/rephi.inc
+END
+remult.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/remult.inc
+END
+inpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/inpar.inc
+END
+abort_rut.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/abort_rut.c
+END
+helicity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/helicity.inc
+END
+cross_sections.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/cross_sections.F
+END
+finthigh.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/finthigh.F
+END
+janr_ini_point.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_ini_point.F
+END
+janr_fmin.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_fmin.F
+END
+janr_output_mpole.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_output_mpole.F
+END
+janr_data.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_data.inc
+END
+fintg.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/fintg.F
+END
+back_regge.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/back_regge.F
+END
+janr_input.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_input.F
+END
+phiampl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/phiampl.inc
+END
+ebac.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/ebac.inc
+END
+janr_tab.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_tab.F
+END
+read_multables.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/read_multables.F
+END
+response_functions.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/response_functions.F
+END
+high_multables.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/high_multables.F
+END
+phi_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/phi_ampl.F
+END
+mult_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/mult_ampl.F
+END
+ima.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/ima.inc
+END
+janr_fit.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_fit.F
+END
+etta.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/etta.F
+END
+mixing_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/mixing_ampl.F
+END
+highmult.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/highmult.inc
+END
+re_phi.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/re_phi.F
+END
+cross_sec.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/cross_sec.inc
+END
+janr_output.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_output.F
+END
+janr_run.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_run.F
+END
+multampl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/multampl.inc
+END
+back_born.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/back_born.F
+END
+hel_ampl.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hel_ampl.F
+END
+janr_input_res.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_input_res.F
+END
+janr_input_ebac.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_input_ebac.F
+END
+ettapar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/ettapar.inc
+END
+resonances.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/resonances.inc
+END
+hjanr_val.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hjanr_val.inc
+END
+back_ampl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/back_ampl.inc
+END
+bornterms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/bornterms.inc
+END
+back_high.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/back_high.F
+END
+born.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/born.F
+END
+interp.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/interp.F
+END
+hjanr_hcrs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hjanr_hcrs.inc
+END
+delta_dat.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/delta_dat.inc
+END
+re_mult.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/re_mult.F
+END
+safe_exit.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/safe_exit.F
+END
+fit_par.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/fit_par.inc
+END
+janr_input_said.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_input_said.F
+END
+janr_spp.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/janr_spp.F
+END
+hjanr_hplt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/hjanr_hplt.inc
+END
+background.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/background.F
+END
+high_mult.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/high_mult.F
+END
+multipoles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/aao/janr03/multipoles.inc
+END

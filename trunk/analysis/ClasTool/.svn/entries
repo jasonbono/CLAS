@@ -1,0 +1,264 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/analysis/ClasTool
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2011-03-22T16:06:56.380752Z
+1948
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+FillBank
+dir
+
+EventSelector
+dir
+
+macros
+dir
+
+Filter
+dir
+
+scripts
+dir
+
+EventSelectorG
+dir
+
+Corrections
+dir
+
+TPhysClass
+dir
+
+README
+file
+
+
+
+
+2012-02-28T23:15:16.000000Z
+c897c002f465e0c1255ea8f4d1c6a862
+2009-04-17T16:08:57.070306Z
+286
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3035
+
+MapUtils
+dir
+
+MapTools
+dir
+
+Gsim
+dir
+
+Makefile_top
+file
+
+
+
+
+2012-02-28T23:15:16.000000Z
+fb9603d47f9b05c5a877eaf7e6aba168
+2009-04-17T16:08:57.070306Z
+286
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3895
+
+Utils
+dir
+
+ClasBanks
+dir
+
+Makefile_bottom
+file
+
+
+
+
+2012-02-28T23:15:16.000000Z
+e0c91a895e77e1c2dcec66170e7a5f70
+2009-04-17T16:08:57.070306Z
+286
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4194
+
+PartSieve
+dir
+
+TClasTool
+dir
+
+html
+dir
+
+NT10Reader
+dir
+
+includes
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:16.000000Z
+dcefd1e4fe186e1dc9cb15deb9dce889
+2011-03-22T16:06:56.380752Z
+1948
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+647
+
+VirtualReader
+dir
+
+TNeutralPair
+dir
+
+DSTReader
+dir
+
+Makefile
+file
+
+
+
+
+2012-02-28T23:15:16.000000Z
+97c482a2f86a9939e654d6fa38c466eb
+2009-04-17T16:08:57.070306Z
+286
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2461
+
+examples
+dir
+

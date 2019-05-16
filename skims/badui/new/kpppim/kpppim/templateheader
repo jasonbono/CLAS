@@ -1,0 +1,268 @@
+/* declare the bos common */
+BOSbank bcs_;
+BOSbank wcs_;
+#define LIGHT_SPEED 29.979 // speed of light cm/nsec
+
+int CurrentRun = 0;
+int CurrentEvent = 0;
+
+void PrintUsage(char *processName)
+{
+    cerr << processName << " [options] file1 file2 ..." << endl;
+     cerr << "\t[-ct#]\t\tSet torus current to #" << endl;
+    cerr << "\t[-L]\t\tPrint labels" << endl;
+    cerr << "\t[-v]\t\tverbose mode" << endl;
+    cerr << "\t[-ofile]\twrite selected events to file" << endl;
+    cerr << "\t[-d]\t\tdebug mode" << endl;
+    cerr << "\t[-D#]\t\tSet drop list to #" << endl;
+    cerr << "\t[-M#]\t\tProcess only # events" << endl;
+    cerr << "\t[-s]\t\tsilent mode" << endl;
+    cerr << "\t[-N]\t\tDo not build TDPL bank (unless necessary)" <
+    cerr << "\t[-h]\t\tPrint this message" << endl;
+    
+}
+
+
+
+// ------------------------------------
+
+main(int argc,char **argv)
+{
+    FILE *fp = NULL;
+    int max = 0;
+    
+    int verbose = 0;
+    int Silent = 0;
+    
+    int writeMode = 0;
+    int forceWrite = 0;
+    
+    int reBuild = -1;
+    int doBuild = 0;
+    int rebuildTBID = 0;
+    
+    int ret = 1;
+    int rejectFlag = 0;
+    int NoFault = 0;
+    int pEvent;
+    
+    int Nevents = 0;
+    int nfile = 0;
+    int Nwrite = 0;
+    int nProc = 0;
+    time_t time1; 
+    float rate; 
+    int i;
+    char *argptr;
+    char *word;
+    int Dispatch = 0;
+    unsigned int triggerMask = 0;
+    
+    int useGPID = 0;
+    int useSEB = 0; 
+    int partbank = 1;
+    char *BOSout = "newFilter.bos";
+    int debug = 0;
+    
+    // Dispatcher
+    char *server = NULL;
+    int dispatcherPipelinePrefill = 5;
+    
+    int allFlag = 0;
+    int dropTDPL = 0;
+    
+    
+    // drop sector list
+    
+    vector<int> dropSector;
+    
+    // itape stuff
+    FILE *finput = stdin;
+    
+    // bos stuff
+    clasOutput coutput;
+    int status = 0;
+    int OutputUnitNo = 9;
+    extern char *optarg;
+    int c; 
+    extern int optind;
+    int MaxBanks = 1000; 
+    char  out[300];
+    
+    int DropFlag = 0x0; /*don't drop anything*/
+    
+    //for (i = 0; i < argc; ++i)
+     //   cerr << argv[i] << " ";
+    //cerr << endl;
+    
+    for (int i = 0; i < argc; ++i)
+        cerr << argv[i] << " ";
+    cerr << endl;
+    while ( (c = getopt(argc,argv, "o:L")) != -1 ) {
+        switch (c) {
+                
+            case 'G':
+                useGPID = 1;
+                break;
+                
+            case 'S':
+                useSEB = 1;
+                break;
+                
+            case 'P':
+                partbank = atoi(optarg);
+                break;
+                
+            case 'F':
+                forceWrite = 1;
+                cout<<"FORCE WRITE"<<endl;
+                break;
+                
+            case 'R':
+                // write out rejected events
+                rejectFlag = 1;
+                break;
+                
+            case 'L':
+                printGeneralLabels(optarg);
+                break;
+            case 'v':
+                verbose = 1;
+                break;
+                
+            case 'o':
+                
+                BOSout = optarg;
+                status = coutput.open(BOSout, OutputUnitNo);
+                
+                cout <<"Status:["<<status<<"] " <<"Output file: " << BOSout << endl;
+                break;
+                
+            case 'f':
+                // do not install fault handlers
+                NoFault = 1;
+                break;
+                
+            case 'd':
+                debug = 1;
+                break;
+                
+            case 'D':
+                DropFlag = strtoul(optarg,NULL,0);
+                break;
+                
+            case 'M':
+                max = atoi(optarg);
+                break;
+                
+            case 't':
+                triggerMask = strtoul(optarg,NULL,0);
+                break;
+                
+            case 's':
+                Silent = 1;
+                break;
+                
+            case 'h':
+                PrintUsage(argv[0]);
+                exit(0);
+                break;
+                
+            default:
+                cerr << "Unrecognized argument: " << argptr << endl;;
+                break;
+                
+                
+        }
+        
+    }
+    
+    PDGtable.initialize();
+    
+    
+    if (!NoFault)
+        installFaultHandlers();
+    
+    // Initialize BOS
+    bnames_(&MaxBanks);
+    initbos();
+    configure_banks(stderr,0);
+    
+    for (i = 1; i < argc; ++i) {
+        argptr = argv[i];
+        if (*argptr != '-') {
+            clasEvent event(argptr,&bcs_,1,0);
+            cerr << "initialize:\t" << argptr << endl;
+            
+            Dispatch = isDispatcher(argptr);
+            if (event.status()) {
+                ret = 1;
+                
+                while ((max ? Nevents < max : 1) && ret) {
+                    clasHEAD_t *HEAD;	  
+                    ret = event.read(1);  // still one event?
+                    
+                    if (ret == DISIO_DATA) {
+                        if (event.type() == 1) {
+                            if (HEAD = (clasHEAD_t *)getBank(&bcs_, "HEAD")) {
+                                int runno=HEAD->head[0].nrun;
+                                CurrentRun = HEAD->head[0].nrun;
+                                CurrentEvent =  HEAD->head[0].nevent;
+                                StartRun(runno); 
+                                
+                                pEvent = ProcessEvent(event,verbose,Silent);
+                                nProc++;
+                                if (status && pEvent) {
+                                    coutput.write(&bcs_);
+                                    Nwrite++;
+                                }
+                                
+                            }
+                            event.clean();
+                            Nevents++;
+                        }
+                        
+                    }
+                    
+                    
+                    else if (ret == DISIO_COMMAND) {
+                        
+                        cerr << "Message from Giant Head: " << getBuffer() << endl;;
+                        
+                    }
+                    
+                }
+                cerr << "\nTotal number of itape records:\t" << Nevents << endl;
+                cerr << "\tTotal number of records written:\t" << Nwrite << endl;
+                
+            }
+            else {
+                cerr << "Unable to open " << argptr << endl;
+            }
+            
+            
+        }
+    }
+    if (Dispatch)
+        disIO_command("FINISHED");
+    cerr << "\nTotal number of itape records:\t" << Nevents << endl;
+    if(status) {
+        coutput.write(&bcs_,"0");
+        coutput.close();
+    }
+}
+
+int StartRun(int runNo)
+{  
+    int static CurrentRun = -1;
+    if (CurrentRun != runNo) {
+        //    dc_xvst_init_(&runNo);
+        //    vertex_brun(runNo);
+        //  sc_begin_run(runNo);
+        //   dc_begin_run(runNo);
+        CurrentRun = runNo;
+        
+    }
+    return 0;
+}
+

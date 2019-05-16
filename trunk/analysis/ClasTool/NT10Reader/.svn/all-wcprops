@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/NT10Reader
+END
+TNT10Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/TNT10Reader.h
+END
+NT10_E2b.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/NT10_E2b.h
+END
+NT10_commons.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/NT10_commons.h
+END
+NT10_EG1.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/NT10_EG1.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/NT10Reader/sconstruct
+END
+Hbook_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/Hbook_interface.h
+END
+TNT10ReaderLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/TNT10ReaderLinkDef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/Makefile
+END
+TNT10Reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/NT10Reader/TNT10Reader.cc
+END

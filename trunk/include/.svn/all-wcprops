@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/clas/!svn/ver/1614/trunk/include
+END
+rtclmes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/rtclmes.inc
+END
+tag_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/tag_param.h
+END
+tagruncontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/tagruncontrol.h
+END
+tag_general.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/tag_general.PAR
+END
+bossys.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/bossys.inc
+END
+calib_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/calib_manager.h
+END
+run_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/include/run_control.h
+END
+sc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/467/trunk/include/sc.h
+END
+pdgutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/pdgutil.h
+END
+trk_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/trk_common.h
+END
+TClasBOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/TClasBOS.h
+END
+dc_tcl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/dc_tcl.inc
+END
+g11pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/g11pcor.h
+END
+vertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/vertex.h
+END
+wcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/wcs.inc
+END
+tagcal.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/tagcal.CMN
+END
+trk_run_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/include/trk_run_control.h
+END
+eloss.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/eloss.h
+END
+run_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/run_control.inc
+END
+kinematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/kinematics.h
+END
+clasPART_o.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/clasPART_o.h
+END
+bcscom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/bcscom.inc
+END
+tagcal_cmn.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/tagcal_cmn.h
+END
+et.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/et.inc
+END
+make_TGEO.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/make_TGEO.h
+END
+scExtern.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/scExtern.h
+END
+tagtnorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/tagtnorm.h
+END
+alarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/alarm.h
+END
+scalers.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/scalers.h
+END
+g10pcor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/g10pcor.inc
+END
+g1cPcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/g1cPcor.h
+END
+printBOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/printBOS.h
+END
+trk.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/279/trunk/include/trk.h
+END
+clasmdl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/clasmdl.inc
+END
+bnkfmt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/bnkfmt.inc
+END
+TBOSBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/TBOSBank.h
+END
+boscom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/boscom.inc
+END
+particleType.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/include/particleType.h
+END
+normalisation.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/include/normalisation.CMN
+END
+bosddl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1614/trunk/include/bosddl.h
+END
+gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/279/trunk/include/gem.h
+END
+groups.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/groups.h
+END
+online_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/include/online_constants.h
+END
+param.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/param.inc
+END
+rectcl_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/rectcl_common.h
+END
+scGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/scGlobal.h
+END
+ec.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/include/ec.h
+END
+tagM.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/tagM.h
+END
+j.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/279/trunk/include/j.h
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/bcs.inc
+END
+clas_cern.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/clas_cern.h
+END
+scat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/scat.h
+END
+bitflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/bitflags.h
+END
+makebanks.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/makebanks.h
+END
+tmapman.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/tmapman.h
+END
+reversion.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/include/reversion.inc
+END
+tripExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/tripExt.h
+END
+csql.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/csql.h
+END
+PartUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/602/trunk/include/PartUtil.h
+END
+ecifl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/ecifl.inc
+END
+kinematics_o.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/include/kinematics_o.h
+END
+gdbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/gdbm.h
+END
+mtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/mtime.h
+END
+call.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/call.h
+END
+scat_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/include/scat_control.inc
+END
+tag_cpp_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/include/tag_cpp_wrapper.h
+END
+evnt_par.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/evnt_par.h
+END
+trklink.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/trklink.h
+END
+endianConverterAuto.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/include/endianConverterAuto.h
+END
+clasmdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/clasmdl.h
+END
+dc_cal_tdly.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/include/dc_cal_tdly.inc
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/status.h
+END
+epics.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/epics.inc
+END
+TrigSector.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/TrigSector.h
+END
+demux_roc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/demux_roc.h
+END
+dc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/include/dc.h
+END
+st.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/include/st.h
+END
+tripGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/tripGlobal.h
+END
+dataIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/dataIO.h
+END
+itape.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/279/trunk/include/itape.h
+END
+clas_enable_fp_trap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/include/clas_enable_fp_trap.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/utility.h
+END
+beam_param.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/include/beam_param.inc
+END
+bostypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/bostypes.h
+END
+ROOTtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/ROOTtypes.h
+END
+bcsparm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/bcsparm.inc
+END
+re_units.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/include/re_units.inc
+END
+rhist.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/include/rhist.inc
+END
+pid.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/501/trunk/include/pid.h
+END
+svt.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/279/trunk/include/svt.h
+END
+trip.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/clas/!svn/ver/279/trunk/include/trip.h
+END
+fcommon.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/include/fcommon.inc
+END
+ntypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/ntypes.h
+END
+smear_mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/include/smear_mc.h
+END
+dc_tcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/include/dc_tcl.h
+END
+st_cpp_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/include/st_cpp_wrapper.h
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/1773/trunk/analysis/ced
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/setup.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/649/trunk/analysis/ced/init.c
+END
+track.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/track.c
+END
+macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/macro.h
+END
+shower.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/shower.c
+END
+et.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/et.c
+END
+dlogs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/dlogs.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/proto.h
+END
+tagger.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/tagger.c
+END
+alldc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/alldc.c
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/constants.h
+END
+fannedshower.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/fannedshower.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/message.c
+END
+dc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/dc.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1773/trunk/analysis/ced/sconstruct
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/math.c
+END
+sectorview.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/sectorview.c
+END
+geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/geometry.c
+END
+ced.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/ced.c
+END
+removenoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/removenoise.c
+END
+fannedscint.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/fannedscint.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Makefile_alt
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/draw.c
+END
+deadwires.dw
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/deadwires.dw
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/geometry.h
+END
+evdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/evdump.c
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/bitops.c
+END
+ced.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/ced.h
+END
+sectorhex.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/sectorhex.c
+END
+scintillator.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/scintillator.c
+END
+ec1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/ec1.c
+END
+alldcview.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/alldcview.c
+END
+anchor.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/anchor.c
+END
+scintview.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/scintview.c
+END
+beamline.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/beamline.c
+END
+cerenkov.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/cerenkov.c
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/data.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/event.c
+END
+berbos.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/berbos.h
+END
+field.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/field.c
+END
+feedback.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/feedback.c
+END
+menus.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/menus.c
+END
+bos.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/bos.h
+END
+feedback.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/feedback.h
+END
+calview.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/calview.c
+END
+tile.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/tile.c
+END

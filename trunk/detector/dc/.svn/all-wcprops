@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/279/trunk/detector/dc
+END
+dc_xvst.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_xvst.inc
+END
+README.debug
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/README.debug
+END
+dc_makebanks.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_makebanks.c
+END
+ddly2dc_cal_tdly.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/ddly2dc_cal_tdly.F
+END
+README.dc_tcl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/README.dc_tcl
+END
+dc_xvst_fct.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_xvst_fct.c
+END
+dc_sigma.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_sigma.c
+END
+dc_nominal_geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_nominal_geom.c
+END
+dc_getwire.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_getwire.c
+END
+dc_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_tcl_init.F
+END
+dc_xvst_ana.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_xvst_ana.inc
+END
+dc_maputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_maputil.c
+END
+dc_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_set_def.F
+END
+dc_timewalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_timewalk.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/sconstruct
+END
+dc_time_correction.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_time_correction.c
+END
+dc_geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/dc/dc_geom.c
+END

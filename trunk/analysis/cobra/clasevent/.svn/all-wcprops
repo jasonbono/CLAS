@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/clasevent
+END
+ListOfBanks.lst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/ListOfBanks.lst
+END
+CLASdata_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/clasevent/CLASdata_Interface.h
+END
+BOS_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/BOS_Interface.C
+END
+Bos.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/Bos.C
+END
+ClasEvent.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/ClasEvent.C
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/clasevent/sconstruct
+END
+Index.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/Index.C
+END
+BOS_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/BOS_Interface.h
+END
+Bos.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/Bos.h
+END
+ClasEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/ClasEvent.h
+END
+CLASdata_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/CLASdata_Interface.C
+END
+Index.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/Index.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/clasevent/Makefile
+END

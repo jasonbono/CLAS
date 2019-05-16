@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/FillBank
+END
+Fill_S1ST_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_S1ST_Bank.cc
+END
+Fill_TBER_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_TBER_Bank.cc
+END
+Fill_TGPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_TGPB_Bank.cc
+END
+Fill_TAGR_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_TAGR_Bank.cc
+END
+Fill_GSIM_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_GSIM_Bank.cc
+END
+Fill_HEAD_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_HEAD_Bank.cc
+END
+Fill_ICHB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_ICHB_Bank.cc
+END
+Fill_CCPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_CCPB_Bank.cc
+END
+Fill_DCPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_DCPB_Bank.cc
+END
+Fill_STPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_STPB_Bank.cc
+END
+Fill_ECPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_ECPB_Bank.cc
+END
+Fill_MCHD_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_MCHD_Bank.cc
+END
+Fill_EVNT_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_EVNT_Bank.cc
+END
+Fill_ICPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_ICPB_Bank.cc
+END
+Fill_TRGS_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_TRGS_Bank.cc
+END
+Fill_LCPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_LCPB_Bank.cc
+END
+Fill_EPIC_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_EPIC_Bank.cc
+END
+Fill_VERT_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_VERT_Bank.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/FillBank/sconstruct
+END
+FillBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/FillBank.h
+END
+Fill_TGBI_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_TGBI_Bank.cc
+END
+Fill_HLS_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_HLS_Bank.cc
+END
+Fill_EPIC_Nums.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_EPIC_Nums.cc
+END
+Fill_SCPB_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_SCPB_Bank.cc
+END
+Fill_HEADER_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_HEADER_Bank.cc
+END
+FillEPIC.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/FillEPIC.h
+END
+Fill_MVRT_Bank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Fill_MVRT_Bank.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/FillBank/Makefile
+END

@@ -1,0 +1,104 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/calibration
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2012-02-08T19:42:44.032462Z
+3280
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+cc_calib
+dir
+
+ec_calib
+dir
+
+pdu
+dir
+
+g11photonenergy
+dir
+
+gpid_mon
+dir
+
+stn_calib
+dir
+
+sc_calib
+dir
+
+ec1_calib
+dir
+
+tag_calib
+dir
+
+ec_time
+dir
+
+dc_cal
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:57.000000Z
+8c51ca7dbe3b3b564c6802b4fddede36
+2010-03-26T14:36:55.585630Z
+1024
+craigb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+346
+
+TPECal
+dir
+
+dc3
+dir
+
+ecGammaCal
+dir
+

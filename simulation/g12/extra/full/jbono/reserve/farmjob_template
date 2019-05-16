@@ -1,0 +1,39 @@
+#
+#   DDD - replaced by directory path
+#   XXX - replaced by file name
+#   YYY - replaced by path/filename
+#   ZZZ - replaced by path/tag_file
+PROJECT         g11cascademc
+COMMAND         DDD/farmscript/farmscript_XXX.vVVV
+JOBNAME         g11cascademc_egXXX.vVVV
+QUEUE           production
+OS              linux
+INPUT_FILES     DDD/genr8input/genr8input_XXX.vVVV
+OTHER_FILES:    DDD/bin/genr8
+ DDD/bin/genr82gamp
+ DDD/bin/gamp2txt
+ DDD/bin/txt2part 
+ DDD/bin/gsim_bat
+ DDD/bin/gpp
+ DDD/bin/recsis.tcl
+DDD/bin/user_ana-g11-pass1
+DDD/bin/ffread.card
+DDD/bin/gamp2kp
+DDD/bin/g112kp
+INPUT_DATA      genr8input
+TOWORK
+#OUTPUT_DATA     work.gamp
+#OUTPUT_TEMPLATE DDD/gamp/egXXX.vVVV.gamp
+#OUTPUT_DATA     work.part
+#OUTPUT_TEMPLATE DDD/part/egXXX.vVVV.part
+#OUTPUT_DATA     work.gsim*
+#OUTPUT_TEMPLATE DDD/gsim/egXXX.vVVV.gsim
+#OUTPUT_DATA     work.gpp*
+#OUTPUT_TEMPLATE DDD/gpp/egXXX.vVVV.gpp
+OUTPUT_DATA     work.bosview
+OUTPUT_TEMPLATE DDD/bosview/egXXX.vVVV.bosview
+OUTPUT_DATA     work.gampview
+OUTPUT_TEMPLATE DDD/gampview/egXXX.vVVV.gampview
+#OUTPUT_DATA     clas.out*
+#OUTPUT_TEMPLATE DDD/bosout/egXXX.vVVV.bosout
+

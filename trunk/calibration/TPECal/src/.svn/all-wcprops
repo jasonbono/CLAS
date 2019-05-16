@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/1732/trunk/calibration/TPECal/src
+END
+database_io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/1728/trunk/calibration/TPECal/src/database_io.cc
+END
+tpecal_widget.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/1730/trunk/calibration/TPECal/src/tpecal_widget.cc
+END
+GetADC_W.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/1622/trunk/calibration/TPECal/src/GetADC_W.cc
+END
+tpecal_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1657/trunk/calibration/TPECal/src/tpecal_widget.h
+END
+GetADC_W.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1653/trunk/calibration/TPECal/src/GetADC_W.h
+END
+tpecal_calib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1730/trunk/calibration/TPECal/src/tpecal_calib.cc
+END
+bos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1732/trunk/calibration/TPECal/src/bos.cc
+END
+tpecal_calib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/1728/trunk/calibration/TPECal/src/tpecal_calib.h
+END
+usage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1726/trunk/calibration/TPECal/src/usage.cc
+END
+usage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1565/trunk/calibration/TPECal/src/usage.h
+END
+help.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1622/trunk/calibration/TPECal/src/help.cc
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple
+END
+TNtupleUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/TNtupleUtil.h
+END
+3piNtp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/3piNtp.cc
+END
+p3piNtp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/p3piNtp.cc
+END
+4piNtp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/4piNtp.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/Makefile
+END
+TNtupleUtil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/714/trunk/analysis/bos2ntuple/TNtupleUtil.cc
+END

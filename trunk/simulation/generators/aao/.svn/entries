@@ -1,0 +1,107 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/simulation/generators/aao
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2012-01-17T14:30:16.531160Z
+3218
+puneetk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+allk
+dir
+
+aao_norad
+dir
+
+aao_rad
+dir
+
+fidu
+dir
+
+janr03
+dir
+
+elast_gen_old
+dir
+
+ccebac
+dir
+
+spp_int_e1
+dir
+
+elast_gen
+dir
+
+keppel_norad
+dir
+
+keppel_rad
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:40.000000Z
+d4390f7ae7827345da73835e8b95fb71
+2009-04-06T16:04:19.208141Z
+279
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+487
+
+spp_int_eg1
+dir
+
+spp_int_eg4
+dir
+
+kaon_norad
+dir
+
+kaon_rad
+dir
+

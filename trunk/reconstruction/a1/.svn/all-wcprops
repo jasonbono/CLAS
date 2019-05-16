@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/3131/trunk/reconstruction/a1
+END
+faults.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/a1/faults.c
+END
+a1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3131/trunk/reconstruction/a1/a1.c
+END
+analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/560/trunk/reconstruction/a1/analysis.c
+END
+a1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/a1/a1.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/627/trunk/reconstruction/a1/sconstruct
+END
+a1_docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/a1/a1_docs.html
+END
+cput.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/a1/cput.c
+END
+dummyaix.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/a1/dummyaix.c
+END

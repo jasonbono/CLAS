@@ -1,0 +1,24 @@
+PROJECT:  g12
+TRACK:  simulation
+JOBNAME:  g12_simulation_XXX.VVV
+COMMAND:  generatescript_XXX.VVV
+OTHER_FILES: DDD/generatescript_XXX.VVV
+INPUT_FILES: 
+DDD/genr8input_XXX.VVV
+DDD/ffread.g12 
+OUTPUT_DATA: work.gamp
+OUTPUT_TEMPLATE: OOO/work_XXX.VVV.gamp
+OUTPUT_DATA: work.part
+OUTPUT_TEMPLATE: OOO/work_XXX.VVV.part
+OUTPUT_DATA: work.gsim
+OUTPUT_TEMPLATE: OOO/work_XXX.VVV.gsim
+OUTPUT_DATA: work.gpp
+OUTPUT_TEMPLATE: OOO/work_XXX.VVV.gpp
+OUTPUT_DATA: gpp.hbook
+OUTPUT_TEMPLATE: OOO/gpp_XXX.VVV.hbook
+OUTPUT_DATA: work.a1c
+OUTPUT_TEMPLATE: OOO/work_XXX.VVV.a1c
+SINGLE_JOB: true
+DISK_SPACE: 1 GB
+TIME: 60
+MEMORY: 500 MB

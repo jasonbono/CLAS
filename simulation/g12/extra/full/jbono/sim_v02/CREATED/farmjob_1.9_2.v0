@@ -1,0 +1,39 @@
+#
+#   /Users/Bono/clas/simulation/g12/full/jbono/sim_v01 - replaced by directory path
+#   1.9_2 - replaced by file name
+#   YYY - replaced by path/filename
+#   ZZZ - replaced by path/tag_file
+PROJECT         g11cascademc
+COMMAND         /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/farmscript/farmscript_1.9_2.v0
+JOBNAME         g11cascademc_eg1.9_2.v0
+QUEUE           production
+OS              linux
+INPUT_FILES     /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/genr8input/genr8input_1.9_2.v0
+OTHER_FILES:    /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/genr8
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/genr82gamp
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/gamp2txt
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/txt2part 
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/gsim_bat
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/gpp
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/recsis.tcl
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/user_ana-g11-pass1
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/ffread.card
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/gamp2kp
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bin/g112kp
+INPUT_DATA      genr8input
+TOWORK
+#OUTPUT_DATA     work.gamp
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/gamp/eg1.9_2.v0.gamp
+#OUTPUT_DATA     work.part
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/part/eg1.9_2.v0.part
+#OUTPUT_DATA     work.gsim*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/gsim/eg1.9_2.v0.gsim
+#OUTPUT_DATA     work.gpp*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/gpp/eg1.9_2.v0.gpp
+OUTPUT_DATA     work.bosview
+OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bosview/eg1.9_2.v0.bosview
+OUTPUT_DATA     work.gampview
+OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/gampview/eg1.9_2.v0.gampview
+#OUTPUT_DATA     clas.out*
+#OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v01/bosout/eg1.9_2.v0.bosout
+

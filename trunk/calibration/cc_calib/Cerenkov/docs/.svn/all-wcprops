@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/2741/trunk/calibration/cc_calib/Cerenkov/docs
+END
+Cerenkov_cc.tex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/Cerenkov_cc.tex
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/Doxyfile
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/doxygen.css
+END
+Cerenkov_calib.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/Cerenkov_calib.tex
+END
+Cerenkov_bib.tex
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/Cerenkov_bib.tex
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/SConstruct
+END
+threshold.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/674/trunk/calibration/cc_calib/Cerenkov/docs/threshold.txt
+END
+ROC12.tab
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/343/trunk/calibration/cc_calib/Cerenkov/docs/ROC12.tab
+END
+threshold.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/673/trunk/calibration/cc_calib/Cerenkov/docs/threshold.C
+END
+go_htlatex
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/333/trunk/calibration/cc_calib/Cerenkov/docs/go_htlatex
+END

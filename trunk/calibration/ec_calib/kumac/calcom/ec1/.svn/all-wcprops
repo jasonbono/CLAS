@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec1
+END
+ec1PlotSecVec.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec1/ec1PlotSecVec.kumac
+END
+ec1GetPeakStats.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/kumac/calcom/ec1/ec1GetPeakStats.kumac
+END

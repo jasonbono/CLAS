@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1132/trunk/calibration/sc_calib/tdc_calib
+END
+ReadRoc.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/ReadRoc.cxx
+END
+BankDescription.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/1132/trunk/calibration/sc_calib/tdc_calib/BankDescription.cxx
+END
+JBosFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/JBosFile.h
+END
+TDC_put.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/TDC_put.tcl
+END
+JMainMenu.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/1072/trunk/calibration/sc_calib/tdc_calib/JMainMenu.cxx
+END
+ect_tdc_to_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/ect_tdc_to_db.sh
+END
+Spectra.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Spectra.h
+END
+Expect.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Expect.cxx
+END
+TdcHistogram.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/TdcHistogram.cxx
+END
+tdc_calib_banks.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib_banks.dat
+END
+JEventCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/JEventCount.h
+END
+tdc_calib_checkin.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib_checkin.gif
+END
+tdc_calib_menu.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib_menu.gif
+END
+JBosFile.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/1132/trunk/calibration/sc_calib/tdc_calib/JBosFile.cxx
+END
+Makefile.include
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Makefile.include
+END
+tdc_calib_banks_v2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib_banks_v2.dat
+END
+SlotAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/SlotAverage.h
+END
+Spectra.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Spectra.cxx
+END
+ReadRoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/ReadRoc.h
+END
+JEventCount.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/JEventCount.cxx
+END
+BankDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/BankDescription.h
+END
+tdc_calib.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib.cxx
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/730/trunk/calibration/sc_calib/tdc_calib/sconstruct
+END
+tdc_calib.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib.html
+END
+tdc_calib_running.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/tdc_calib_running.gif
+END
+JMainMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/JMainMenu.h
+END
+SlotAverage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/SlotAverage.cxx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Makefile
+END
+Expect.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/Expect.h
+END
+TdcHistogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/tdc_calib/TdcHistogram.h
+END

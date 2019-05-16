@@ -1,0 +1,86 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/pcor
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2011-08-02T21:30:21.713336Z
+2525
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+g6pcor
+dir
+
+Pcor
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:30.000000Z
+424149eb882c34eeace5de3cea694cf9
+2011-08-02T21:30:21.713336Z
+2525
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+152
+
+g11photonenergy
+dir
+
+g10pcor
+dir
+
+g11pcor
+dir
+
+g12pcor
+dir
+
+g1c2445pcor
+dir
+
+g1cPcor
+dir
+

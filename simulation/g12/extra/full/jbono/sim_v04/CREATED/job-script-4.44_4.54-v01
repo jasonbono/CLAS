@@ -1,0 +1,44 @@
+PROJECT         g12
+TRACK:			simulation
+COMMAND         /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/farmscript/farmscript_4.44_4.54.vv01
+JOBNAME         g12_simulation_eg4.44_4.54.vv01
+INPUT_FILES     /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/genr8input/genr8input_4.44_4.54.vv01
+
+OTHER_FILES:    
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/genr8
+ /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/ffread.card
+
+
+
+
+
+
+
+
+
+#=================================================EXTRA=======================================
+#   /Users/Bono/clas/simulation/g12/full/jbono/sim_v04 - replaced by directory path (dir) (-w)
+#   4.44_4.54 - replaced by file name  (ebin)
+#   YYY - replaced by path/filename
+#   ZZZ - replaced by path/tag_file
+#   v01 - replaced by version (jobversion)
+
+
+
+#here is some extra crap that came with
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/gamp2part
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/gsim_bat
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/gpp
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/a1c
+
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/recsis.tcl
+ #/Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bin/user_ana-g11-pass1
+
+
+# INPUT_DATA      genr8input
+# TOWORK
+
+# OUTPUT_DATA     work.bosview
+# OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/bosview/eg4.44_4.54.vv01.bosview
+# OUTPUT_DATA     work.gampview
+# OUTPUT_TEMPLATE /Users/Bono/clas/simulation/g12/full/jbono/sim_v04/gampview/eg4.44_4.54.vv01.gampview

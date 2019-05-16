@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1071/trunk/calibration/sc_calib/p2p_delay_el
+END
+p2p_to_DB.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/p2p_to_DB.sh
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/917/trunk/calibration/sc_calib/p2p_delay_el/sconstruct
+END
+README.update_04_05_05
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/README.update_04_05_05
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/Makefile
+END
+calib.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/calib.conf
+END

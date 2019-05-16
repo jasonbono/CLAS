@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/3004/build_system/trunk
+END
+format.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3003/build_system/trunk/format.py
+END
+variables.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/3004/build_system/trunk/variables.py
+END
+platform_string.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/283/build_system/trunk/platform_string.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/838/build_system/trunk/dependency.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/275/build_system/trunk/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/3003/build_system/trunk/build.py
+END
+stylize.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/275/build_system/trunk/stylize.py
+END
+environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3003/build_system/trunk/environment.py
+END
+progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/494/build_system/trunk/progress.py
+END
+optimization.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/453/build_system/trunk/optimization.py
+END

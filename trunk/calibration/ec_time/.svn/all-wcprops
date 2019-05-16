@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/799/trunk/calibration/ec_time
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/bcs.inc
+END
+ectimes4.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/ectimes4.F
+END
+initializations.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/initializations.inc
+END
+ectimes2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/ectimes2.inc
+END
+fill_seb_nt.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/fill_seb_nt.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/799/trunk/calibration/ec_time/sconstruct
+END
+retime.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/retime.F
+END
+ec_xyz_duvw.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/ec_xyz_duvw.F
+END
+ntuple_commons.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/ntuple_commons.inc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/Makefile
+END
+a1c_ntup_commons.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/a1c_ntup_commons.inc
+END
+fout_map.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/751/trunk/calibration/ec_time/fout_map.F
+END

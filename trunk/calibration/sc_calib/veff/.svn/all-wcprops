@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/730/trunk/calibration/sc_calib/veff
+END
+clean_data.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/clean_data.f
+END
+min2_veff.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/min2_veff.f
+END
+veff_calib.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/veff_calib.c
+END
+hscan_veff.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/hscan_veff.f
+END
+window.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/window.kumac
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/730/trunk/calibration/sc_calib/veff/sconstruct
+END
+read_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/read_map.c
+END
+veff.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/veff.f
+END
+veff_24.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/veff_24.kumac
+END
+Makefile.alt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/Makefile.alt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/Makefile
+END
+min_veff.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/min_veff.f
+END
+veff_const_PUT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/veff_const_PUT.sh
+END
+linear.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/veff/linear.f
+END

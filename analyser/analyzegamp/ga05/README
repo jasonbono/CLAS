@@ -1,0 +1,6 @@
+ga05: 
+
+made COS_pi_x,y,z the pion angles off the axis convention as defined in the cm frame as opposed to the gottfried jackson frame
+
+the old gottfried jackson calculation is kept as  gj_COS_pi_x,y,z
+

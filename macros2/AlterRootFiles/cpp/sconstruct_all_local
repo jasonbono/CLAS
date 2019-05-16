@@ -1,0 +1,6 @@
+import os
+env = Environment(ENV = os.environ)
+env.ParseConfig('root-config --cflags')
+env.ParseConfig('root-config --libs')
+env.ParseConfig('root-config --glibs')
+env.Program(target = 'BasicFile', source = 'BasicFile.cpp')

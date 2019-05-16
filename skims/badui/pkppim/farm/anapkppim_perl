@@ -1,0 +1,12 @@
+#!/usr/local/bin/perl -w
+$files = `ls -1 5*`;
+@array = split("\n",$files);
+open(OUTFILE1,">>status1.txt");
+foreach(@array){
+	chomp($_);
+	$name = substr($_,-9);
+	$status1 = system("ana_pkppim $name -o$name\.bos1 > $name\.view1");
+	@files_out1 = `ls $name\.*1`;
+	print OUTFILE1 $name." ".$status1 . " ".scalar @files_out1. "\n";
+}
+close(OUTFILE1);

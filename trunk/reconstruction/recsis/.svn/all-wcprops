@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/955/trunk/reconstruction/recsis
+END
+rec_epics.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rec_epics.F
+END
+retcl_yield.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/retcl_yield.F
+END
+rec_scaler.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rec_scaler.F
+END
+restat.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/restat.F
+END
+recarg.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recarg.F
+END
+revers.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/revers.F
+END
+recntrl.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recntrl.F
+END
+recini.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recini.F
+END
+reckout.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/reckout.F
+END
+scat_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/scat_init.F
+END
+renjob.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/renjob.F
+END
+recs_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recs_brun.F
+END
+reotha.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/reotha.F
+END
+hbook_open.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/hbook_open.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/837/trunk/reconstruction/recsis/sconstruct
+END
+retime.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/retime.F
+END
+status_poll_callback.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/status_poll_callback.F
+END
+hbook_close.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/hbook_close.F
+END
+recevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recevt.F
+END
+redbbk.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/redbbk.F
+END
+rebgjb.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rebgjb.F
+END
+recsis_main.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recsis_main.F
+END
+control_callback.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/control_callback.F
+END
+retcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/retcl_init.F
+END
+rendda.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rendda.F
+END
+re_et_get.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/re_et_get.F
+END
+quit_callback.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/quit_callback.F
+END
+re_dd_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/re_dd_init.F
+END
+rernev.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rernev.F
+END
+re_record.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/re_record.F
+END
+rntcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rntcl_init.F
+END
+recsis_proc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/955/trunk/reconstruction/recsis/recsis_proc.tcl
+END
+rfatal.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rfatal.F
+END
+reckin.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/reckin.F
+END
+dd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/dd.inc
+END
+rerror.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rerror.F
+END
+rejob_info.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rejob_info.F
+END
+re_dd_get.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/re_dd_get.F
+END
+recpu.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recpu.F
+END
+rebgrn.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rebgrn.F
+END
+re_et_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/re_et_init.F
+END
+recs_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recs_erun.F
+END
+reclos.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/reclos.F
+END
+rendrn.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/rendrn.F
+END
+recsis.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/recsis.F
+END
+copy_pipeline_tdc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/recsis/copy_pipeline_tdc.cc
+END

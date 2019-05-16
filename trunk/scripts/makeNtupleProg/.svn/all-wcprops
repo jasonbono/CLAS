@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg
+END
+NtupleProg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/NtupleProg
+END
+rm_database
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/rm_database
+END
+pr_database
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/pr_database
+END
+ddl2nt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/ddl2nt
+END
+rm_bank
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/rm_bank
+END
+mk_database
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/makeNtupleProg/mk_database
+END

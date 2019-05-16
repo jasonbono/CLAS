@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains
+END
+gains.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/gains.kumac
+END
+plot_sc_gain.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/plot_sc_gain.kumac
+END
+hscan_gains.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/hscan_gains.f
+END
+gain_24.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/gain_24.kumac
+END
+window.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/window.kumac
+END
+gains_fit.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/gains_fit.f
+END
+min_gains.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/min_gains.f
+END
+link_script_gains.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/link_script_gains.sh
+END
+min_gains_main.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/min_gains_main.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/Makefile
+END
+min_gains_main.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/min_gains_main.bat
+END
+gains_func_plot.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/gains/gains_func_plot.f
+END

@@ -1,0 +1,5 @@
+
+PROJECT:         MyTestProject
+TRACK:           MyTestTrack
+COMMAND         /u/home/jbono/test/farmjobtest/test1.sh
+JOBNAME         MyTestName

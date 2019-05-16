@@ -1,0 +1,89 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/detector
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2010-09-09T15:13:14.967728Z
+1414
+dschott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+lac
+dir
+
+icf
+dir
+
+cc
+dir
+
+sc
+dir
+
+dc
+dir
+
+st
+dir
+
+ec
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:16:06.000000Z
+bd8f75099b6e5e94fae8c1b03710a44f
+2009-08-27T18:11:51.351714Z
+560
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+267
+
+sh
+dir
+
+tag
+dir
+

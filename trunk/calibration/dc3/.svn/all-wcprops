@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/735/trunk/calibration/dc3
+END
+c_cern.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/c_cern.h
+END
+dc3_tfind.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_tfind.cc
+END
+tcl2c.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl2c.pl
+END
+dc3_caldb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_caldb.cc
+END
+recsis_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/recsis_dummy.c
+END
+dc3_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_map.cc
+END
+dc3_plot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_plot.cc
+END
+dc3_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_image.c
+END
+dc3_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_file.cc
+END
+dc3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3.cc
+END
+dc3.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3.xbm
+END
+dc3_fit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_fit.cc
+END
+dc3.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3.h
+END
+update_version.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/update_version.pl
+END
+dc3_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_filter.cc
+END
+dc3_help.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_help.cc
+END
+dc3_quality.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/614/trunk/calibration/dc3/dc3_quality.cc
+END
+dc3.jcc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3.jcc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/735/trunk/calibration/dc3/sconstruct
+END
+c_cern.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/c_cern.c
+END
+gif2C.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/gif2C.c
+END
+dc3_logo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_logo.cc
+END
+dc3.gif
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3.gif
+END
+dc3_4bit_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/dc3_4bit_image.c
+END
+tcl_procs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl_procs.h
+END

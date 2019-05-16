@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/clas/!svn/ver/307/trunk/io/fdump
+END
+fdump.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/284/trunk/io/fdump/fdump.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/284/trunk/io/fdump/sconstruct
+END
+fdump_dummy.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/284/trunk/io/fdump/fdump_dummy.F
+END

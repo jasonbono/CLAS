@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1773/trunk/analysis/trk_mon
+END
+dcmn.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon/dcmn.ddl
+END
+trk_mon_docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon/trk_mon_docs.html
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/612/trunk/analysis/trk_mon/sconstruct
+END
+trk_mon.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1773/trunk/analysis/trk_mon/trk_mon.c
+END
+tm_ntuples.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon/tm_ntuples.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/298/trunk/analysis/trk_mon/Makefile_alt
+END

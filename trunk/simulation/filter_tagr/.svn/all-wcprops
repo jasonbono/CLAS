@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/753/trunk/simulation/filter_tagr
+END
+filter_tagr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/753/trunk/simulation/filter_tagr/filter_tagr.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/753/trunk/simulation/filter_tagr/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/753/trunk/simulation/filter_tagr/Makefile
+END

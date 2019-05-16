@@ -1,0 +1,2153 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/3279/trunk/simulation/gsim
+END
+tg_e2_tmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/tg_e2_tmed.inc
+END
+gsimflags.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gsimflags.inc
+END
+ccdpln.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdpln.F
+END
+step_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/step_sh.F
+END
+last_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_cc.F
+END
+sets_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/sets_sh.F
+END
+init_mate.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3216/trunk/simulation/gsim/init_mate.F
+END
+dusp.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dusp.F
+END
+lcsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcsets.inc
+END
+set_tpar.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/set_tpar.F
+END
+ccvpho.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccvpho.F
+END
+ccdrawp.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdrawp.F
+END
+sccalib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sccalib.inc
+END
+ectmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ectmed.inc
+END
+cfblkd.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfblkd.F
+END
+trev_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_dc.F
+END
+trev_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_st.F
+END
+last_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_sc.F
+END
+ccreflpl.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccreflpl.F
+END
+ffpar_foil.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_foil.inc
+END
+ugeom_tg_e2.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e2.F
+END
+gtnino.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gtnino.F
+END
+get_sector.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_sector.F
+END
+cfking.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfking.F
+END
+kine_liz.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/kine_liz.F
+END
+clas_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_last.F
+END
+cctrak.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cctrak.F
+END
+lcmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcmed.inc
+END
+ecsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ecsets.inc
+END
+ffky_sol.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/ffky_sol.F
+END
+bos_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/bos_sh.F
+END
+geom_tg_g7.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_tg_g7.F
+END
+out_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_ec.F
+END
+geom_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_ec1.F
+END
+geom_ic1.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2776/trunk/simulation/gsim/geom_ic1.F
+END
+clas_phys.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_phys.F
+END
+ccinic.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccinic.F
+END
+ffpar_ec.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_ec.inc
+END
+cfnrot.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfnrot.F
+END
+geom_dc_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_dc_c.c
+END
+get_lun.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_lun.F
+END
+snake_dipole.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/snake_dipole.F
+END
+step_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_ec1.F
+END
+ccrefs.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccrefs.F
+END
+guser_trak.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_trak.F
+END
+ffky_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_ec.F
+END
+ec1tmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1tmed.inc
+END
+shgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/shgeom.inc
+END
+step_ic1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_ic1.F
+END
+clas_part.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_part.F
+END
+last_ic.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/last_ic.F
+END
+ffky_mg.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_mg.F
+END
+dcgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dcgeom.inc
+END
+stgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/stgeom.inc
+END
+gsimpar_2_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/gsimpar_2_bos.F
+END
+ffpar_bckgr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_bckgr.inc
+END
+ccwcfrs.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccwcfrs.F
+END
+ec1sets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1sets.inc
+END
+ccdig.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdig.inc
+END
+ccfrmp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccfrmp.inc
+END
+geant_shapes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geant_shapes.h
+END
+cflset.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cflset.inc
+END
+digi_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/digi_sh.F
+END
+gustep.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gustep.F
+END
+gudigi.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gudigi.F
+END
+cccom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cccom.inc
+END
+lcsc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcsc.inc
+END
+last_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_dc.F
+END
+last_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_st.F
+END
+snake_ptg.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/snake_ptg.F
+END
+geom_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/geom_sh.F
+END
+gukine.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gukine.F
+END
+cctosg.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cctosg.F
+END
+bos_mcpa.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_mcpa.F
+END
+get_mate.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_mate.F
+END
+ec1dep.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1dep.inc
+END
+cctrev.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cctrev.F
+END
+trev_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_ec.F
+END
+gmail.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gmail.F
+END
+ccxtoi.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccxtoi.F
+END
+digi_stnew.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_stnew.F
+END
+out_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_ec1.F
+END
+uglast.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/uglast.F
+END
+ugeom_tg_eg2.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_eg2.F
+END
+cfemsh.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfemsh.F
+END
+gsim_trigger.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gsim_trigger.inc
+END
+ffky_bckgr.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_bckgr.F
+END
+cfpid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfpid.inc
+END
+mcin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/mcin.inc
+END
+gsimout.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gsimout.inc
+END
+bos_cc_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_cc_t.F
+END
+init_tmed.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2148/trunk/simulation/gsim/init_tmed.F
+END
+kine_mcin_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/kine_mcin_t.F
+END
+geom_usertg.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_usertg.F
+END
+geom_st_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_st_init.F
+END
+geom_tg.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/3213/trunk/simulation/gsim/geom_tg.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/759/trunk/simulation/gsim/sconstruct
+END
+guser_trev.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_trev.F
+END
+sc_gsim.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sc_gsim.h
+END
+00README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/00README.txt
+END
+ictmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ictmed.inc
+END
+clas_bckgr.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_bckgr.F
+END
+kine_smear_vx.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/912/trunk/simulation/gsim/kine_smear_vx.F
+END
+last_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_ec1.F
+END
+ptg_field.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/ptg_field.F
+END
+ugeom_tg_e2b.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e2b.F
+END
+scmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/scmate.inc
+END
+geom_phtg8.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/912/trunk/simulation/gsim/geom_phtg8.F
+END
+clas_trak.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_trak.F
+END
+sets_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_ec1.F
+END
+geom_stnew.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_stnew.F
+END
+guser_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_init.F
+END
+cctest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cctest.inc
+END
+ccshft.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccshft.F
+END
+sets_ic1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_ic1.F
+END
+icsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/icsets.inc
+END
+ccrose.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccrose.F
+END
+get_rotm.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_rotm.F
+END
+step_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_cc.F
+END
+ccwcpar.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccwcpar.F
+END
+sets_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_cc.F
+END
+clas_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_bos.F
+END
+cfedep.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfedep.F
+END
+sc_com.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sc_com.inc
+END
+bos_sc_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_sc_t.c
+END
+maketagr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/maketagr.c
+END
+cftrev.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cftrev.F
+END
+geom_HD_cryostat.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_HD_cryostat.F
+END
+tg_e2_mate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/tg_e2_mate.inc
+END
+ffpar_ic.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_ic.inc
+END
+guser_book.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_book.F
+END
+ugeom_tg_e1d.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e1d.F
+END
+bos_tagr.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_tagr.F
+END
+step_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_sc.F
+END
+out_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/out_sh.F
+END
+ec1geom.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1geom.dat
+END
+sets_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_sc.F
+END
+guser_ffky.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_ffky.F
+END
+geom_sol.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2316/trunk/simulation/gsim/geom_sol.F
+END
+digi_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_ec1.F
+END
+digi_ic1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_ic1.F
+END
+last_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/last_ec.F
+END
+cfinit.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfinit.F
+END
+ccout.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccout.F
+END
+ecmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ecmate.inc
+END
+gsimcontrol.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gsimcontrol.inc
+END
+brubz.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/brubz.F
+END
+cftmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cftmed.inc
+END
+bos_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_cc.F
+END
+ccitox.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccitox.F
+END
+geom_phtg1.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_phtg1.F
+END
+ccdlin.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdlin.F
+END
+cfr2hx.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfr2hx.F
+END
+cltmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2148/trunk/simulation/gsim/cltmed.inc
+END
+get_idtype.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_idtype.F
+END
+ccturn.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccturn.F
+END
+sets_stnew.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/912/trunk/simulation/gsim/sets_stnew.F
+END
+gsim_bos.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2061/trunk/simulation/gsim/gsim_bos.c
+END
+ugeom_tg_e5.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e5.F
+END
+kine_bogdan.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/kine_bogdan.F
+END
+bos_stnew.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_stnew.F
+END
+init_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_cc.F
+END
+gsim_c_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/3212/trunk/simulation/gsim/gsim_c_common.h
+END
+dcpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dcpar.inc
+END
+cfpara.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfpara.inc
+END
+cctowc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cctowc.F
+END
+clas_trev.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_trev.F
+END
+dctmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dctmed.inc
+END
+mat_cor.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/mat_cor.F
+END
+sttmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sttmed.inc
+END
+ffpar_cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_cc.inc
+END
+get_tmed.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_tmed.F
+END
+init_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_sc.F
+END
+ffky_tg.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/ffky_tg.F
+END
+cfcomd.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfcomd.F
+END
+shsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/shsets.inc
+END
+ccframe.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccframe.F
+END
+ugeom_tg_e1e.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e1e.F
+END
+ec1mate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1mate.inc
+END
+ccwccr.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccwccr.F
+END
+bos_sc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_sc.c
+END
+clas_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_init.F
+END
+ffpar_sc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_sc.inc
+END
+dcsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dcsets.inc
+END
+stsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/stsets.inc
+END
+guser_fld.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_fld.F
+END
+sgnrot.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sgnrot.F
+END
+inuli.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/inuli.F
+END
+digi_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_cc.F
+END
+processevt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/processevt.inc
+END
+step_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_dc.F
+END
+step_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/step_st.F
+END
+ugeom_tg_e16.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e16.F
+END
+geom_eltg1.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_eltg1.F
+END
+clas_ffgo.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_ffgo.F
+END
+cfstat.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfstat.F
+END
+sets_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_dc.F
+END
+sets_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sets_st.F
+END
+ggauss.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ggauss.F
+END
+ellipt.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ellipt.F
+END
+geom_phtg2.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_phtg2.F
+END
+geom_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_cc.F
+END
+ccvcrpl.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccvcrpl.F
+END
+processevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/processevt.F
+END
+geom_tg_frost.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/2084/trunk/simulation/gsim/geom_tg_frost.F
+END
+free_lun.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/free_lun.F
+END
+ccortbas.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccortbas.F
+END
+gufld.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gufld.F
+END
+ccph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccph.inc
+END
+clas_ffky.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_ffky.F
+END
+digi_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_sc.F
+END
+mgtmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/mgtmed.inc
+END
+snake.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/snake.F
+END
+guser_beg.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_beg.F
+END
+guout.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guout.F
+END
+ccdraw.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdraw.F
+END
+ccfrsg.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccfrsg.F
+END
+ugeom_tg_dvcs2.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/2188/trunk/simulation/gsim/ugeom_tg_dvcs2.F
+END
+ffpar_tg_g7.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_tg_g7.inc
+END
+utchmy.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/utchmy.F
+END
+bos_dc_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_dc_t.F
+END
+geom_ec1_ini.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_ec1_ini.F
+END
+init_ic.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_ic.F
+END
+ccturnx.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccturnx.F
+END
+bos_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_dc.F
+END
+bos_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_st.F
+END
+gutrak.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gutrak.F
+END
+scgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/scgeom.inc
+END
+ffpar_mg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/ffpar_mg.inc
+END
+init_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_dc.F
+END
+geom_sc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_sc.c
+END
+ffky_ptg.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/ffky_ptg.F
+END
+init_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_st.F
+END
+guser_hist.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_hist.F
+END
+init_flags.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2072/trunk/simulation/gsim/init_flags.F
+END
+ccstep.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/912/trunk/simulation/gsim/ccstep.F
+END
+inpart.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/inpart.inc
+END
+ccdigi.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdigi.F
+END
+geom_eltg2.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_eltg2.F
+END
+ccdein.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdein.F
+END
+icmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/icmate.inc
+END
+cccompr.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cccompr.F
+END
+lcgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcgeom.inc
+END
+guser_geom.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_geom.F
+END
+geom_phtg3.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_phtg3.F
+END
+makehead.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/makehead.c
+END
+last_sh.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/last_sh.F
+END
+uginit.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/uginit.F
+END
+ffpar_dvcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_dvcs.inc
+END
+guskip.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guskip.F
+END
+ffpar_tg_e2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_tg_e2.inc
+END
+bos_head.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_head.F
+END
+get_part.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/get_part.F
+END
+bos_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_ec1.F
+END
+out_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_cc.F
+END
+bos_ic1.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_ic1.F
+END
+ccdefk.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdefk.F
+END
+guser_step.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_step.F
+END
+ccrefloc.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccrefloc.F
+END
+ccview.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccview.F
+END
+guser_digi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_digi.F
+END
+ccrosh.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccrosh.F
+END
+stgeom.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/stgeom.dat
+END
+digi_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_dc.F
+END
+digi_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_st.F
+END
+step_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2084/trunk/simulation/gsim/step_ec.F
+END
+ecgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ecgeom.inc
+END
+cfvtmd.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfvtmd.F
+END
+uftmed.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/uftmed.F
+END
+sets_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/2084/trunk/simulation/gsim/sets_ec.F
+END
+ptgtmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3214/trunk/simulation/gsim/ptgtmed.inc
+END
+init_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_ec1.F
+END
+guser_kine.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_kine.F
+END
+out_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_sc.F
+END
+geom_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_st.F
+END
+beg_run_summary.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/beg_run_summary.F
+END
+cfgam1.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfgam1.F
+END
+geom_foil.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3227/trunk/simulation/gsim/geom_foil.F
+END
+ffky_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_cc.F
+END
+ccdln2.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdln2.F
+END
+ugeom_tg_eg6.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/ugeom_tg_eg6.F
+END
+gutrev.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gutrev.F
+END
+ffpar_sh.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/ffpar_sh.inc
+END
+cfstmd.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfstmd.F
+END
+geom_ec_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_ec_init.F
+END
+ffpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar.inc
+END
+ffky_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_sc.F
+END
+cfstep.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfstep.F
+END
+ffky_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_ec1.F
+END
+ffpar_st.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_st.inc
+END
+ffpar_dc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_dc.inc
+END
+clmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/3211/trunk/simulation/gsim/clmate.inc
+END
+bos_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/2084/trunk/simulation/gsim/bos_ec.F
+END
+lcstc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcstc.inc
+END
+geom_phtg4.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_phtg4.F
+END
+bos_mcev.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_mcev.F
+END
+calib_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/calib_sc.F
+END
+ec1geom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ec1geom.inc
+END
+gsim_help.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gsim_help.F
+END
+ccfrwc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccfrwc.F
+END
+ccdefpar.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccdefpar.F
+END
+ccwcrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccwcrf.F
+END
+kine_lund.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3279/trunk/simulation/gsim/kine_lund.F
+END
+cclast.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cclast.F
+END
+init_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_ec.F
+END
+ffpar_ec1.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffpar_ec1.inc
+END
+ffpar_tg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/ffpar_tg.inc
+END
+ffky_dvcs.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_dvcs.F
+END
+dcmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/dcmate.inc
+END
+stmate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/stmate.inc
+END
+out_ic.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/2071/trunk/simulation/gsim/out_ic.F
+END
+lcmat.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/lcmat.inc
+END
+trev_cc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_cc.F
+END
+ugeom_tg_dvcs.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_dvcs.F
+END
+gsimpar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/gsimpar.inc
+END
+init_mg.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/init_mg.F
+END
+cfr2ex.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfr2ex.F
+END
+clas_geom.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_geom.F
+END
+digi_trig.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_trig.F
+END
+trev_sc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_sc.F
+END
+clas_fld.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2092/trunk/simulation/gsim/clas_fld.F
+END
+guser_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_last.F
+END
+clas_out.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_out.F
+END
+ffky_ic.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_ic.F
+END
+bos_ec_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/2084/trunk/simulation/gsim/bos_ec_t.F
+END
+out_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_dc.F
+END
+out_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/out_st.F
+END
+clas_digi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_digi.F
+END
+digi_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/digi_ec.F
+END
+guser_phys.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_phys.F
+END
+clas_kine.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/clas_kine.F
+END
+ccrotp.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccrotp.F
+END
+cc1to2.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cc1to2.F
+END
+ffpar_ptg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1983/trunk/simulation/gsim/ffpar_ptg.inc
+END
+kine_mcin.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/kine_mcin.F
+END
+geom_phtg5.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_phtg5.F
+END
+geom_ec.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_ec.F
+END
+bos_ec1_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bos_ec1_t.F
+END
+cfhdsh.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cfhdsh.F
+END
+geom_ptg.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/3215/trunk/simulation/gsim/geom_ptg.F
+END
+ugeom_tg_e6a.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ugeom_tg_e6a.F
+END
+sctmed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/sctmed.inc
+END
+ffky_st.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_st.F
+END
+ffky_dc.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_dc.F
+END
+ffky_foil.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ffky_foil.F
+END
+trev_ec1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/trev_ec1.F
+END
+geom_mg.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/geom_mg.F
+END
+clas_step.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/2070/trunk/simulation/gsim/clas_step.c
+END
+guser_part.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_part.F
+END
+bgrid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/bgrid.inc
+END
+ccwcmcr.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccwcmcr.F
+END
+calib_sc_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/calib_sc_init.F
+END
+cc_vert.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/cc_vert.F
+END
+icgeom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/1996/trunk/simulation/gsim/icgeom.inc
+END
+guser_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/guser_bos.F
+END
+gnpgon.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/gnpgon.F
+END
+scsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/scsets.inc
+END
+ccp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/simulation/gsim/ccp.inc
+END

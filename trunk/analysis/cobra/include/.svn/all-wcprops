@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include
+END
+ClasRuns.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/ClasRuns.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/Constants.h
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/Event.h
+END
+ParticleArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/ParticleArray.h
+END
+Bos.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/Bos.h
+END
+ClasEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/ClasEvent.h
+END
+KinFit.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/KinFit.h
+END
+Eloss.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/Eloss.h
+END
+ParticleTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/include/ParticleTypes.h
+END

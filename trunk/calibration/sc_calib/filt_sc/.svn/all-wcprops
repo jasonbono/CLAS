@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/filt_sc
+END
+filt_highsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/filt_sc/filt_highsc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/filt_sc/Makefile
+END

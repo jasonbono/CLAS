@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/parray
+END
+PArrayLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/parray/PArrayLinkDef.h
+END
+TypeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/parray/TypeInfo.h
+END
+TypeInfo.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/parray/TypeInfo.tcc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/945/trunk/analysis/cobra/parray/sconstruct
+END
+PArrayElement_Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/parray/PArrayElement_Base.h
+END
+ParticleArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/parray/ParticleArray.h
+END
+ParticleArray.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/parray/ParticleArray.tcc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/parray/Makefile
+END
+PArrayElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/parray/PArrayElement.h
+END
+TypeInfo.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/parray/TypeInfo.C
+END

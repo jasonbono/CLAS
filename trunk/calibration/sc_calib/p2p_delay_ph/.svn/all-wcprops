@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph
+END
+processConstants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/processConstants.cc
+END
+hist_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/hist_offsets.c
+END
+Makefile.old
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/Makefile.old
+END
+fit_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/fit_offsets.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/Makefile_alt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_ph/README
+END

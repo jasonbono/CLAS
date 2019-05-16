@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Corrections
+END
+Makefile_depends
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/Makefile_depends
+END
+TCLASCorrectionsG11A.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG11A.cc
+END
+TCLASCorrectionsG11A.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG11A.h
+END
+TCLASCorrectionsGSIMLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsGSIMLinkDef.h
+END
+TCLASCorrectionsGSIM.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsGSIM.cc
+END
+TCLASCorrectionsGSIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsGSIM.h
+END
+sim_part.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/sim_part.C
+END
+TEnergyLossLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TEnergyLossLinkDef.h
+END
+TEnergyLoss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TEnergyLoss.cc
+END
+TFuncLossLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncLossLinkDef.h
+END
+TFuncLoss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncLoss.cc
+END
+TCLASCorrectionsLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsLinkDef.h
+END
+TCLASCorrections.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrections.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/Corrections/sconstruct
+END
+TCLASCorrections.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrections.h
+END
+test_TCLASCorrect.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/test_TCLASCorrect.C
+END
+make_a_class.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/make_a_class.pl
+END
+TCLASCorrectionBaseLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionBaseLinkDef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/Makefile_alt
+END
+TCLASCorrectionBase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionBase.cc
+END
+TCLASCorrectionBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionBase.h
+END
+TFuncInterceptLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncInterceptLinkDef.h
+END
+TCLASCorrectionsG10DLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG10DLinkDef.h
+END
+TFuncIntercept.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncIntercept.cc
+END
+TCLASCorrectionsG10D.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG10D.cc
+END
+TFuncIntercept.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncIntercept.h
+END
+TCLASCorrectionsG10D.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG10D.h
+END
+Makefile_standalone
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/Makefile_standalone
+END
+test_CCLASS.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/test_CCLASS.C
+END
+test_TEnergyLoss.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/test_TEnergyLoss.C
+END
+test_TFuncLoss.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/test_TFuncLoss.C
+END
+TEnergyLoss.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TEnergyLoss.h
+END
+TFuncLoss.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TFuncLoss.h
+END
+cpp_fortran_crosscheck.eps
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/cpp_fortran_crosscheck.eps
+END
+TCLASCorrectionsG11ALinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/Corrections/TCLASCorrectionsG11ALinkDef.h
+END

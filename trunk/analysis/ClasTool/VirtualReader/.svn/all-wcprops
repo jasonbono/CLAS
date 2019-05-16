@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/VirtualReader
+END
+TVirtualReaderLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/VirtualReader/TVirtualReaderLinkDef.h
+END
+TVirtualReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/VirtualReader/TVirtualReader.cc
+END
+TVirtualReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/VirtualReader/TVirtualReader.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/VirtualReader/sconstruct
+END
+Load_Libs.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/VirtualReader/Load_Libs.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/VirtualReader/Makefile
+END

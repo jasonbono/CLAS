@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM
+END
+tagM_brun.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_brun.c
+END
+tagM_GetTCounterHits.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_GetTCounterHits.c
+END
+tagM_GetECounterHits.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_GetECounterHits.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/sconstruct
+END
+tagM_evt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_evt.c
+END
+tagM_GetETCoincidences.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_GetETCoincidences.c
+END
+tagM_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_init.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/README
+END
+tagM_GetTChannelHits.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_GetTChannelHits.c
+END
+tagM_GetEChannelHits.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_GetEChannelHits.c
+END
+tagM_make_TAGM.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/tagM/tagM_make_TAGM.c
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql
+END
+string_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/string_functions.c
+END
+read_ddlfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/read_ddlfile.c
+END
+sys_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/sys_utils.c
+END
+add_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/add_group.c
+END
+init_clas.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/init_clas.c
+END
+add_column.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/add_column.c
+END
+set_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/set_group.c
+END
+set_column.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/set_column.c
+END
+print_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/print_group.c
+END
+delete_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/delete_table.c
+END
+fort_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/fort_wrapper.c
+END
+create_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/create_table.c
+END
+connect_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/connect_server.c
+END
+init_csql.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/init_csql.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/sconstruct
+END
+execute_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/execute_query.c
+END
+fill_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/io/c_sql/fill_table.c
+END

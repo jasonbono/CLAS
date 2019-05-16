@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/clas/!svn/ver/441/trunk/detector/st
+END
+st_guess_nhits.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_guess_nhits.F
+END
+stpp_JBosBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_JBosBank.h
+END
+stpp_SThit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_SThit.cc
+END
+stpp_SThit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_SThit.h
+END
+st_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_fetch_to_BOS.F
+END
+stpp_JCalibration.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/430/trunk/detector/st/stpp_JCalibration.cc
+END
+stpp_initialize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_initialize.cc
+END
+st_rootcint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_rootcint.h
+END
+st_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_last.F
+END
+stpp_JCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_JCalibration.h
+END
+stcal_default.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stcal_default.F
+END
+st_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_tcl_init.F
+END
+st_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_brun.F
+END
+doxygen.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/st/doxygen.conf
+END
+stpp_STvector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/351/trunk/detector/st/stpp_STvector.cc
+END
+stpp_STvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/351/trunk/detector/st/stpp_STvector.h
+END
+st_time_walk.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_time_walk.F
+END
+st_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/351/trunk/detector/st/st_evnt.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/st/sconstruct
+END
+st_LinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_LinkDef.h
+END
+stgeom.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stgeom.CMN
+END
+st_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_wrapper.cc
+END
+st_fit.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_fit.F
+END
+stpp_STdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/351/trunk/detector/st/stpp_STdata.h
+END
+st_calibrate.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_calibrate.F
+END
+stcal.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stcal.CMN
+END
+st_makeSTG.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_makeSTG.c
+END
+sttrk.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/sttrk.CMN
+END
+st.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st.ddl
+END
+st_bevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_bevt.F
+END
+st_find_trk.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_find_trk.F
+END
+get_code_type.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/441/trunk/detector/st/get_code_type.c
+END
+stgeom_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stgeom_print.c
+END
+stread_from_bos.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stread_from_bos.F
+END
+st_reset_arrays.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_reset_arrays.F
+END
+st_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_init.F
+END
+st_maputilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_maputilities.c
+END
+stitm_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stitm_fetch_to_BOS.F
+END
+stgeom_initialize.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stgeom_initialize.F
+END
+stconvert.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stconvert.CMN
+END
+st_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_set_def.F
+END
+st_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_erun.F
+END
+st_general.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/st/st_general.PAR
+END
+stfit.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stfit.CMN
+END
+stpp_STposition.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_STposition.cc
+END
+sttcl.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/sttcl.CMN
+END
+stpp_evnt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/351/trunk/detector/st/stpp_evnt.cc
+END
+sthit.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/st/sthit.CMN
+END
+stpp_STposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_STposition.h
+END
+stn_find_trk.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stn_find_trk.F
+END
+stpp_caldbtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/st/stpp_caldbtable.h
+END
+stpp_STdata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/351/trunk/detector/st/stpp_STdata.cc
+END
+makeCL01.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/st/makeCL01.c
+END

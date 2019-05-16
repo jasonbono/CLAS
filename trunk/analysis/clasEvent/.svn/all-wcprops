@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/1835/trunk/analysis/clasEvent
+END
+clasUtilities.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/clasUtilities.cc
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1835/trunk/analysis/clasEvent/Doxyfile
+END
+mwKfit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/947/trunk/analysis/clasEvent/mwKfit.cc
+END
+mwKfit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/mwKfit.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/948/trunk/analysis/clasEvent/sconstruct
+END
+clasEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1410/trunk/analysis/clasEvent/clasEvent.cc
+END
+clasEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/511/trunk/analysis/clasEvent/clasEvent.h
+END
+clasEvent.dox
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/analysis/clasEvent/clasEvent.dox
+END

@@ -1,0 +1,7 @@
+import os
+
+env = Environment(ENV = os.environ)
+
+env.ParseConfig('root-config --cflags --libs --glibs')
+
+env.Program(target = 'jasons_analysis', source = 'jasons_analysis.cxx')

@@ -1,0 +1,10 @@
+    //Phase space generate                                                                                   
+    event.SetDecay(W,nParticles,masses); //Initialize the state in genbod                                    
+    Double_t testVal = 2.0;
+    vsWeight = 0.0;
+    while(testVal>vsWeight){//Monte Carlo the event to allow vsWeight=1                                      
+      vsWeight = event.Generate(); //Get the weight                                                          
+      testVal = testRand->Uniform(0.0,1.0); //Grab a test value                                              
+    }
+    //Since output of TGenPhaseSpace has been Monte Carlo'd, set vsWeight=1                                  
+    vsWeight = 1.0;

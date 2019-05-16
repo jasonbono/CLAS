@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/1164/trunk/physmath/pwaUtil
+END
+algebraUtil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/algebraUtil.cc
+END
+algebra.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/algebra.cc
+END
+intrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/intrac.c
+END
+algebra.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/algebra.h
+END
+minuit91.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/minuit91.F
+END
+pwaData.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/pwaData.cc
+END
+fortIO.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/fortIO.F
+END
+pwaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/pwaData.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/sconstruct
+END
+qcxlib2.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/physmath/pwaUtil/qcxlib2.F
+END

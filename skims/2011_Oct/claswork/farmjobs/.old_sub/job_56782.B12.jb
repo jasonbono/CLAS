@@ -1,0 +1,11 @@
+PROJECT: g12
+TRACK: analysis
+JOBNAME: ppskim_56782.B12
+COMMAND: /w/hallb/clasg12/jbono/skim/Oct6_11/kpkppim 56782.B12 -ofile1.bos
+INPUT_FILES: /w/mss/clas/g12/production/pass1/bos/1-1ckaon1ctrk/56782.B12
+OUTPUT_DATA: file1.bos
+OUTPUT_TEMPLATE: /w/mss/clas/g12/production/pass1/user_skims/jbono/kpkppim/56782.B12.bos
+SINGLE_JOB: true
+DISK_SPACE: 5 GB
+TIME: 60
+MEMORY: 500 MB

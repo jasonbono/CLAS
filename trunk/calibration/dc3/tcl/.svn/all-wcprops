@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl
+END
+logo.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/logo.tcl
+END
+tzero.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/tzero.tcl
+END
+go.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/go.tcl
+END
+caldb.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/caldb.tcl
+END
+expert.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/expert.tcl
+END
+residual.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/residual.tcl
+END
+tmax.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/tmax.tcl
+END
+copy_parms.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/copy_parms.tcl
+END
+map.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/map.tcl
+END
+notebook.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/notebook.tcl
+END
+fit.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/fit.tcl
+END
+main.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/main.tcl
+END
+filter.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/filter.tcl
+END
+quality.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/quality.tcl
+END
+expert_controls.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/expert_controls.tcl
+END
+options.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/options.tcl
+END
+misc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/calibration/dc3/tcl/misc.tcl
+END

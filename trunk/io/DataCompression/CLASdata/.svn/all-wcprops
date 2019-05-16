@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1019/trunk/io/DataCompression/CLASdata
+END
+Photons.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Photons.h
+END
+EventHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/EventHeader.h
+END
+Charged.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Charged.h
+END
+AParticle.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/AParticle.C
+END
+ATrack.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/ATrack.C
+END
+AParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/AParticle.h
+END
+ATrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/1019/trunk/io/DataCompression/CLASdata/ATrack.h
+END
+htmldoc_macro.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/htmldoc_macro.C
+END
+CLASdata.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/CLASdata.C
+END
+CLASdataLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/CLASdataLinkDef.h
+END
+TAGRentry.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/TAGRentry.C
+END
+CLASdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/971/trunk/io/DataCompression/CLASdata/CLASdata.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/sconstruct
+END
+Tracks.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Tracks.C
+END
+Photons.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Photons.C
+END
+EventHeader.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/EventHeader.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Makefile
+END
+Tracks.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Tracks.h
+END
+Charged.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/942/trunk/io/DataCompression/CLASdata/Charged.C
+END

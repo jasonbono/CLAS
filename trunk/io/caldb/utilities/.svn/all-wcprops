@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/clas/!svn/ver/302/trunk/io/caldb/utilities
+END
+caldb_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/utilities/caldb_write.c
+END
+caldb_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/utilities/caldb_read.c
+END
+caldb_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/utilities/caldb_test.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/302/trunk/io/caldb/utilities/sconstruct
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/utilities/README
+END

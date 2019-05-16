@@ -1,0 +1,33 @@
+PROJECT:  g12
+TRACK:  simulation
+JOBNAME:  g12_simulation_2.8_2.9.v04
+COMMAND:  generatescript_2.8_2.9.v04
+OTHER_FILES: /Users/Bono/clas/simulation/g12/full/jbono/sim_v10/CREATED/generatescript_2.8_2.9.v04
+INPUT_FILES: 
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v10/CREATED/genr8input_2.8_2.9.v04
+/Users/Bono/clas/simulation/g12/full/jbono/sim_v10/CREATED/ffread.g12
+/u/home/jbono/SendGet/g12ana/v37k/build/bin/v37k
+OUTPUT_DATA: work.gamp
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.gamp
+OUTPUT_DATA: work.part
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.part
+OUTPUT_DATA: work.gsim
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.gsim
+OUTPUT_DATA: work.gpp
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.gpp
+OUTPUT_DATA: gpp.hbook
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.hbook
+OUTPUT_DATA: work.a1c
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/MC_2.8_2.9.v04.a1c
+OUTPUT_DATA: v37k.view
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/v37k.view
+OUTPUT_DATA: v37k.lab
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/v37k.lab
+OUTPUT_DATA: v37k.C
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/v37k.C
+OUTPUT_DATA: v37k.root
+OUTPUT_TEMPLATE: /w/hallb/clasg12/jbono/sim/DATA/v37k.root
+SINGLE_JOB: true
+DISK_SPACE: 1 GB
+TIME: 400
+MEMORY: 500 MB

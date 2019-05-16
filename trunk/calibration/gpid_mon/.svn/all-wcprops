@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon
+END
+mpr_deuteron.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/mpr_deuteron.kumac
+END
+mpr_pion.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/mpr_pion.kumac
+END
+mpr_kaon.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/mpr_kaon.kumac
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/766/trunk/calibration/gpid_mon/sconstruct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/Makefile
+END
+gpid_mon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/gpid_mon.c
+END
+mpr_proton.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/767/trunk/calibration/gpid_mon/mpr_proton.kumac
+END

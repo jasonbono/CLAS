@@ -1,0 +1,135 @@
+#!/apps/bin/perl -w
+
+
+
+
+#-----------------------initialization------------------------------ 
+$mass=1.94;
+$width=0.22;
+$upperBeam=4 ;
+$lowerBeam=1.5;
+$step=0.1;
+#$filter=0;
+$tslope=3;
+#$M=40000;
+$proceed=1;
+$sys=1;
+#---------------------------------------------------------------------
+
+
+
+
+#---------------------------------the usage---------------------------
+if(!@ARGV)
+{
+  &printusage("junk");
+}
+
+for (@ARGV) 
+{
+  if(/^-m(.+)/)     { $mass = $1;}
+  if(/^-W(.+)/)    { $width = $1;} 
+  if(/^-B(.+)/)     { $upperBeam = $1;}
+  if(/^-b(.+)/)    { $lowerBeam = $1;} 
+  if(/^-s(.+)/)    { $step = $1;} 
+  if(/^-t(.+)/)    { $tslope = $1;
+    print "tslope = $tslope\n";
+  } 
+  
+  if(/^-M(.+)/)     { $M = $1;}
+  # if(/^-o(.+)/)     { $sylo = $1;}
+  if(/^-x(.+)/)     { $ppgenmode = $1;}
+  if(/^-v(.+)/)     { $jobversion = $1;}
+  if (/^-w(.+)/)     { $dir = $1;}
+  if (/^-R(.+)/)     { $subdir = $1;}
+  if (/^-I(.+)/)     { $inputfile = $1;}
+  if (/^-d/)     { $sys = 0;}
+  #  if (/^-p(.+)/)     { $particles = $1;}
+  # if (/^-F/)     { $filter = 1;}
+
+  if(/^-h/)     
+  { 
+    $proceed=0;
+    &printusage("particles?");
+  }  
+}
+#--------------------------------------------------------------------
+
+
+# begin iteratoin in beam bins from lowest to highest specified energy (there will be a seprate script and input file for each i)
+$L=$lowerBeam;
+$i=0;
+#@ts=(5.4, 3.9, 2.3, 1.8, 1.7, 1.6, 1.6, 1.5, 1.6, 1.9);
+@ts=(3.08, 2.3, 2.15, 2.35, 2.34, 1.68, 1.45, 1.90, 2.3, 2.3, 2.45);  # here is an 11 element array for tslope 
+print "$L $upperBeam $proceed\n";
+while($L<$upperBeam&&$proceed)
+{
+  $U=$L+$step;
+  $tslope=$ts[$i];
+  #$tslope=2.0;
+  $i++;
+  if(!-e "$dir/job") 
+  {
+    system("mkdir $dir/job");
+  }
+  if(!-e "$dir/farmscript") 
+  {
+    system("mkdir $dir/farmscript");
+  }
+  $ebin="$L"._."$U";
+  $emean=($L+$U)/2;
+  #create a farm jobscript for each ebin
+  if (!-e "$dir/farmscript") {system("mkdir $dir/farmscript");}
+  if (!-e "$dir/job") {system("mkdir $dir/job");}
+
+
+
+
+
+#-------------------------create a farm job for that jobscipt-----------------------------------------------------------
+open (JOB, "> $dir/job/farmjob_$ebin.v$jobversion") || die "Can't open farmjob_$ebin$!`\n";
+open (JOBTEMPLATE, "$dir/$subdir/farmjob_template") || die "Can't open farmjob_template $!\n";
+while (<JOBTEMPLATE>) 
+{
+  s#XXX#$ebin#;
+  s#DDD#$dir#;
+  s#VVV#$jobversion#;
+  print JOB;
+}
+close (JOBTEMPLATE);
+close (JOB);
+#-------------------------------------end of farm job creation--------------------------------------------------------
+
+
+
+
+
+#  if($sys) {system ("jsub $dir/job/farmjob_$ebin.v$jobversion");}	
+
+  $L=$U;  #next increment in the iteration
+}
+
+sub printusage() 
+{
+  print "  Creating mc jobs for $_[0] from ppgen to filter: 
+  [-options]:
+  -m#        		hyperon mass (GeV)
+  -W#        		width of hyperon (GeV) 
+  -B#        		upper limit of photon energy (GeV)
+  -b#        		lower limit of photon energy (GeV) 
+  -s#       		photon energy bin size (GeV)
+  -t#       	  	tslope(default 3)
+  -M#         		maximum # of events per mass bin
+  -v<string>        jobversion ( to distinguish ifarmjobs)
+  -w<string>	    full path of work dir
+  -R<string>	    sub dir containing the script templates
+  -I<string>	    genr8 input file template (filename)
+  # -o<string>	    full path of sylo destination for output
+  -d	    		for debugging purpose, no submitting of jobs
+  -h          		usage
+  \n"   
+
+}
+
+
+

@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/ClasBanks
+END
+TLCPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TLCPBClass.h
+END
+TSCPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSCPBClass.cc
+END
+TMVRTClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMVRTClass.h
+END
+TTAGRClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTAGRClassLinkDef.h
+END
+TVirtualData.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVirtualData.h
+END
+TTGPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGPBClass.h
+END
+TMiniDSTClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniDSTClass.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/1948/trunk/analysis/ClasTool/ClasBanks/sconstruct
+END
+TEPICClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICClassLinkDef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/Makefile
+END
+TTRGSClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTRGSClass.cc
+END
+TEPICClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICClass.cc
+END
+TVERTClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVERTClass.h
+END
+TTGBIClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGBIClass.cc
+END
+TEPICValue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICValue.cc
+END
+THEADERClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADERClassLinkDef.h
+END
+TTGBIClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGBIClass.h
+END
+THEADERClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADERClass.cc
+END
+TVirtualDataLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVirtualDataLinkDef.h
+END
+TVirtualData.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVirtualData.cc
+END
+TGSIMClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TGSIMClass.cc
+END
+THEADClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADClassLinkDef.h
+END
+TICHBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICHBClass.cc
+END
+TCCPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TCCPBClassLinkDef.h
+END
+TICHBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICHBClass.h
+END
+TECPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TECPBClass.cc
+END
+TCCPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TCCPBClass.h
+END
+TMCHDClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMCHDClass.cc
+END
+TECPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TECPBClass.h
+END
+TICPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICPBClass.cc
+END
+TICPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICPBClass.h
+END
+TMiniHEADClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniHEADClass.h
+END
+TEPICClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICClass.h
+END
+TSCPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSCPBClassLinkDef.h
+END
+THLSClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THLSClass.h
+END
+TSCPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSCPBClass.h
+END
+THEADERClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADERClass.h
+END
+TTBERClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTBERClassLinkDef.h
+END
+TS1STClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TS1STClass.h
+END
+TTBERClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTBERClass.cc
+END
+TTAGRClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTAGRClass.cc
+END
+TTAGRClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTAGRClass.h
+END
+TMiniDSTClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniDSTClassLinkDef.h
+END
+TSTPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSTPBClassLinkDef.h
+END
+TDCPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TDCPBClassLinkDef.h
+END
+TGSIMClass_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TGSIMClass_const.h
+END
+TSTPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSTPBClass.cc
+END
+TDCPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TDCPBClass.cc
+END
+TMiniDSTClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniDSTClass.h
+END
+TEVNTClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEVNTClassLinkDef.h
+END
+TEVNTClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEVNTClass.cc
+END
+TMiniHEADClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniHEADClassLinkDef.h
+END
+TMiniHEADClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMiniHEADClass.cc
+END
+TTRGSClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTRGSClassLinkDef.h
+END
+TLCPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TLCPBClassLinkDef.h
+END
+TLCPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TLCPBClass.cc
+END
+TTRGSClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTRGSClass.h
+END
+TTGBIClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGBIClassLinkDef.h
+END
+THLSClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THLSClassLinkDef.h
+END
+TEPICValueLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICValueLinkDef.h
+END
+THLSClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THLSClass.cc
+END
+TMVRTClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMVRTClassLinkDef.h
+END
+TMVRTClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMVRTClass.cc
+END
+TS1STClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TS1STClassLinkDef.h
+END
+TEPICValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEPICValue.h
+END
+TS1STClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TS1STClass.cc
+END
+TTGPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGPBClassLinkDef.h
+END
+TTGPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTGPBClass.cc
+END
+TGSIMClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TGSIMClassLinkDef.h
+END
+TTBERClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TTBERClass.h
+END
+TGSIMClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TGSIMClass.h
+END
+THEADClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADClass.cc
+END
+THEADClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/THEADClass.h
+END
+TICHBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICHBClassLinkDef.h
+END
+TCCPBClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TCCPBClass.cc
+END
+TECPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TECPBClassLinkDef.h
+END
+TSTPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TSTPBClass.h
+END
+TMCHDClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMCHDClassLinkDef.h
+END
+TDCPBClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TDCPBClass.h
+END
+TICPBClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TICPBClassLinkDef.h
+END
+TMCHDClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TMCHDClass.h
+END
+TEVNTClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TEVNTClass.h
+END
+TVERTClassLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVERTClassLinkDef.h
+END
+TVERTClass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/286/trunk/analysis/ClasTool/ClasBanks/TVERTClass.cc
+END

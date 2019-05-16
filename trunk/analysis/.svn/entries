@@ -1,0 +1,113 @@
+10
+
+dir
+3417
+https://jlabsvn.jlab.org/svnroot/clas/trunk/analysis
+https://jlabsvn.jlab.org/svnroot/clas
+
+
+
+2011-12-20T19:12:59.214526Z
+3131
+goetz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559baaf0-7e74-490b-9dfa-82c27be2b203
+
+ClasTool
+dir
+
+clasEvent
+dir
+
+gflux
+dir
+
+skim-gflux
+dir
+
+cobra
+dir
+
+trk_mon_lite
+dir
+
+pwa2000
+dir
+
+g12
+dir
+
+ced
+dir
+
+bos2ntuple
+dir
+
+g12_monitor
+dir
+
+nt10maker
+dir
+
+exclurad
+dir
+
+sconstruct
+file
+
+
+
+
+2012-02-28T23:15:26.000000Z
+20479dc7fd720db81f1efdb20106e1d7
+2011-07-13T21:35:13.717086Z
+2444
+frasier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+216
+
+trk_mon
+dir
+
+view
+dir
+
+sync
+dir
+
+jane
+dir
+

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3
+END
+eccal.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/eccal.inc
+END
+SCnt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/SCnt.inc
+END
+ECpix.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ECpix.inc
+END
+ecbooktest.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ecbooktest.f
+END
+SCstore.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/SCstore.inc
+END
+ECtst.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ECtst.inc
+END
+sc_bor.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/sc_bor.f
+END
+scbookhist.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/scbookhist.f
+END
+libec.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/libec.a
+END
+sccal.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/sccal.inc
+END
+ecbookcwn.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ecbookcwn.f
+END
+ECnt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ECnt.inc
+END
+libsc.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/libsc.a
+END
+level3_user.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/level3_user.f
+END
+ECstore.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ECstore.inc
+END
+scbookcwn.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/scbookcwn.f
+END
+ec_bor.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ec_bor.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/Makefile
+END
+level3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/level3.cc
+END
+ecbookhist.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/289/trunk/calibration/ec_calib/crt/l3/ecbookhist.f
+END

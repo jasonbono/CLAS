@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/1773/trunk/io/part2gamp
+END
+countgamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1773/trunk/io/part2gamp/countgamp.cc
+END
+gamp2part.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1773/trunk/io/part2gamp/gamp2part.cc
+END
+part2gamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1773/trunk/io/part2gamp/part2gamp.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/659/trunk/io/part2gamp/sconstruct
+END
+partMaker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/1773/trunk/io/part2gamp/partMaker.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/659/trunk/io/part2gamp/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/659/trunk/io/part2gamp/Makefile_alt
+END

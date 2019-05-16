@@ -1,0 +1,1436 @@
+//from lei
+
+//to use this macro type in root
+
+//.L fitGAUS.C
+//fitGAUS(histogram_name, try, lowbound, highbound, p0, p1, p2, mean, width)
+// the macro will draw the result
+//The integer number "try" enables root to draw the fitted function (background
+//and signal) without destroying the old ones.Each time when calling fitGAUS, 
+//simply give a different "try" number.
+//when a non-zero p2 was given, a 2nd polynomial function will be used as the
+//background function
+//Otherwise, when p2=0 is given, a 1st order polynomial will be used instead
+
+// Quadratic background function
+Double_t background(Double_t *x, Double_t *par) {
+  //return par[0] + par[1]*x[0] + par[2]*x[0]*x[0]+ par[3]*x[0]*x[0]*x[0];
+  return par[0] + par[1]*x[0] + par[2]*x[0]*x[0];
+}
+Double_t p4background(Double_t *x, Double_t *par) {
+  //return par[0] + par[1]*x[0] + par[2]*x[0]*x[0]+ par[3]*x[0]*x[0]*x[0];
+  return par[0]*(par[1] + par[2]*x[0] + par[3]*x[0]*x[0] + par[4]*x[0]*x[0]*x[0] + par[5]*x[0]*x[0]*x[0]*x[0]);
+}
+
+Double_t tbackground(Double_t *x, Double_t *par) {
+  return par[0]*(x[0]-par[2])*TMath::Exp(par[1]*(x[0] - par[2]));
+}
+
+
+Double_t lorentzianPeak(Double_t *x, Double_t *par) {
+  return (0.5*par[0]*par[2]/TMath::Pi()) /
+          TMath::Max( 1.e-10,
+                     (x[0]-par[1])*(x[0]-par[1]) + .25*par[2]*par[2]
+                    );
+}
+
+Double_t lorentzianPeak2(Double_t *x, Double_t *par) {
+  return (0.5*par[0]*par[2]/TMath::Pi()) /
+          TMath::Max( 1.e-10,
+                     (x[0]-par[1])*(x[0]-par[1]) + .25*par[2]*par[2]
+                    );
+}
+Double_t lorentzianPeak3(Double_t *x, Double_t *par) {
+  return (0.5*par[0]*par[2]/TMath::Pi()) /
+          TMath::Max( 1.e-10,
+                     (x[0]-par[1])*(x[0]-par[1]) + .25*par[2]*par[2]
+                    );
+}
+Double_t lorentzianPeak4(Double_t *x, Double_t *par) {
+  return (0.5*par[0]*par[2]/TMath::Pi()) /
+          TMath::Max( 1.e-10,
+                     (x[0]-par[1])*(x[0]-par[1]) + .25*par[2]*par[2]
+                    );
+}
+
+Double_t GaussianPeak(Double_t *x, Double_t *par)
+// The signal function: a gaussian
+{
+   Double_t arg = 0;
+   if (par[2]) arg = (x[0] - par[1])/par[2];
+   Double_t sig = par[0]*TMath::Exp(-0.5*arg*arg);
+   return sig;
+}
+
+Double_t GaussianPeak2(Double_t *x, Double_t *par)
+// The signal function: a gaussian
+{
+   Double_t arg = 0;
+   if (par[2]) arg = (x[0] - par[1])/par[2];
+   Double_t sig = par[0]*TMath::Exp(-0.5*arg*arg);
+   return sig;
+}
+
+Double_t GaussianPeak3(Double_t *x, Double_t *par)
+// The signal function: a gaussian
+{
+   Double_t arg = 0;
+   if (par[2]) arg = (x[0] - par[1])/par[2];
+   Double_t sig = par[0]*TMath::Exp(-0.5*arg*arg);
+   return sig;
+}
+
+Double_t GaussianPeak4(Double_t *x, Double_t *par)
+// The signal function: a gaussian
+{
+   Double_t arg = 0;
+   if (par[2]) arg = (x[0] - par[1])/par[2];
+   Double_t sig = par[0]*TMath::Exp(-0.5*arg*arg);
+   return sig;
+}
+
+
+// Sum of background and peak function
+Double_t fitFunction(Double_t *x, Double_t *par) {
+  return background(x,par) + GaussianPeak(x,&par[3]);
+}
+
+Double_t fitFunctionBW(Double_t *x, Double_t *par) {
+  return background(x,par) + lorentzianPeak(x,&par[3]);
+}
+
+Double_t fitFunctionBW2p3(Double_t *x, Double_t *par) {
+  return background(x,par) + lorentzianPeak(x,&par[4])+ lorentzianPeak2(x,&par[7]);
+}
+
+Double_t fitFunctionGAUS2p2(Double_t *x, Double_t *par) {
+  return background(x,par) + GaussianPeak(x,&par[3])+ GaussianPeak2(x,&par[6]);
+}
+Double_t fitFunctionGAUS3p2(Double_t *x, Double_t *par) {
+  return background(x,par) + GaussianPeak(x,&par[3])+ GaussianPeak2(x,&par[6])+ GaussianPeak3(x,&par[9]);
+}
+Double_t fitFunctionGAUS4p2(Double_t *x, Double_t *par) {
+  return background(x,par) + GaussianPeak(x,&par[3])+ GaussianPeak2(x,&par[6])+ GaussianPeak3(x,&par[9])+ GaussianPeak4(x,&par[12]);
+}
+Double_t fitFunctionGAUS4p4(Double_t *x, Double_t *par) {
+  return p4background(x,par) + GaussianPeak(x,&par[6])+ GaussianPeak2(x,&par[9])+ GaussianPeak3(x,&par[12])+ GaussianPeak4(x,&par[15]);
+}
+Double_t fitFunctionGAUSBW3p4(Double_t *x, Double_t *par) {
+  return p4background(x,par) + GaussianPeak(x,&par[6])+ lorentzianPeak2(x,&par[9])+ lorentzianPeak3(x,&par[12])+ lorentzianPeak4(x,&par[15]);
+}
+
+Double_t fitFunctionBW2tb(Double_t *x, Double_t *par) {
+  return tbackground(x,par) + lorentzianPeak(x,&par[3])+ lorentzianPeak2(x,&par[6]);
+}
+
+Double_t fitFunctionBW2(Double_t *x, Double_t *par) {
+  return GaussianPeak(x,par) + lorentzianPeak(x,&par[3])+ lorentzianPeak2(x,&par[6]);
+}
+
+
+Double_t  fitGAUS(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunction, low, high, 6);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  fitFcn->SetParameter(0, term0); // pol c0
+  fitFcn->SetParameter(1, term1);   // pol c1
+  if(term2!=0) {fitFcn->SetParameter(2, term2); }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+  if(term1==0&&term2==0){
+    fitFcn->SetParLimits(0,0,100000);
+  }
+//fitFcn->SetParameter(3, height); // hight
+
+  fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParameter(5, width);   // peak
+  fitFcn->SetParLimits(3, 0,10000);   // peak
+  fitFcn->SetParLimits(4, mean-0.005,mean+0.005);   // peak
+  fitFcn->SetParLimits(5, width-0.005, width+0.005);   // peak
+  fitFcn->SetLineWidth(1);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), background,low,high,3);
+  backFcn->SetLineColor(4);
+  backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[6];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+
+   backFcn->SetParameters(par);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   signalFcn->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Double_t ratio = Intg/Intb;
+   
+   
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.55*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.65*histo->GetMaximum();
+  Double_t starty1=0.55*histo->GetMaximum();
+  Double_t starty0=0.75*histo->GetMaximum();
+  Double_t starty2=0.95*histo->GetMaximum();
+  Double_t starty3=0.85*histo->GetMaximum();
+  Double_t starty4=0.45*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+   TLatex *sum=new TLatex(startx, starty,Form("Yield: %i",yield));
+   TLatex *sum1=new TLatex(startx, starty1,Form("S/B ratio: %6.2f",ratio));
+   TLatex *sum0=new TLatex(startx, starty0,Form("Range: #pm %2.1f #sigma",factor));
+   TLatex *sum2=new TLatex(startx, starty2,Form("Mean:%5.4f",par[4]));
+   TLatex *sum3=new TLatex(startx, starty3,Form("#sigma:%5.4f",par[5]));
+   TLatex *sum4=new TLatex(startx, starty4,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   sum->SetTextSize(0.05);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.05);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum0->SetTextSize(0.05);
+   sum0->SetTextColor(2);
+   sum0->Draw("same");
+   sum2->SetTextSize(0.05);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.05);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum4->SetTextSize(0.05);
+   sum4->SetTextColor(4);
+   sum4->Draw("same");
+   return yield;
+}
+
+
+
+
+
+
+
+
+void fitBW(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionBW, low, high, 6);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  fitFcn->SetParameter(0, term0); // pol c0
+  fitFcn->SetParameter(1, term1);   // pol c1
+  if(term2!=0) {fitFcn->SetParameter(2, term2); }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+//fitFcn->SetParameter(3, height); // hight
+
+  fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParameter(5, width);   // peak
+  fitFcn->SetParLimits(5, 0,10000);   // peak
+  fitFcn->SetLineWidth(1);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), background,low,high,3);
+  backFcn->SetLineColor(4);
+  backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), lorentzianPeak,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[6];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+
+   backFcn->SetParameters(par);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   signalFcn->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Double_t ratio = Intg/Intb;
+   
+   
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.55*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.65*histo->GetMaximum();
+  Double_t starty1=0.55*histo->GetMaximum();
+  Double_t starty0=0.75*histo->GetMaximum();
+  Double_t starty2=0.95*histo->GetMaximum();
+  Double_t starty3=0.85*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+   TLatex *sum=new TLatex(startx, starty,Form("Yield: %i",yield));
+   TLatex *sum1=new TLatex(startx, starty1,Form("S/B ratio: %6.2f",ratio));
+   TLatex *sum0=new TLatex(startx, starty0,Form("Range: #pm %2.1f #sigma",factor));
+   TLatex *sum2=new TLatex(startx, starty2,Form("Mean:%5.4f",par[4]));
+   TLatex *sum3=new TLatex(startx, starty3,Form("#Gamma:%5.4f",par[5]));
+   sum->SetTextSize(0.05);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.05);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum0->SetTextSize(0.05);
+   sum0->SetTextColor(2);
+   sum0->Draw("same");
+   sum2->SetTextSize(0.05);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.05);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+ }
+
+
+void fitBW2(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t mean2, Double_t width2, Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionBW2tb, low, high, 9);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1!=0) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,0);}
+   if(term2!=0) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(3, 0,100000);
+   fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParameter(5, width);   // peak
+  //fitFcn->SetParLimits(5, width-0.001, width+0.001);   // peak
+  fitFcn->SetParLimits(6, 0,100000);
+  fitFcn->SetParameter(7, mean2); // width
+  fitFcn->SetParameter(8, width2);   // peak
+  //fitFcn->SetParLimits(8, width2-0.005, width2); 
+  fitFcn->SetLineWidth(1);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), tbackground,low,high,3);
+  backFcn->SetLineColor(4);
+  backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), lorentzianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), lorentzianPeak2,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[9];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   histo->Draw("E");
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[6]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+   signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+ Double_t Intg2 = signalFcn2->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   //Double_t ratio = Intg/Intb;
+   
+   
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.65*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.7*histo->GetMaximum();
+  Double_t starty1=0.6*histo->GetMaximum();
+  Double_t starty30=0.5*histo->GetMaximum();
+  Double_t starty0=0.4*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.9*histo->GetMaximum();
+  Double_t starty10=0.8*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+   TLatex *sum=new TLatex(startx, starty,Form("Mean2:%5.4f",par[7]));
+   TLatex *sum1=new TLatex(startx, starty1,Form("#Gamma2: %5.4f",par[8]));
+   TLatex *sum10=new TLatex(startx, starty10,Form("Yield: %i",yield));
+    TLatex *sum2=new TLatex(startx, starty2,Form("Mean:%5.4f",par[4]));
+   TLatex *sum3=new TLatex(startx, starty3,Form("#Gamma:%5.4f",par[5]));
+   TLatex *sum30=new TLatex(startx, starty30,Form("Yield2: %i",yield2));
+   TLatex *sum4=new TLatex(startx, starty0,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   sum->SetTextSize(0.05);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.05);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum10->SetTextSize(0.05);
+   sum10->SetTextColor(2);
+   sum10->Draw("same");
+    sum2->SetTextSize(0.05);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.05);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum30->SetTextSize(0.05);
+   sum30->SetTextColor(4);
+   sum30->Draw("same");
+  sum4->SetTextSize(0.05);
+   sum4->SetTextColor(4);
+   sum4->Draw("same");
+ }
+
+
+
+
+void fitGAUS2(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t mean2, Double_t width2, Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionGAUS2p2, low, high, 9);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    //fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1!=0) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,0);}
+   if(term2!=0) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(3, 0,100000);
+   fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParameter(5, width);   // peak
+   fitFcn->SetParLimits(6, 0,100000);
+  fitFcn->SetParameter(7, mean2); // width
+  fitFcn->SetParLimits(7, mean2-0.005,mean2+0.005);
+  fitFcn->SetParameter(8, width2);   // peak
+  fitFcn->SetParLimits(8, width2-0.005,width+0.005);
+  fitFcn->SetLineWidth(1);   // peak
+  fitFcn->SetLineColor(4);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+ 
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), background,low,high,3);
+   backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), GaussianPeak2,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[9];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   //signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[6]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+   //signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+ Double_t Intg2 = signalFcn2->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   //Double_t ratio = Intg/Intb;
+   Double_t M1Err=fitFcn->GetParError(4);
+   Double_t G1Err=fitFcn->GetParError(5);
+   Double_t M2Err=fitFcn->GetParError(7);
+   Double_t G2Err=fitFcn->GetParError(8);
+   Int_t N1Err=sqrt(((fitFcn->GetParError(3))/par[3])**2+((fitFcn->GetParError(5))/par[5])**2)*yield;
+//Int_t N2Err=(fitFcn->GetParError(6))*yield2/par[6];
+   Int_t N2Err=sqrt(((fitFcn->GetParError(6))/par[6])**2+((fitFcn->GetParError(8))/par[8])**2)*yield2;
+   
+   
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.45*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.7*histo->GetMaximum();
+  Double_t starty1=0.6*histo->GetMaximum();
+  Double_t starty30=0.5*histo->GetMaximum();
+  Double_t starty0=0.4*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.9*histo->GetMaximum();
+  Double_t starty10=0.8*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+    TLatex *sum2=new TLatex(startx, starty2,Form("M1:%5.4f #pm %5.4f",par[4], M1Err));
+   TLatex *sum3=new TLatex(startx, starty3,Form("#sigma1:%5.4f #pm %5.4f",par[5], G1Err));
+   TLatex *sum10=new TLatex(startx, starty10,Form("N1: %i #pm %i",yield, N1Err));
+   TLatex *sum=new TLatex(startx, starty,Form("M2:%5.4f #pm %5.4f",par[7], M2Err));
+   TLatex *sum1=new TLatex(startx, starty1,Form("#sigma2: %5.4f #pm %5.4f",par[8], G2Err));
+   TLatex *sum30=new TLatex(startx, starty30,Form("N2: %i #pm %i",yield2, N2Err));
+   TLatex *sum4=new TLatex(startx, starty0,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   sum->SetTextSize(0.05);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.05);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+  sum30->SetTextSize(0.05);
+   sum30->SetTextColor(2);
+   sum30->Draw("same");
+    sum2->SetTextSize(0.05);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.05);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+    sum10->SetTextSize(0.05);
+   sum10->SetTextColor(4);
+   sum10->Draw("same");
+  sum4->SetTextSize(0.05);
+   sum4->SetTextColor(4);
+   sum4->Draw("same");
+ }
+
+
+
+
+void fitGAUS3(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t mean2, Double_t width2,Double_t mean3, Double_t width3, Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionGAUS3p2, low, high, 12);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    //fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1!=0) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,0);}
+   if(term2!=0) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(3, 0,100000);
+   fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParameter(5, width);   // peak
+   fitFcn->SetParLimits(6, 0,100000);
+  fitFcn->SetParameter(7, mean2); // width
+  fitFcn->SetParLimits(7, mean2-0.005,mean2+0.005);
+  fitFcn->SetParameter(8, width2);   // peak
+  fitFcn->SetParLimits(8, width2-0.005,width2+0.005);
+     fitFcn->SetParLimits(9, 0,100000);
+  fitFcn->SetParameter(10, mean3); // width
+  fitFcn->SetParLimits(10, mean3-0.005,mean3+0.005);
+  fitFcn->SetParameter(11, width3);   // peak
+  fitFcn->SetParLimits(11, width3-0.005,width3+0.005);
+  fitFcn->SetLineWidth(1);   // peak
+  fitFcn->SetLineColor(4);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+ 
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), background,low,high,3);
+   backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), GaussianPeak2,low,high,3);
+  TF1 *signalFcn3 = new TF1(Form("signalFcn3_%i", try), GaussianPeak3,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[12];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   //signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[6]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+  signalFcn3->SetParameters(&par[9]);
+    signalFcn3->SetLineStyle(2);
+ signalFcn3->SetLineColor(4);
+   signalFcn3->SetLineWidth(1);
+  
+   //signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+ Double_t Intg2 = signalFcn2->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+ Double_t Intg3 = signalFcn3->Integral(par[10]-factor*par[11],par[10]+factor*par[11]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   Int_t yield3 = Intg3/binw;
+   //Double_t ratio = Intg/Intb;
+   
+   
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.65*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.85*histo->GetMaximum();
+  Double_t starty1=0.8*histo->GetMaximum();
+  Double_t starty30=0.75*histo->GetMaximum();
+  Double_t starty0=0.7*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.95*histo->GetMaximum();
+  Double_t starty10=0.9*histo->GetMaximum();
+  Double_t starty11=0.65*histo->GetMaximum();
+  Double_t starty12=0.6*histo->GetMaximum();
+  Double_t starty13=0.55*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+   TLatex *sum=new TLatex(startx, starty,Form("Mean2:%5.4f",par[7]));
+   TLatex *sum1=new TLatex(startx, starty1,Form("#sigma2: %5.4f",par[8]));
+   TLatex *sum30=new TLatex(startx, starty30,Form("Yield2: %i",yield2));
+   TLatex *sum2=new TLatex(startx, starty2,Form("Mean:%5.4f",par[4]));
+   TLatex *sum3=new TLatex(startx, starty3,Form("#sigma:%5.4f",par[5]));
+   TLatex *sum10=new TLatex(startx, starty10,Form("Yield: %i",yield));
+   TLatex *sum4=new TLatex(startx, starty13,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   TLatex *sum11=new TLatex(startx, starty0,Form("Mean3:%5.4f",par[10]));
+   TLatex *sum12=new TLatex(startx, starty11,Form("Yield3: %i",yield3));
+   TLatex *sum13=new TLatex(startx, starty12,Form("#sigma3:%5.4f",par[11]));
+   sum->SetTextSize(0.03);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.03);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum30->SetTextSize(0.03);
+   sum30->SetTextColor(2);
+   sum30->Draw("same");
+   sum2->SetTextSize(0.03);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.03);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum10->SetTextSize(0.03);
+   sum10->SetTextColor(4);
+   sum10->Draw("same");
+   sum11->SetTextSize(0.03);
+   sum11->SetTextColor(4);
+   sum11->Draw("same");
+   sum12->SetTextSize(0.03);
+   sum12->SetTextColor(4);
+   sum12->Draw("same");
+   sum13->SetTextSize(0.03);
+   sum13->SetTextColor(4);
+   sum13->Draw("same");
+   sum4->SetTextSize(0.03);
+   sum4->SetTextColor(2);
+   sum4->Draw("same");
+ }
+
+
+
+
+void fitGAUS4(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2, Double_t mean, Double_t width, Double_t mean2, Double_t width2,Double_t mean3, Double_t width3, Double_t mean4, Double_t width4,Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionGAUS4p2, low, high, 15);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    //fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1!=0) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,0);}
+   if(term2!=0) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,0);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(3, 0,100000);
+   fitFcn->SetParameter(4, mean); // width
+  fitFcn->SetParLimits(4, mean-0.005,mean+0.005);
+  fitFcn->SetParLimits(5, width-0.005,width+0.005);
+  fitFcn->SetParameter(5, width);   // peak
+   fitFcn->SetParLimits(6, 0,100000);
+  fitFcn->SetParameter(7, mean2); // width
+  fitFcn->SetParLimits(7, mean2-0.005,mean2+0.005);
+  fitFcn->SetParameter(8, width2);   // peak
+  fitFcn->SetParLimits(8, width2-0.005,width2+0.005);
+     fitFcn->SetParLimits(9, 0,100000);
+  fitFcn->SetParameter(10, mean3); // width
+  fitFcn->SetParLimits(10, mean3-0.005,mean3+0.005);
+  fitFcn->SetParameter(11, width3);   // peak
+  fitFcn->SetParLimits(11, width3-0.005,width3+0.005);
+     fitFcn->SetParLimits(12, 0,100000);
+  fitFcn->SetParameter(13, mean4); // width
+  fitFcn->SetParLimits(13, mean4-0.005,mean4+0.005);
+  fitFcn->SetParameter(14, width4);   // peak
+  fitFcn->SetParLimits(14, width4-0.005,width4+0.005);
+  fitFcn->SetLineWidth(1);   // peak
+  fitFcn->SetLineColor(4);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+ 
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), background,low,high,3);
+   backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), GaussianPeak2,low,high,3);
+  TF1 *signalFcn3 = new TF1(Form("signalFcn3_%i", try), GaussianPeak3,low,high,3);
+  TF1 *signalFcn4 = new TF1(Form("signalFcn4_%i", try), GaussianPeak4,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[15];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[3]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   //signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[6]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+  signalFcn3->SetParameters(&par[9]);
+    signalFcn3->SetLineStyle(2);
+ signalFcn3->SetLineColor(4);
+   signalFcn3->SetLineWidth(1);
+  
+  signalFcn4->SetParameters(&par[12]);
+    signalFcn4->SetLineStyle(2);
+ signalFcn4->SetLineColor(4);
+   signalFcn4->SetLineWidth(1);
+  
+   //signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+ Double_t Intg2 = signalFcn2->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+ Double_t Intg3 = signalFcn3->Integral(par[10]-factor*par[11],par[10]+factor*par[11]);
+ Double_t Intg4 = signalFcn4->Integral(par[13]-factor*par[14],par[13]+factor*par[14]);
+   Double_t Intb = backFcn->Integral(par[4]-factor*par[5],par[4]+factor*par[5]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   Int_t yield3 = Intg3/binw;
+   Int_t yield4 = Intg4/binw;
+   //Double_t ratio = Intg/Intb;
+   
+   Double_t M1Err=fitFcn->GetParError(4);
+   Double_t G1Err=fitFcn->GetParError(5);
+   Double_t M2Err=fitFcn->GetParError(7);
+   Double_t G2Err=fitFcn->GetParError(8);
+   Double_t M3Err=fitFcn->GetParError(10);
+   Double_t G3Err=fitFcn->GetParError(11);
+   Double_t M4Err=fitFcn->GetParError(13);
+   Double_t G4Err=fitFcn->GetParError(14);
+   Int_t N1Err=(fitFcn->GetParError(3))*yield/par[3];
+   Int_t N2Err=(fitFcn->GetParError(6))*yield2/par[6];
+   Int_t N3Err=(fitFcn->GetParError(9))*yield3/par[9];
+   Int_t N4Err=(fitFcn->GetParError(12))*yield4/par[12];
+
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.5*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.85*histo->GetMaximum();
+  Double_t starty1=0.8*histo->GetMaximum();
+  Double_t starty30=0.75*histo->GetMaximum();
+  Double_t starty0=0.7*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.95*histo->GetMaximum();
+  Double_t starty10=0.9*histo->GetMaximum();
+  Double_t starty11=0.65*histo->GetMaximum();
+  Double_t starty12=0.6*histo->GetMaximum();
+  Double_t starty14=0.55*histo->GetMaximum();
+  Double_t starty15=0.5*histo->GetMaximum();
+  Double_t starty16=0.45*histo->GetMaximum();
+  Double_t starty13=0.4*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+  TLatex *sum=new TLatex(startx, starty,Form("M2:%5.4f #pm %5.4f",par[7], M2Err));
+  TLatex *sum1=new TLatex(startx, starty1,Form("#sigma2: %5.4f #pm %5.4f",par[8], G2Err));
+  TLatex *sum30=new TLatex(startx, starty30,Form("N2: %i #pm %i",yield2, N2Err));
+  TLatex *sum2=new TLatex(startx, starty2,Form("M1:%5.4f #pm %5.4f",par[4], M1Err));
+  TLatex *sum3=new TLatex(startx, starty3,Form("#sigma1:%5.4f #pm %5.4f",par[5], G1Err));
+  TLatex *sum10=new TLatex(startx, starty10,Form("N1: %i #pm %i",yield, N1Err));
+   TLatex *sum4=new TLatex(startx, starty13,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   TLatex *sum11=new TLatex(startx, starty0,Form("M3:%5.4f #pm %5.4f",par[10], M3Err));
+   TLatex *sum12=new TLatex(startx, starty11,Form("N3: %i #pm %i",yield3, N3Err));
+   TLatex *sum13=new TLatex(startx, starty12,Form("#sigma3:%5.4f #pm %5.4f",par[11], G3Err));
+   TLatex *sum14=new TLatex(startx, starty14,Form("M4:%5.4f#pm %5.4f ",par[13], M4Err));
+   TLatex *sum15=new TLatex(startx, starty15,Form("N4: %i #pm %i ",yield4, N4Err));
+   TLatex *sum16=new TLatex(startx, starty16,Form("#sigma4:%5.4f #pm %5.4f",par[14], G4Err));
+   sum->SetTextSize(0.03);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.03);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum30->SetTextSize(0.03);
+   sum30->SetTextColor(2);
+   sum30->Draw("same");
+   sum2->SetTextSize(0.03);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.03);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum10->SetTextSize(0.03);
+   sum10->SetTextColor(4);
+   sum10->Draw("same");
+   sum11->SetTextSize(0.03);
+   sum11->SetTextColor(4);
+   sum11->Draw("same");
+   sum12->SetTextSize(0.03);
+   sum12->SetTextColor(4);
+   sum12->Draw("same");
+   sum13->SetTextSize(0.03);
+   sum13->SetTextColor(4);
+   sum13->Draw("same");
+  sum14->SetTextSize(0.03);
+   sum14->SetTextColor(2);
+   sum14->Draw("same");
+   sum15->SetTextSize(0.03);
+   sum15->SetTextColor(2);
+   sum15->Draw("same");
+   sum16->SetTextSize(0.03);
+   sum16->SetTextColor(2);
+   sum16->Draw("same");
+   sum4->SetTextSize(0.03);
+   sum4->SetTextColor(4);
+   sum4->Draw("same");
+ }
+
+
+
+
+
+void fitGAUS4p4(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2,Double_t term3, Double_t term4,Double_t term5, Double_t mean, Double_t width, Double_t mean2, Double_t width2,Double_t mean3, Double_t width3, Double_t mean4, Double_t width4,Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionGAUS4p4, low, high, 18);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    //fitFcn->SetParLimits(0,0.98,1.02);
+    fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1==1) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,term1);}
+   if(term2==1) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,term2);}
+  if(term3==1) {
+    fitFcn->SetParameter(3, term3);
+    //fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(3,term3);}
+  if(term4==1) {
+    fitFcn->SetParameter(4, term4);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(4,term4);}
+   if(term5==1) {
+     fitFcn->SetParameter(5, term5); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(5,term5);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(6, 0,100000);
+   fitFcn->SetParameter(7, mean); // width
+  fitFcn->SetParLimits(7, mean-0.005,mean+0.005);
+  fitFcn->SetParLimits(8, width-0.005,width+0.005);
+  fitFcn->SetParameter(8, width);   // peak
+   fitFcn->SetParLimits(9, 0,100000);
+  fitFcn->SetParameter(10, mean2); // width
+  fitFcn->SetParLimits(10, mean2-0.005,mean2+0.005);
+  fitFcn->SetParameter(11, width2);   // peak
+  fitFcn->SetParLimits(11, width2-0.005,width2+0.005);
+  if(width3<0.001){fitFcn->FixParameter(12,0);}
+
+  else {     fitFcn->SetParLimits(12, 0,100000);}
+  fitFcn->SetParameter(13, mean3); // width
+  fitFcn->SetParLimits(13, mean3-0.005,mean3+0.005);
+  fitFcn->SetParameter(14, width3);   // peak
+  fitFcn->SetParLimits(14, width3-0.005,width3+0.005);
+  if(width4<0.001){fitFcn->FixParameter(15,0);}
+
+  else {fitFcn->SetParLimits(15, 0,100000);}
+  fitFcn->SetParameter(16, mean4); // width
+  fitFcn->SetParLimits(16, mean4-0.005,mean4+0.005);
+  fitFcn->SetParameter(17, width4);   // peak
+  fitFcn->SetParLimits(17, width4-0.005,width4+0.005);
+  fitFcn->SetLineWidth(1);   // peak
+  fitFcn->SetLineColor(4);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+ 
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), p4background,low,high,6);
+   backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), GaussianPeak2,low,high,3);
+  TF1 *signalFcn3 = new TF1(Form("signalFcn3_%i", try), GaussianPeak3,low,high,3);
+  TF1 *signalFcn4 = new TF1(Form("signalFcn4_%i", try), GaussianPeak4,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[18];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[6]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   //signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[9]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+  signalFcn3->SetParameters(&par[12]);
+    signalFcn3->SetLineStyle(2);
+ signalFcn3->SetLineColor(4);
+   signalFcn3->SetLineWidth(1);
+  
+  signalFcn4->SetParameters(&par[15]);
+    signalFcn4->SetLineStyle(2);
+ signalFcn4->SetLineColor(4);
+   signalFcn4->SetLineWidth(1);
+  
+   //signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+ Double_t Intg2 = signalFcn2->Integral(par[10]-factor*par[11],par[10]+factor*par[11]);
+ Double_t Intg3 = signalFcn3->Integral(par[13]-factor*par[14],par[13]+factor*par[14]);
+ Double_t Intg4 = signalFcn4->Integral(par[16]-factor*par[17],par[16]+factor*par[17]);
+   Double_t Intb = backFcn->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   Int_t yield3 = Intg3/binw;
+   Int_t yield4 = Intg4/binw;
+   //Double_t ratio = Intg/Intb;
+   
+   Double_t M1Err=fitFcn->GetParError(7);
+   Double_t G1Err=fitFcn->GetParError(8);
+   Double_t M2Err=fitFcn->GetParError(10);
+   Double_t G2Err=fitFcn->GetParError(11);
+   Double_t M3Err=fitFcn->GetParError(13);
+   Double_t G3Err=fitFcn->GetParError(14);
+   Double_t M4Err=fitFcn->GetParError(16);
+   Double_t G4Err=fitFcn->GetParError(17);
+   Int_t N1Err=yield*sqrt(((fitFcn->GetParError(6))/par[6])**2+((fitFcn->GetParError(8))/par[8])**2);
+   Int_t N2Err=yield2*sqrt(((fitFcn->GetParError(9))/par[9])**2+((fitFcn->GetParError(11))/par[11])**2);
+   if(par[12]>0){   Int_t N3Err=(fitFcn->GetParError(12))*yield3/par[12];}
+   else {N3Err=0;}
+   if(par[12]>0){   Int_t N4Err=(fitFcn->GetParError(15))*yield4/par[15];}
+  else {N4Err=0;}
+
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.5*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.85*histo->GetMaximum();
+  Double_t starty1=0.8*histo->GetMaximum();
+  Double_t starty30=0.75*histo->GetMaximum();
+  Double_t starty0=0.7*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.95*histo->GetMaximum();
+  Double_t starty10=0.9*histo->GetMaximum();
+  Double_t starty11=0.65*histo->GetMaximum();
+  Double_t starty12=0.6*histo->GetMaximum();
+  Double_t starty14=0.55*histo->GetMaximum();
+  Double_t starty15=0.5*histo->GetMaximum();
+  Double_t starty16=0.45*histo->GetMaximum();
+  Double_t starty13=0.4*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+  TLatex *sum=new TLatex(startx, starty,Form("M2:%5.4f #pm %5.4f",par[10], M2Err));
+  TLatex *sum1=new TLatex(startx, starty1,Form("#sigma2: %5.4f #pm %5.4f",par[11], G2Err));
+  TLatex *sum30=new TLatex(startx, starty30,Form("N2: %i #pm %i",yield2, N2Err));
+  TLatex *sum2=new TLatex(startx, starty2,Form("M1:%5.4f #pm %5.4f",par[7], M1Err));
+  TLatex *sum3=new TLatex(startx, starty3,Form("#sigma1:%5.4f #pm %5.4f",par[8], G1Err));
+  TLatex *sum10=new TLatex(startx, starty10,Form("N1: %i #pm %i",yield, N1Err));
+   TLatex *sum4=new TLatex(startx, starty13,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   TLatex *sum11=new TLatex(startx, starty0,Form("M3:%5.4f #pm %5.4f",par[13], M3Err));
+   TLatex *sum12=new TLatex(startx, starty11,Form("N3: %i #pm %i",yield3, N3Err));
+   TLatex *sum13=new TLatex(startx, starty12,Form("#sigma3:%5.4f #pm %5.4f",par[14], G3Err));
+   TLatex *sum14=new TLatex(startx, starty14,Form("M4:%5.4f#pm %5.4f ",par[16], M4Err));
+   TLatex *sum15=new TLatex(startx, starty15,Form("N4: %i #pm %i ",yield4, N4Err));
+   TLatex *sum16=new TLatex(startx, starty16,Form("#sigma4:%5.4f #pm %5.4f",par[17], G4Err));
+   sum->SetTextSize(0.03);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.03);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum30->SetTextSize(0.03);
+   sum30->SetTextColor(2);
+   sum30->Draw("same");
+   sum2->SetTextSize(0.03);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.03);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum10->SetTextSize(0.03);
+   sum10->SetTextColor(4);
+   sum10->Draw("same");
+  //  sum11->SetTextSize(0.03);
+//    sum11->SetTextColor(4);
+//    sum11->Draw("same");
+//    sum12->SetTextSize(0.03);
+//    sum12->SetTextColor(4);
+//    sum12->Draw("same");
+//    sum13->SetTextSize(0.03);
+//    sum13->SetTextColor(4);
+//    sum13->Draw("same");
+//   sum14->SetTextSize(0.03);
+//    sum14->SetTextColor(2);
+//    sum14->Draw("same");
+//    sum15->SetTextSize(0.03);
+//    sum15->SetTextColor(2);
+//    sum15->Draw("same");
+//    sum16->SetTextSize(0.03);
+//    sum16->SetTextColor(2);
+//    sum16->Draw("same");
+//    sum4->SetTextSize(0.03);
+//    sum4->SetTextColor(4);
+//    sum4->Draw("same");
+ }
+
+
+void fitGAUSBW3p4(TH1F *histo, Int_t try, Double_t low, Double_t high, Double_t term0, Double_t term1,Double_t term2,Double_t term3, Double_t term4,Double_t term5, Double_t mean, Double_t width, Double_t mean2, Double_t width2,Double_t mean3, Double_t width3, Double_t mean4, Double_t width4,Double_t factor)
+{
+  //TText *sum[100];
+  // create a TF1 with the range from tl to th and 6 parameters
+  TF1 *fitFcn = new TF1("fitFcn",fitFunctionGAUSBW3p4, low, high, 18);
+
+  // first try without starting values for the parameters
+  // This defaults to 1 for each param.
+  //histo->Fit("fitFcn", "E");
+
+  // second try: set start values for some parameters
+
+  if(term0!=0) {
+    fitFcn->SetParameter(0, term0);
+    //fitFcn->SetParLimits(0,0.98,1.02);
+    fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(0,0);}
+  if(term1==1) {
+    fitFcn->SetParameter(1, term1);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(1,term1);}
+   if(term2==1) {
+     fitFcn->SetParameter(2, term2); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(2,term2);}
+  if(term3==1) {
+    fitFcn->SetParameter(3, term3);
+    //fitFcn->SetParLimits(0, 0,100000);
+  } // pol c0
+  else {fitFcn->FixParameter(3,term3);}
+  if(term4==1) {
+    fitFcn->SetParameter(4, term4);
+    //fitFcn->SetParLimits(1, term1-0.003, term1+0.003);
+   
+  } // pol c0
+  else {fitFcn->FixParameter(4,term4);}
+   if(term5==1) {
+     fitFcn->SetParameter(5, term5); 
+     //fitFcn->SetParLimits(2, term2, term2*2);
+   
+   }// pol c2
+  else {fitFcn->FixParameter(5,term5);}
+//fitFcn->SetParameter(3, height); // hight
+     fitFcn->SetParLimits(6, 0,100000);
+   fitFcn->SetParameter(7, mean); // width
+  fitFcn->SetParLimits(7, mean-0.005,mean+0.005);
+  fitFcn->SetParLimits(8, width-0.005,width+0.005);
+  fitFcn->SetParameter(8, width);   // peak
+   fitFcn->SetParLimits(9, 0,100000);
+  fitFcn->SetParameter(10, mean2); // width
+  fitFcn->SetParLimits(10, mean2-0.005,mean2+0.005);
+  fitFcn->SetParameter(11, width2);   // peak
+  fitFcn->SetParLimits(11, width2-0.005,width2+0.005);
+     fitFcn->SetParLimits(12, 0,100000);
+  fitFcn->SetParameter(13, mean3); // width
+  fitFcn->SetParLimits(13, mean3-0.005,mean3+0.005);
+  fitFcn->SetParameter(14, width3);   // peak
+  fitFcn->SetParLimits(14, width3-0.005,width3+0.005);
+     fitFcn->SetParLimits(15, 0,100000);
+  fitFcn->SetParameter(16, mean4); // width
+  fitFcn->SetParLimits(16, mean4-0.005,mean4+0.005);
+  fitFcn->SetParameter(17, width4);   // peak
+  fitFcn->SetParLimits(17, width4-0.005,width4+0.005);
+  fitFcn->SetLineWidth(1);   // peak
+  fitFcn->SetLineColor(4);   // peak
+  histo->Fit("fitFcn","EV","",low,high);
+  histo->Draw("E");
+ 
+  // improve the picture:
+  TF1 *backFcn = new TF1(Form("backFcn_%i", try), p4background,low,high,6);
+   backFcn->SetLineWidth(1);
+  TF1 *signalFcn = new TF1(Form("signalFcn_%i", try), GaussianPeak,low,high,3);
+  TF1 *signalFcn2 = new TF1(Form("signalFcn2_%i", try), lorentzianPeak2,low,high,3);
+  TF1 *signalFcn3 = new TF1(Form("signalFcn3_%i", try), lorentzianPeak3,low,high,3);
+  TF1 *signalFcn4 = new TF1(Form("signalFcn4_%i", try), lorentzianPeak4,low,high,3);
+  // signalFcn->SetLineColor(2);
+  // signalFcn->SetLineWidth(5);
+  
+  Double_t par[18];
+
+  // writes the fit results into the par array
+   fitFcn->GetParameters(par);
+   Double_t xsq = fitFcn->GetChisquare();
+   Double_t ndf = fitFcn->GetNDF();
+   backFcn->SetParameters(&par[0]);
+    backFcn->SetLineStyle(2);
+ backFcn->SetLineColor(2);
+   backFcn->SetLineWidth(1);
+  
+   backFcn->Draw("same");
+
+   signalFcn->SetParameters(&par[6]);
+    signalFcn->SetLineStyle(2);
+ signalFcn->SetLineColor(4);
+   signalFcn->SetLineWidth(1);
+  
+   //signalFcn->Draw("same");
+
+
+  signalFcn2->SetParameters(&par[9]);
+    signalFcn2->SetLineStyle(2);
+ signalFcn2->SetLineColor(4);
+   signalFcn2->SetLineWidth(1);
+  
+  signalFcn3->SetParameters(&par[12]);
+    signalFcn3->SetLineStyle(2);
+ signalFcn3->SetLineColor(4);
+   signalFcn3->SetLineWidth(1);
+  
+  signalFcn4->SetParameters(&par[15]);
+    signalFcn4->SetLineStyle(2);
+ signalFcn4->SetLineColor(4);
+   signalFcn4->SetLineWidth(1);
+  
+   //signalFcn2->Draw("same");
+   Double_t Intg = signalFcn->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+ Double_t Intg2 = signalFcn2->Integral(par[10]-factor*par[11],par[10]+factor*par[11]);
+ Double_t Intg3 = signalFcn3->Integral(par[13]-factor*par[14],par[13]+factor*par[14]);
+ Double_t Intg4 = signalFcn4->Integral(par[16]-factor*par[17],par[16]+factor*par[17]);
+   Double_t Intb = backFcn->Integral(par[7]-factor*par[8],par[7]+factor*par[8]);
+   cout<<"Integral of function is "<<Intg<<" "<<Intb<<endl;
+   //cout<<"binwidth is "<<binw<<endl;
+   Double_t binw = histo->GetBinWidth(1);
+   Int_t yield = Intg/binw;
+   Int_t yield2 = Intg2/binw;
+   Int_t yield3 = Intg3/binw;
+   Int_t yield4 = Intg4/binw;
+   //Double_t ratio = Intg/Intb;
+   
+   Double_t M1Err=fitFcn->GetParError(7);
+   Double_t G1Err=fitFcn->GetParError(8);
+   Double_t M2Err=fitFcn->GetParError(10);
+   Double_t G2Err=fitFcn->GetParError(11);
+   Double_t M3Err=fitFcn->GetParError(13);
+   Double_t G3Err=fitFcn->GetParError(14);
+   Double_t M4Err=fitFcn->GetParError(16);
+   Double_t G4Err=fitFcn->GetParError(17);
+   Int_t N1Err=(fitFcn->GetParError(6))*yield/par[6];
+   Int_t N2Err=(fitFcn->GetParError(9))*yield2/par[9];
+   Int_t N3Err=(fitFcn->GetParError(12))*yield3/par[12];
+   Int_t N4Err=(fitFcn->GetParError(15))*yield4/par[15];
+
+   cout<<"Integral of histogram is "<<yield<<endl;
+   TAxis *x=histo->GetXaxis();
+   TAxis *y=histo->GetYaxis();
+ 
+   Double_t startx=x->GetXmin()+0.5*(x->GetXmax()-x->GetXmin());
+  Double_t starty=0.85*histo->GetMaximum();
+  Double_t starty1=0.8*histo->GetMaximum();
+  Double_t starty30=0.75*histo->GetMaximum();
+  Double_t starty0=0.7*histo->GetMaximum();
+  Double_t starty2=1.0*histo->GetMaximum();
+  Double_t starty3=0.95*histo->GetMaximum();
+  Double_t starty10=0.9*histo->GetMaximum();
+  Double_t starty11=0.65*histo->GetMaximum();
+  Double_t starty12=0.6*histo->GetMaximum();
+  Double_t starty14=0.55*histo->GetMaximum();
+  Double_t starty15=0.5*histo->GetMaximum();
+  Double_t starty16=0.45*histo->GetMaximum();
+  Double_t starty13=0.4*histo->GetMaximum();
+  // cout<<startx<<" "<<starty<<endl;
+  //TLatex *sum=new TLatex(startx, starty,Form("Ye_t starty0=0.85*histo->GetMaximum();
+  TLatex *sum=new TLatex(startx, starty,Form("M2:%5.4f #pm %5.4f",par[10], M2Err));
+  TLatex *sum1=new TLatex(startx, starty1,Form("#sigma2: %5.4f #pm %5.4f",par[11], G2Err));
+  TLatex *sum30=new TLatex(startx, starty30,Form("N2: %i #pm %i",yield2, N2Err));
+  TLatex *sum2=new TLatex(startx, starty2,Form("M1:%5.4f #pm %5.4f",par[7], M1Err));
+  TLatex *sum3=new TLatex(startx, starty3,Form("#sigma1:%5.4f #pm %5.4f",par[8], G1Err));
+  TLatex *sum10=new TLatex(startx, starty10,Form("N1: %i #pm %i",yield, N1Err));
+   TLatex *sum4=new TLatex(startx, starty13,Form("#chi^{2}/Ndf: %5.1f/%5.1f",xsq, ndf));
+   TLatex *sum11=new TLatex(startx, starty0,Form("M3:%5.4f #pm %5.4f",par[13], M3Err));
+   TLatex *sum12=new TLatex(startx, starty11,Form("N3: %i #pm %i",yield3, N3Err));
+   TLatex *sum13=new TLatex(startx, starty12,Form("#sigma3:%5.4f #pm %5.4f",par[14], G3Err));
+   TLatex *sum14=new TLatex(startx, starty14,Form("M4:%5.4f#pm %5.4f ",par[16], M4Err));
+   TLatex *sum15=new TLatex(startx, starty15,Form("N4: %i #pm %i ",yield4, N4Err));
+   TLatex *sum16=new TLatex(startx, starty16,Form("#sigma4:%5.4f #pm %5.4f",par[17], G4Err));
+   sum->SetTextSize(0.03);
+   sum->SetTextColor(2);
+   sum->Draw("same");
+   sum1->SetTextSize(0.03);
+   sum1->SetTextColor(2);
+   sum1->Draw("same");
+   sum30->SetTextSize(0.03);
+   sum30->SetTextColor(2);
+   sum30->Draw("same");
+   sum2->SetTextSize(0.03);
+   sum2->SetTextColor(4);
+   sum2->Draw("same");
+   sum3->SetTextSize(0.03);
+   sum3->SetTextColor(4);
+   sum3->Draw("same");
+   sum10->SetTextSize(0.03);
+   sum10->SetTextColor(4);
+   sum10->Draw("same");
+   sum11->SetTextSize(0.03);
+   sum11->SetTextColor(4);
+   sum11->Draw("same");
+   sum12->SetTextSize(0.03);
+   sum12->SetTextColor(4);
+   sum12->Draw("same");
+   sum13->SetTextSize(0.03);
+   sum13->SetTextColor(4);
+   sum13->Draw("same");
+  sum14->SetTextSize(0.03);
+   sum14->SetTextColor(2);
+   sum14->Draw("same");
+   sum15->SetTextSize(0.03);
+   sum15->SetTextColor(2);
+   sum15->Draw("same");
+   sum16->SetTextSize(0.03);
+   sum16->SetTextColor(2);
+   sum16->Draw("same");
+   sum4->SetTextSize(0.03);
+   sum4->SetTextColor(4);
+   sum4->Draw("same");
+ }

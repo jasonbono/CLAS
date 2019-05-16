@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes
+END
+ParticleInfo.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/ParticleInfo.C
+END
+ParticleInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/ParticleInfo.h
+END
+PTypesLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/PTypesLinkDef.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/sconstruct
+END
+ListOfParticles.lst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/ptypes/ListOfParticles.lst
+END
+ParticleTypes.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/ParticleTypes.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/288/trunk/analysis/cobra/ptypes/Makefile
+END
+ParticleTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/938/trunk/analysis/cobra/ptypes/ParticleTypes.h
+END

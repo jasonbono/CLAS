@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches
+END
+sind.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/sind.F
+END
+asind.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/asind.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/sconstruct
+END
+tand.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/tand.F
+END
+atand.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/atand.F
+END
+cosd.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/cosd.F
+END
+acosd.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/acosd.F
+END
+atan2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/atan2d.F
+END
+zext.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/557/trunk/simulation/gsim/patches/zext.F
+END

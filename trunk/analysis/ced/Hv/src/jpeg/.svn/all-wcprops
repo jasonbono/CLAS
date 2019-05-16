@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1773/trunk/analysis/ced/Hv/src/jpeg
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdatadst.c
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmemansi.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jchuff.c
+END
+wrtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrtarga.c
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcparam.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jquant1.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/647/trunk/analysis/ced/Hv/src/jpeg/sconstruct
+END
+jdapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdapi.c
+END
+wrjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrjpgcom.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jccolor.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/Makefile
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jfdctflt.c
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdcolmap.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jidctflt.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jpegint.h
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdrle.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcprepct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jpeglib.h
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdppm.c
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/ckconfig.c
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdtarga.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcmainct.c
+END
+djpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/djpeg.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdpostct.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdgif.c
+END
+wrrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrrle.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jddctmgr.c
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/cdjpeg.h
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jerror.c
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdbmp.c
+END
+wrppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrppm.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jfdctfst.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jerror.h
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmemnobs.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jidctfst.c
+END
+wrgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrgif.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jquant2.c
+END
+wrbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/wrbmp.c
+END
+jmemname.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jmemname.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdct.h
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/example.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdatasrc.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jversion.h
+END
+rdjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/rdjpgcom.c
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jfdctint.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/cderror.h
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jidctint.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jconfig.h
+END
+jcapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jcapi.c
+END
+ansi2knr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/ansi2knr.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jidctred.c
+END
+cjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/cjpeg.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/639/trunk/analysis/ced/Hv/src/jpeg/jdcolor.c
+END

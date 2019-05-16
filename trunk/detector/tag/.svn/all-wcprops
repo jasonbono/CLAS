@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/279/trunk/detector/tag
+END
+tag_E_T_time_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_E_T_time_match.F
+END
+tag_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_last.F
+END
+tag_brun_normalisation.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_brun_normalisation.F
+END
+tag_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_brun.F
+END
+tag_unbin.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_unbin.F
+END
+event.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/event.CMN
+END
+tag_DSD_debug.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_DSD_debug.F
+END
+tag_RF_T_correction.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_RF_T_correction.F
+END
+tag_cpp_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_cpp_wrapper.cc
+END
+tag_ETM.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_ETM.c
+END
+tag_make_TACO.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_make_TACO.F
+END
+tag_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_event.h
+END
+tag_sort_array.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_sort_array.F
+END
+tagtcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagtcl.h
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/sconstruct
+END
+tagcal_read_file.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagcal_read_file.F
+END
+tagRunControl.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagRunControl.CMN
+END
+tag_reset_arrays.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_reset_arrays.F
+END
+tag_make_TAGRI.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_make_TAGRI.F
+END
+tag_read_TAC_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_TAC_BOS.F
+END
+tagtcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagtcl_init.F
+END
+tag_E_T_binning.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_E_T_binning.F
+END
+tagtcl.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagtcl.CMN
+END
+tagtcl_set_def.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagtcl_set_def.F
+END
+tag_raw_2_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_raw_2_BOS.F
+END
+tag_LinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_LinkDef.h
+END
+tag_PC_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PC_fetch_to_BOS.F
+END
+tag_erun_warnings.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_erun_warnings.F
+END
+tag_process_TAGR.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_process_TAGR.F
+END
+README.dev
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/README.dev
+END
+tag_filter_translate_NOLR.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_filter_translate_NOLR.F
+END
+tag_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_fetch_to_BOS.F
+END
+tag_deltae.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_deltae.F
+END
+tag_read_PC_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_PC_BOS.F
+END
+tag_PC_process.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PC_process.F
+END
+tag_PS_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PS_fetch_to_BOS.F
+END
+tag_tc_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_tc_shift.c
+END
+tag_read_from_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_from_BOS.F
+END
+tagcal_reset.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagcal_reset.F
+END
+tag_coincidence.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_coincidence.F
+END
+tag_get_runcontrol.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_get_runcontrol.F
+END
+tag_read_RF_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_RF_BOS.F
+END
+tag_TAC_process.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_TAC_process.F
+END
+tag_int_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_int_fetch_to_BOS.F
+END
+tag_scaler.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_scaler.F
+END
+tag_filter_out.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_filter_out.F
+END
+tag_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_evnt.F
+END
+tag_make_PCO.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_make_PCO.F
+END
+tag_read_PS_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_PS_BOS.F
+END
+tag_PS_process.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PS_process.F
+END
+tagcal_read_from_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagcal_read_from_BOS.F
+END
+tagwarnings.CMN
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagwarnings.CMN
+END
+tag_analysis.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_analysis.F
+END
+tag_T_alone_analysis.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_T_alone_analysis.F
+END
+tag_read_bounds.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_read_bounds.F
+END
+tag_PS_analysis.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PS_analysis.F
+END
+tag_TAC_fetch_to_BOS.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_TAC_fetch_to_BOS.F
+END
+tag_debug.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_debug.F
+END
+tagcal_read_map.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagcal_read_map.F
+END
+tag_nbc_bin.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_nbc_bin.F
+END
+tag_E_T_geom_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_E_T_geom_match.F
+END
+tag_make_PSO.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_make_PSO.F
+END
+tag_PC_T_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PC_T_match.F
+END
+tag_cpp_cint.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_cpp_cint.h
+END
+tag_T_norm_analysis.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_T_norm_analysis.F
+END
+tag_filter_translate.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_filter_translate.F
+END
+tag_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_init.F
+END
+tagcal_read_local_file.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tagcal_read_local_file.F
+END
+tag_filter_out_NOLR.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_filter_out_NOLR.F
+END
+tag_TAC_T_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_TAC_T_match.F
+END
+tag_sort_array2.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_sort_array2.F
+END
+tag_bin.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_bin.F
+END
+tag_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_erun.F
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/README
+END
+tag_PS_T_match.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_PS_T_match.F
+END
+tag_get_TAGE_mode.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_get_TAGE_mode.F
+END
+README.rf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/README.rf
+END
+tag_brun_scaler.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/detector/tag/tag_brun_scaler.F
+END

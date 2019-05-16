@@ -1,0 +1,169 @@
+#!/apps/bin/perl -w
+
+
+#modificaton 1; jason bono
+ 
+$mass=1.94;
+$width=0.22;
+$upperBeam=2 ;
+$lowerBeam=1.5;
+$step=0.1;
+#$filter=0;
+$tslope=3;
+$M=100;        # M specifiys the amount events accepted in genr8
+$proceed=1;
+$sys=1;
+$jobversion=000;
+
+
+#v00
+$dir = "/Users/Bono/clas/simulation/g12/full/jbono/sim_v01";
+$newdir = "CREATED";
+$inputfile = "genr8input_template";
+
+
+if(!@ARGV)
+{
+  &printusage("junk");
+}
+
+for (@ARGV) 
+{
+  if(/^-m(.+)/)     { $mass = $1;}
+  if(/^-W(.+)/)    { $width = $1;} 
+  if(/^-B(.+)/)     { $upperBeam = $1;}
+  if(/^-b(.+)/)    { $lowerBeam = $1;} 
+  if(/^-s(.+)/)    { $step = $1;} 
+  if(/^-t(.+)/)    { $tslope = $1;
+    print "tslope = $tslope\n";
+  } 
+  
+  if(/^-M(.+)/)     { $M = $1;}
+  #if(/^-x(.+)/)     { $ppgenmode = $1;}
+  if(/^-v(.+)/)     { $jobversion = $1;}
+  if (/^-w(.+)/)     { $dir = $1;}
+  #if (/^-R(.+)/)     { $subdir = $1;}
+  if (/^-I(.+)/)     { $inputfile = $1;}
+  if (/^-d/)     { $sys = 0;}
+  if(/^-h/)     
+  { 
+    $proceed=0;
+    &printusage("particles?");
+  }  
+}
+
+
+
+$L=$lowerBeam;
+$i=0;
+#@ts=(5.4, 3.9, 2.3, 1.8, 1.7, 1.6, 1.6, 1.5, 1.6, 1.9);
+#@ts=(3.08, 2.3, 2.15,2.35,2.34,1.68,1.45,1.90,2.3,2.3,2.45);
+print "$L $upperBeam $proceed\n";
+while($L<$upperBeam&&$proceed){
+ $U=$L+$step;
+ #$tslope=$ts[$i];  this will be used eventualy
+ $tslope=2.0;
+ $i++;
+
+
+ ## create the new directory if it does not exist
+ if(!-e "$dir/$newdir") {
+   system("mkdir $dir/$newdir");
+ }
+
+ #increment
+ $ebin="$L"._."$U";
+ $emean=($L+$U)/2;
+
+ #open the SCRIPT TEMPLATE and make the new scripts in the newdir
+ open(SCRIPTTEMPLATE, "$dir/script_template")|| die "Can't open scripttemplate $!\n"; 
+ open(SCRIPT, ">$dir/$newdir/farmscript_$ebin.v$jobversion") || die "Can't open farmscript_$ebin $!\n";
+ 
+ while (<SCRIPTTEMPLATE>) {
+   s#XXX#$ebin#;  # substitute XXX by the ebin
+   s#SSS#$step#;  # substitute SSS by the step size (-s)
+   s#DDD#$dir#;  # substitute DDD by the directory (should be /..../sim_v00)
+   s#NNN#$M#;    # M -> NNN -> amount of events accepted by genr8 
+
+   print SCRIPT;   # write out modified line
+ }
+ #end of creating the scirpt for $ebindir;
+ close (SCRIPT);
+ close (SCRIPTTEMPLATE);
+
+
+ system ("chmod u+x $dir/$newdir/farmscript_$ebin.v$jobversion"); # make the script executable
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+ #open the GENR8 INPUT FILE (as initialized at the top or by -I).  also make the new input file in the newdir
+ open(INPUTTEMPLATE, "$dir/$inputfile")|| die "Can't open genr8input_template$!\n"; 
+ open(INPUT, ">$dir/$newdir/genr8input_$ebin.v$jobversion") || die "Can't open  farmscript_$ebin.v$jobversion$!\n";
+
+ while (<INPUTTEMPLATE>) {
+   s#BBB#$emean#;  #  BBB <- $emean <- incremented from min and max (which are iniaized in this code)
+   s#HHH#$mass#;   #  HHH <- $mass <- initized in this code
+   s#WWW#$width#;  #  WWW <- $width <- initized in this code 
+   s#TTT#$tslope#; #  TTT <- $tslope <- initized to 2.0, eventualy will be taken from array which is initized in each iteration
+   print INPUT;    #   write out modified line
+ }
+ #end of creating the scirpt for $ebindir;
+ close (INPUT);
+ close (INPUTTEMPLATE);
+ #end of generating genr8 input
+
+
+
+#-------------------------------------------------------------------------------------------------------------------------
+
+
+
+ #create a farm job for that jobscipt
+ open (JOBTEMPLATE, "$dir/farmjob_template") || die "Can't open farmjob_template $!\n";
+ open (JOB, "> $dir/$newdir/farmjob_$ebin.v$jobversion") || die "Can't open farmjob_$ebin$!`\n";
+
+ while (<JOBTEMPLATE>) {
+   s#XXX#$ebin#;
+   s#DDD#$dir#;
+   s#VVV#$jobversion#;
+   print JOB;
+ }
+ close (JOBTEMPLATE);
+ close (JOB);
+ 
+ #if($sys) {system ("jsub $dir/job/farmjob_$ebin.v$jobversion");}	#when run localy the jsub command will cause an error
+
+ $L=$U;
+}
+
+
+#-------------------------------------------------------------------------------------------------------------------------
+
+
+sub printusage() {
+    print "  Creating mc jobs for $_[0] from ppgen to filter: 
+ [-options]:       
+	-m#         hyperon mass (GeV)
+    	-W#         width of hyperon (GeV) 
+	-B#         upper limit of photon energy (GeV)
+    	-b#         lower limit of photon energy (GeV) 
+    	-s#         photon energy bin size (GeV)
+        -t#         tslope(default 3)
+    	-M#         maximum # of events per mass bin
+        -v<string>         jobversion ( to distinguish ifarmjobs)
+	-w<string>	    full path of work dir
+	-R<string>	    sub dir containing the script templates
+	-I<string>	    genr8 input file template (filename)
+#        -o<string>	    full path of sylo destination for output
+        -d	    for debugging purpose, no submitting of jobs
+        -h          usage
+	\n"   
+}
+

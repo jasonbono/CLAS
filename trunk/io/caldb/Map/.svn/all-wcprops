@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/clas/!svn/ver/1926/trunk/io/caldb/Map
+END
+calib_get_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_get_float.c
+END
+calib_tcl_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_tcl_init.c
+END
+calib_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_put.c
+END
+calib_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1926/trunk/io/caldb/Map/calib_connect.c
+END
+calib_disconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_disconnect.c
+END
+calib_get_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_get_int.c
+END
+calib_stat_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_stat_item.c
+END
+Map_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/Map_wrap.c
+END
+calib_get_char.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_get_char.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/560/trunk/io/caldb/Map/sconstruct
+END
+caldb.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/caldb.html
+END
+calib_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_test.c
+END
+calib_manager_tcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/io/caldb/Map/calib_manager_tcl.h
+END

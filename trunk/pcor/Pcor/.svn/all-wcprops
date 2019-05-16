@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/README.html
+END
+Bfield_ascii.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/Bfield_ascii.dat
+END
+Pcor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/Pcor.cc
+END
+Pcor.cxx.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/Pcor.cxx.html
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/sconstruct
+END
+Pcor.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/Pcor.h
+END
+InitPcor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/InitPcor.cc
+END
+InitPcor.cxx.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/279/trunk/pcor/Pcor/InitPcor.cxx.html
+END

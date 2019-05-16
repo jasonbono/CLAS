@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/2074/trunk/simulation/generators/clasDIS
+END
+accepteg1.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/accepteg1.F
+END
+jetset.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/jetset.F
+END
+dnstrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/dnstrf.F
+END
+lflav.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/lflav.F
+END
+ntupgkoko.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/ntupgkoko.inc
+END
+pepsi423.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/pepsi423.F
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/README
+END
+claslepto.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/claslepto.inc
+END
+akdn.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/akdn.F
+END
+lambda.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/lambda.F
+END
+clasDIS.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/clasDIS.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/2074/trunk/simulation/generators/clasDIS/sconstruct
+END
+getcos.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/getcos.F
+END
+polleptox.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/polleptox.F
+END
+mc22.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/mc22.inc
+END
+names.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/names.inc
+END
+elacc_newnew.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/279/trunk/simulation/generators/clasDIS/elacc_newnew.F
+END

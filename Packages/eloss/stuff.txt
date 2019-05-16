@@ -1,0 +1,26 @@
+alt
+
+  TFile *_file0 = TFile::Open("short_ppm_2.root");un
+  TH2F *A = new TH2F("A","A",1000,56350,57350,120,0.880,1.000);
+  ntp->Draw("wo_p_miss:RUN>>A","","colz");
+  c1->SaveAs("A.C");
+  _file0->Close();
+
+
+
+alt1
+
+  TFile *_file0 = TFile::Open("short_ppm_2.root");
+  TH2F *A1 = new TH2F("A1","A1",1000,56350,57350,120,0.880,1.000);
+  ntp->Draw("temp_p_miss:RUN>>A1","","colz");
+  c1->SaveAs("A1.C");
+  _file0->Close();
+
+
+alt 2
+
+  TFile *_file0 = TFile::Open("short_ppm_2.root");
+  TH2F *A2 = new TH2F("A2","A2",1000,56350,57350,120,-0.060,0.060);
+  ntp->Draw("(temp_p_miss-0.93827):RUN>>A2","","colz");
+  c1->SaveAs("A2.C");
+  _file0->Close();

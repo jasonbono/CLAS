@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/1071/trunk/calibration/sc_calib/p2p_delay_el/physana
+END
+phyana.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/phyana.cxx
+END
+BatchService.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clas/!svn/ver/1071/trunk/calibration/sc_calib/p2p_delay_el/physana/BatchService.cxx
+END
+Make_rule
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/Make_rule
+END
+JEventCount.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/JEventCount.cxx
+END
+RunControl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/RunControl.cxx
+END
+Makefile.old
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/Makefile.old
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clas/!svn/ver/297/trunk/calibration/sc_calib/p2p_delay_el/physana/Makefile
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align
+END
+user_bevt.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_bevt.F
+END
+align_fill.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/align_fill.F
+END
+user_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_init.F
+END
+user_last.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_last.F
+END
+user_control.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_control.inc
+END
+user_tcl_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_tcl_init.F
+END
+user_brun.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_brun.F
+END
+align_book.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/align_book.F
+END
+user_erun.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_erun.F
+END
+user_scaler.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_scaler.F
+END
+user_evnt_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_evnt_c.c
+END
+user_evnt.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_evnt.F
+END
+wirebos.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/wirebos.F
+END
+user_align.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_align.inc
+END
+user_xtra.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_xtra.F
+END
+trk_dtime.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/trk_dtime.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/sconstruct
+END
+user_align.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/user_align.tcl
+END
+hbook_init.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/hbook_init.F
+END
+dcalign_mon.kumac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/dcalign_mon.kumac
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/user_align/Makefile
+END

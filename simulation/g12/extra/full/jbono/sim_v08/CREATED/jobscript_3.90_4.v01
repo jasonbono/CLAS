@@ -1,0 +1,9 @@
+PROJECT         g12
+TRACK:			simulation
+JOBNAME         g12_simulation_3.90_4.v01
+COMMAND         /Users/Bono/clas/simulation/g12/full/jbono/sim_v07/CREATED/generatescript_3.90_4.v01
+INPUT_FILES     /Users/Bono/clas/simulation/g12/full/jbono/sim_v07/CREATED/genr8input_3.90_4.v01
+SINGLE_JOB: true
+DISK_SPACE: 1 GB
+TIME: 60
+MEMORY: 500 MB

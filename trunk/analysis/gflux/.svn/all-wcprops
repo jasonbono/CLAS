@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/3097/trunk/analysis/gflux
+END
+gflux_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/3097/trunk/analysis/gflux/gflux_util.c
+END
+gflux.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3097/trunk/analysis/gflux/gflux.c
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/319/trunk/analysis/gflux/sconstruct
+END
+gflux.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/2552/trunk/analysis/gflux/gflux.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/296/trunk/analysis/gflux/Makefile
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/296/trunk/analysis/gflux/Makefile_alt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/296/trunk/analysis/gflux/README
+END

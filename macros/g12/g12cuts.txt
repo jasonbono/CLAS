@@ -1,0 +1,26 @@
+theese are some basic cuts i found for g12.
+
+
+TCut beam="beam>3.6"
+TCut st="abs(stv-scv)<1"
+TCut tof2="abs(vtime-(sctkp2-sclkp2/(betakp2*29.99)))<1"
+TCut tof1="abs(vtime-(sctkp1-sclkp1/(betakp1*29.99)))<1"
+TCut vcut="abs(vz+90)<21&&(vx^2+vy^2)<8"
+
+TCut mybasic=beam&&st&&tof1&&tof2&&vcut
+
+TCut cas="abs(sqrt(mm2kpkp)-1.32)<0.02"
+TCut lam="abs(sqrt(mm2kpkppim)-1.1162)<0.03"
+
+
+****** TCut ks="abs(mkp1pim-0.892)<0.08"********** ??? not sure need to ask lei
+
+
+
+
+  TCut tof="abs(tofmasskp1-0.494)<0.07&&abs(tofmasskp2-0.494)<0.07"  // this is the mass of the groundstate K+
+
+  TCut casm="abs(mlampim-1.3224)<3*0.004"  //  most events in my hists are highter than 1.322 ??? why?
+
+ TCut ks="abs(mkp1pim-0.892)<0.08"//  ask about the value
+  TCut ks2="abs(mkp2pim-0.892)<0.08" //ask about the value

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/clas/!svn/ver/3347/trunk/io/txtEvent
+END
+txtEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clas/!svn/ver/1047/trunk/io/txtEvent/txtEvent.cc
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3347/trunk/io/txtEvent/sconstruct
+END
+txtEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/3346/trunk/io/txtEvent/txtEvent.h
+END
+bos2txtEvent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1047/trunk/io/txtEvent/bos2txtEvent.cc
+END
+txtEvent2bos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1047/trunk/io/txtEvent/txtEvent2bos.cc
+END
+Makefile_alt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/1047/trunk/io/txtEvent/Makefile_alt
+END

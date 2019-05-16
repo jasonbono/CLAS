@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt
+END
+bcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/bcs.inc
+END
+clas_index.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/clas_index.inc
+END
+EC1nt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/EC1nt.inc
+END
+clas_offsets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/clas_offsets.inc
+END
+ntpl_com.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/ntpl_com.inc
+END
+factors.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/factors.f
+END
+EC1_subr.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/EC1_subr.f
+END
+include.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/include.mk
+END
+ec1_pedstl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/ec1_pedstl.inc
+END
+ec1_calibr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/ec1_calibr.inc
+END
+EC1_nt.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/EC1_nt.f
+END
+get_EVNT.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/get_EVNT.f
+END
+TRKbosfill.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/TRKbosfill.f
+END
+read_cal_cons.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/read_cal_cons.f
+END
+read_event.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/read_event.f
+END
+get_lac_plane.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/get_lac_plane.f
+END
+read_att_len.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/read_att_len.f
+END
+select2pmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/select2pmt.f
+END
+fill_ntpl.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/fill_ntpl.f
+END
+EC1bosFill.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/EC1bosFill.f
+END
+Att_geomCorr.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/Att_geomCorr.f
+END
+ped_subst.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/ped_subst.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/749/trunk/calibration/ec1_calib/ec1_nt/Makefile
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools
+END
+getMeansOfResi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/getMeansOfResi.cc
+END
+alignTheDriftChambers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/alignTheDriftChambers.sh
+END
+lookAtMeansAndWidths.C
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/lookAtMeansAndWidths.C
+END
+run_plotResiVsLayer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/run_plotResiVsLayer.sh
+END
+printDCAlignmentOffsets.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/printDCAlignmentOffsets.sh
+END
+buildBatchJobFileForCooking.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/buildBatchJobFileForCooking.sh
+END
+cleanUpAndPutTogetherAPass.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/cleanUpAndPutTogetherAPass.sh
+END
+run_getMeansOfResi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/run_getMeansOfResi.sh
+END
+plotResiVsLayer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/plotResiVsLayer.cc
+END
+splitUpYourBosFile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/splitUpYourBosFile.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/Makefile
+END
+putInDB.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clas/!svn/ver/754/trunk/calibration/dc_cal/alignmentTools/putInDB.sh
+END

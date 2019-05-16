@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clas/!svn/ver/1407/trunk/reconstruction/eloss
+END
+c_momcor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/c_momcor.c
+END
+momcor.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/momcor.F
+END
+targcell.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/targcell.F
+END
+FROST.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/FROST.F
+END
+upstream.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/upstream.F
+END
+air_gap.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/air_gap.F
+END
+lh2targ.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/lh2targ.F
+END
+divdif.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/divdif.F
+END
+InitEloss.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/InitEloss.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1407/trunk/reconstruction/eloss/README
+END
+targets.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/targets.F
+END
+scat_chamber.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/scat_chamber.F
+END
+ccylinder.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/ccylinder.F
+END
+intersept.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/intersept.F
+END
+loss.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/1397/trunk/reconstruction/eloss/loss.F
+END
+sconstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/sconstruct
+END
+stcounter.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/stcounter.F
+END
+eloss_geom.PAR
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/279/trunk/reconstruction/eloss/eloss_geom.PAR
+END
